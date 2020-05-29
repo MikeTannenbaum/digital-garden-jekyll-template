@@ -6,7 +6,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
 
     notes.each do |current_note|
       notes_linking_to_current_note = notes.filter do |e|
-        e.content.include?(current_note.url)
+        e.content.include?(current_note.title)
       end
 
       current_note.data['backlinks'] = notes_linking_to_current_note

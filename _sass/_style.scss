@@ -11,12 +11,12 @@ body {
   box-sizing: content-box;
   font-family: $font-family;
   margin: 0 auto;
-  line-height: 1.7;
+  line-height: 1.5;
   padding: 4vh 6vw;
   overflow-x: hidden;
   color: $color-text;
   font-size: 1rem;
-  max-width: 63em;
+  max-width: 53em;
 
   @media (min-width: 820px) {
     font-size: 1.2rem;
