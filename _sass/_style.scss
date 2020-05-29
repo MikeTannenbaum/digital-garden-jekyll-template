@@ -1,4 +1,5 @@
-$color-primary: hsl(0, 0%, 10%);
+$color-primary: hsl(165°, 53%, 48%);
+$color-link-hover: hsl(163°, 87%, 72%);
 $color-text: hsl(0, 0%, 20%);
 $color-subtext: hsl(0, 0%, 30%);
 $color-border: hsl(0, 0%, 85%);
@@ -81,7 +82,6 @@ a {
   color: $color-primary;
   &:hover {
     color: black !important;
-    background: #fffaf1;
   }
 }
 

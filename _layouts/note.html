@@ -86,9 +86,9 @@ layout: default
       	{% assign url = internal_url_array[forloop.index0] %}
 
       	{% if url == nil %}
-      		{% assign link_text = '<a style="background-color:#ffffc4;" href="' | append: 'javascript:void(0)' | append: '">' | append: title | append: '</a>' %}
+      		{% assign link_text = '<a style="background-color:#e9e9e9;" href="' | append: 'javascript:void(0)' | append: '">' | append: title | append: '</a>' %}
       	{% elsif url == empty %}
-      		{% assign link_text = '<a style="background-color:#ffffc4;" href="' | append: 'javascript:void(0)' | append: '">' | append: title | append: '</a>' %}
+      		{% assign link_text = '<a style="background-color:#e9e9e9;" href="' | append: 'javascript:void(0)' | append: '">' | append: title | append: '</a>' %}
       	{% else %}
       		{% assign link_text = '<a  href="' | append: url | append: '">' | append: title | append: '</a>' %}
       	{% endif %}
