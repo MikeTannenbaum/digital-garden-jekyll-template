@@ -3,8 +3,8 @@ This is where I think. It’s a bit unusual of a space and it’s not like most 
 
 ### Credits
 Couldn't have built this without the help of others:
-- [You and your mind garden](https://nesslabs.com/mind-garden)
-- [Building wikis and tending to knowledge](https://tomcritchlow.com/blogchains/digital-gardens/)
-- [Why bother?](https://salman.io/posts/why-bother/)
-- [Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)
-- [Extending jekyll markdown syntax using liquid](https://www.raghuveer.net/posts/extending-jekyll-markdown-syntax-using-liquid)
+- [You and your mind garden](https://nesslabs.com/mind-garden) by Anne-Laure Le Cunff
+- [Building wikis and tending to knowledge](https://tomcritchlow.com/blogchains/digital-gardens/) by Tom Critchlow
+- [Why bother?](https://salman.io/posts/why-bother/) By Salman Ansari
+- [Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll) by Maxime Vaillancourt
+- [Extending jekyll markdown syntax using liquid](https://www.raghuveer.net/posts/extending-jekyll-markdown-syntax-using-liquid) by Raghuveer
