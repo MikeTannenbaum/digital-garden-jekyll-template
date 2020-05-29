@@ -11,9 +11,9 @@ The goal is to build a body of work that, over time, compounds on itself, offeri
 
 Note taking allows us to seed initial ideas, tend to them over time, and eventually, harvest the best ideas the moment they turn ripe. It’s this analogy that leads people to build digital gardens for tending and nurturing ideas.
 
-There are good and not-so-good ways to take notes, and I’m in the early stages of researching and designing what works for me. I’ll be capturing what I learn and sharing on a regular basis. It’s important to note that. [[It’s not a writing system, it’s a thinking system whose byproduct is writing]].
+There are good and not-so-good ways to take notes, and I’m in the early stages of researching and designing what works for me. I’ll be capturing what I learn and sharing on a regular basis. It’s important to note that [[It’s not a writing system, it’s a thinking system whose byproduct is writing]].
 
-The best way to take notes that improve over time is to take what Andy Matuschak calls evergreen notes. [[Evergreen notes]] are notes that are written and organized intentionally to evolve and develop over time, ideally with minimal effort that ends up providing maximum returns.
+The best way to take notes that improve over time is to take what Andy Matuschak calls evergreen notes. Evergreen notes are notes that are written and organized intentionally to evolve and develop over time, ideally with minimal effort that ends up providing maximum returns. More to come about how to best take notes.
 
 > Let structure emerge over time. Just take notes and start to connect them. This will lead to new ideas, new organization, and new output.  
 — [Andy Matuschak](https://notes.andymatuschak.org)
