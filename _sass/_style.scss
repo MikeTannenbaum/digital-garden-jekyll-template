@@ -116,3 +116,12 @@ ul {
   padding: 1em;
   border-radius: $border-radius;
 }
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  text-align:center;
+}
