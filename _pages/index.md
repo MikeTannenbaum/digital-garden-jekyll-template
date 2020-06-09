@@ -17,4 +17,4 @@ I believe <a href="writing%20is%20thinking">writing is thinking</a>, and this is
 
 Feel free to explore <a href="What%20has%20my%20attention%20now">what has my attention now</a>, my <a href="web%20of%20thinking">web of thinking</a>, or any of the links that catch your curiosity.
 
-Have something to say? I check [email](mailto:yo@miketannenbaum.com) and [twitter](https://twitter.com/theroyaltbomb) occasionally. Still curious? [My main site](https://miketannenbaum.com) has [essays](https://miketannenbaum.com/writings), [projects](https://miketannenbaum.com/projects), [letters](https://miketannenbaum.com/signup) and more.
+Have something to say? I check [email](mailto:yo@miketannenbaum.com) and [twitter](https://twitter.com/theroyaltbomb) occasionally. Still curious? [My main site](https://miketannenbaum.com) has [essays](https://miketannenbaum.com/writings), [projects](https://miketannenbaum.com/projects), a [newsletter](https://miketannenbaum.com/signup) and more.

@@ -11,4 +11,4 @@ I believe [[Writing is thinking]], and this is my attempt to write and think in 
 
 Feel free to explore [[What has my attention now]], my [[web of thinking]], or any of the links that catch your curiosity.
 
-Have something to say? I check [email](mailto:yo@miketannenbaum.com) and [twitter](https://twitter.com/theroyaltbomb) occasionally. Still curious? [My main site](https://miketannenbaum.com) has [essays](https://miketannenbaum.com/writings), [projects](https://miketannenbaum.com/projects), [letters](https://miketannenbaum.com/signup) and more.
+Have something to say? I check [email](mailto:yo@miketannenbaum.com) and [twitter](https://twitter.com/theroyaltbomb) occasionally. Still curious? [My main site](https://miketannenbaum.com) has [essays](https://miketannenbaum.com/writings), [projects](https://miketannenbaum.com/projects), a [newsletter](https://miketannenbaum.com/signup) and more.
