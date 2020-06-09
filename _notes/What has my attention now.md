@@ -18,7 +18,7 @@ title: What has my attention now
 	* [[these notes are written for myself]]
 * A weekly newsletter of thought progressions
 	* [[Write a weekly newsletter that contains a changelog of the week’s notes]]
-- - - -
+
 ## Writing
 * [[How to take smart notes]]
 - [[Work from home is not a binary]]
@@ -29,7 +29,7 @@ title: What has my attention now
 - [[Share ideas before they’re ready]]
 - [[Start teaching as soon as you understand something]]
 - [[Adulthood is making decisions]]
-- - - -
+
 ## Exploring
 - [[Learning in public]]
 	- [[public evergreen notes build authority and trust]]

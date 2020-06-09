@@ -8,7 +8,3 @@ Bear is the place where a few keystrokes can turn into unimaginable opportunitie
 Networked thinking is a much better representation of how the mind actually works than linear thinking.
 
 Improve your writing is thinking workflow by using a text expander to [[automate what you can]].
-
-- - - -
-## Backlinks
-[[My new system design]]
