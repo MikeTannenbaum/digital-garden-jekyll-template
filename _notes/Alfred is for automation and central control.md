@@ -41,6 +41,3 @@ Always [[automate what you can]]. It frees up your time so your mind can focus o
 `dark / light` = Toggle dark/light mode in MacOS
 
 `spotify` = Control Spotify
-
-- What else can be automated with Alfred?
-- send bear to things and vice versa with all deep links
