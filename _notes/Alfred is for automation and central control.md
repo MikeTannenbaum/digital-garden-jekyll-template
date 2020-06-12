@@ -9,6 +9,9 @@ Always [[automate what you can]]. It frees up your time so your mind can focus o
 `$z` = Zoom URL<br>
 `$u` = Uberconference URL<br>
 `shrug` = ¯\_(ツ)_/¯
+`/r ` = review:
+`/e ` = email:
+`/w ` = write: 
 
 ## Alfred workflow commands
 `bs` = Bear search

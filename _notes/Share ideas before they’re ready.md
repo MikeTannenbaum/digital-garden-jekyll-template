@@ -12,3 +12,4 @@ Since these are [[thoughts in progress]] it’s important to note that these are
 When sharing [[thoughts in progress]], there needs to be an unspoken-yet-mutually-accepted agreement between the reader and writer. Respectful discourse is encouraged but aggression without prior discussion is unwarranted. All words and ideas are subject to change at any time.
 
 One benefit of sharing ideas publicly is the opportunity to collaborate on ideas with people from around the world, which only leads to even more new perspectives to help refine and improve ideas.
+
