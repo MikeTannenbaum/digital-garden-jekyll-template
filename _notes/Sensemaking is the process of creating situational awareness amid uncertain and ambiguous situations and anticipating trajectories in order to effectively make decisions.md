@@ -1,6 +1,6 @@
-- - - -
+---
 title: Sensemaking is the process of creating situational awareness amid uncertain and ambiguous situations and anticipating trajectories in order to effectively make decisions
-- - - -
+---
 Sensemaking helps build connections and understanding between complex ideas, which enables better—and more informed—decision making.
 
 Similarly, [[Wayfinding is the process of orienting within new environments, navigating through space, and progressing towards desired destinations]].
