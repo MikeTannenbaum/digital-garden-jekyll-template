@@ -1,7 +1,7 @@
 ---
 title: Bear plus Jekyll Changelog
 ---
-### 2020-06-12 — New Notes
+### 2020-06-12 — Added commenting + new notes
 * [[Sensemaking and wayfinding are critical skills for thriving in 2020 and beyond]]
 * [[Wayfinding is the process of orienting within new environments, navigating through space, and progressing towards desired destinations]]
 * [[Sensemaking is the process of creating situational awareness amid uncertain and ambiguous situations and anticipating trajectories in order to effectively make decisions]]
