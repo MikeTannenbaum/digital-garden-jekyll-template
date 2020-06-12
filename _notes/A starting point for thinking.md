@@ -7,7 +7,7 @@ You’ve stumbled into my public workspace.
 
 It’s a bit unusual and unlike most sites. This is where I share my thinking, though [[these notes are written for myself]].
 
-I believe [[Writing is thinking]], and this is my attempt to write and think in public. It’s a perpetual work in progress and it continuously evolves along with my ideas.
+I believe [[Writing is thinking]], and this is my attempt to write and think in public. It’s a perpetual work in progress and evolves along with my ideas, most of which fall within these [[Writing themes]].
 
 Feel free to explore [[What has my attention now]], my [[web of thinking]], or any of the links that catch your curiosity.
 
