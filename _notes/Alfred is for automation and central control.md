@@ -8,10 +8,10 @@ Always [[automate what you can]]. It frees up your time so your mind can focus o
 `$wb` = Whereby URL<br>
 `$z` = Zoom URL<br>
 `$u` = Uberconference URL<br>
-`shrug` = ¯\_(ツ)_/¯
-`/r ` = review:
-`/e ` = email:
-`/w ` = write: 
+`shrug` = ¯\_(ツ)_/¯<br>
+`/r ` = review:<br>
+`/e ` = email:<br>
+`/w ` = write: <br>
 
 ## Alfred workflow commands
 `bs` = Bear search
