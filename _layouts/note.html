@@ -101,12 +101,23 @@ layout: default
 
       	{% assign link_text = '<a href="' | append: url | append: '">' | append: title | append: '</a>' %}
 
-
+here
 
       	{% assign bracket_link = link_open_delimiter | append: title | append: external_link_delimiter | append: url | append: link_close_delimiter %}
       	{% assign replaced_content = replaced_content | replace: bracket_link,link_text %}
       {% endfor %}
       {{ replaced_content | markdownify }}
+
+      {% comment %}
+      Commento.io code for privacy-focused comment system
+      {% endcomment %}
+
+      <div id="commento"></div>
+      <script defer
+        src="https://cdn.commento.io/js/commento.js">
+      </script>
+      <div id="commento"></div>
+
     </content>
 
     <side style="font-size: 0.9em">
