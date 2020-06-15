@@ -3,11 +3,11 @@ title: A starting point for thinking
 ---
 Hi, I’m Mike.
 
-You’ve stumbled into my public workspace.
+You’ve stumbled into my public workspace. It’s a bit unusual and unlike most sites.
 
-It’s a bit unusual and unlike most sites. This is where I share my thinking, though [[these notes are written for myself]].
+This is where I share my thinking, though [[these notes are written for myself]]. I believe [[Writing is thinking]], and this is my attempt to write and think in public.
 
-I believe [[Writing is thinking]], and this is my attempt to write and think in public. It’s a perpetual work in progress and evolves along with my ideas, most of which fall within these [[Writing themes]].
+It’s a perpetual work in progress and evolves along with my ideas, most of which fall within these [[Writing themes]]. Ideas and words on this site might be wrong, but that’s kind of the point—to challenge existing beliefs in ways that result in growth as a person. In time, I’ll learn. If you can help me get there faster, please comment or write me a letter anytime.
 
 Feel free to explore [[What has my attention now]], my [[web of thinking]], or any of the links that catch your curiosity.
 

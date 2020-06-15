@@ -9,7 +9,7 @@ title: Writing themes
 * Meaningful Work & Intentional Living
 * Mental Health, Wellbeing, & Uncertainty
 * Better Thinking, Learning, & Writing
-* Change, Uncertainty, & Social Justice
+* Change, Uncertainty, & Inclusivity
 * Being Human
 
 Recent thought explorations can be found in my [[Bear plus Jekyll Changelog]] and [[What has my attention now]].
