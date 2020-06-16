@@ -3,6 +3,16 @@ title: changelog
 ---
 *Tracking the changes across Bear, Jekyll, and this site*
 
+## 2020-06-16 — Black Lives Matter
+- Updated [MTDC](https://miketannenbaum.com) homepage with BLM
+- New notes uploaded
+	- [[Black Lives Matter]]
+	- [[We must confront ourselves. It’s as simple as that]]
+
+## 2020-06-15 — Updated some language
+- Updated homepage language
+- Made changeling more accessible
+
 ### 2020-06-12 — Added commenting + new notes
 * [[Sensemaking and wayfinding are critical skills for thriving in 2020 and beyond]]
 * [[Wayfinding is the process of orienting within new environments, navigating through space, and progressing towards desired destinations]]

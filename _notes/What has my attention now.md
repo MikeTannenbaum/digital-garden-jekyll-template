@@ -4,7 +4,7 @@ title: What has my attention now
 <em>This page focuses on what I’m building, writing, and exploring. The ideas here are actively being tended over time.</em>
 
 ## Building
-* A new learning, knowledge building, idea generating, and note taking system #1-projects/improve-pkm
+* A new learning, knowledge building, idea generating, and note taking system
 	* Just get started taking notes and let structure emerge over time
 	* [[always have something write about]]
 	* [[I want to build ideas and opinions around improving three things:]]
@@ -13,9 +13,9 @@ title: What has my attention now
 		* Finding ways to [[automate what you can]]
 * A [[Digital Mind Garden]]
 	* [[TiddlyWiki Setup]]
-	* [[Bear plus Jekyll Changelog]]
+	* [[Changelog]]
 	* [[these notes are written for myself]]
-* A weekly newsletter of thought progressions #1-projects/new-newsletter
+* A weekly newsletter of thought progressions
 	* [[Write a weekly newsletter that contains a changelog of the week’s notes]]
 - - - -
 ## Writing
@@ -32,6 +32,8 @@ title: What has my attention now
 - [[Adulthood is making decisions]]
 - - - -
 ## Exploring
+- [[Black Lives Matter]]
+	- Learning how to evolve from “person who continuously learns and supports others” to “actively antiracist.”
 - [[Learning in public]]
 	- [[public notes build authority and trust]]
 * [[Sensemaking and wayfinding are critical skills for thriving in 2020 and beyond]]

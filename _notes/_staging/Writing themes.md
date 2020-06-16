@@ -11,5 +11,6 @@ title: Writing themes
 * Better Thinking, Learning, & Writing
 * Change, Uncertainty, & Inclusivity
 * Being Human
+* [[Black Lives Matter]]
 
-Recent thought explorations can be found in my [[changelog]] and [[What has my attention now]].
+Recent thought explorations can be found in my [[Changelog]] and [[What has my attention now]].
