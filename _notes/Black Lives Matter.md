@@ -6,8 +6,7 @@ title: Black Lives Matter
 But first, [[We must confront ourselves. It’s as simple as that]].
 
 <blockquote class="quoteback" data-title="Ally or Accomplice? The Language of Activism" data-author="@tolerance_org" cite="https://www.tolerance.org">
-<blockquote><p>An ally will mostly engage in activism by standing with an individual or group in a marginalized community. An accomplice will focus more on dismantling the structures that oppress that individual or group—and such work will be directed by the stakeholders in the marginalized group.</p>
-</blockquote>
+An ally will mostly engage in activism by standing with an individual or group in a marginalized community. An accomplice will focus more on dismantling the structures that oppress that individual or group—and such work will be directed by the stakeholders in the marginalized group.
 <footer>@tolerance_org<cite><a href="https://www.tolerance.org">https://www.tolerance.org</a></cite></footer>
 </blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
