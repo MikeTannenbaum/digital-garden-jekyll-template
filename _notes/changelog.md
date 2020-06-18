@@ -3,6 +3,9 @@ title: changelog
 ---
 *Tracking the changes across Bear, Jekyll, and this site*
 
+## 2020-06-18 — Fixed URLs
+- Made permalinks more accessible with hypens instead of spaces
+
 ## 2020-06-16 — Black Lives Matter
 - Updated [MTDC](https://miketannenbaum.com) homepage with BLM
 - New notes uploaded
