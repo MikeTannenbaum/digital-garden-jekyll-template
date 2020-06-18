@@ -14,13 +14,13 @@ Always [[automate what you can]]. It frees up your time so your mind can focus o
 `/w ` = write: <br>
 
 ## Alfred workflow commands
-`bs` = Bear search
-`bn` = Bear note
-`bst` = Bear search tags
+`bs` = Bear search<br>
+`bn` = Bear note<br>
+`bst` = Bear search tags<br>
 
-`ens` = Evernote note search
-`ent` = Evernote note title search
-`enn` = Evernote new note
+`ens` = Evernote note search<br>
+`ent` = Evernote note title search<br>
+`enn` = Evernote new note<br>
 
 `th` = Things commands
 
