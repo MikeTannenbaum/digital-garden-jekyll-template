@@ -7,6 +7,7 @@ title: changelog
 - Made permalinks more accessible with hypens instead of spaces
 - Added link to substack subscription in footer
 - Added refinedmind.co
+- Added a new logo!
 - Updated [[What has my attention now]]
 - New notes uploaded
 	- [[The land of the free is such a lie]]
