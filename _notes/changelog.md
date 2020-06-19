@@ -1,11 +1,22 @@
 ---
 title: changelog
 ---
-*Tracking the changes across Bear, Jekyll, and this site*
+*Tracking the changes across this site, which is powered by Bear + Jekyll*
 
 ## 2020-06-18 — Fixed URLs + newsletter subscription
 - Made permalinks more accessible with hypens instead of spaces
 - Added link to substack subscription in footer
+- Added refinedmind.co
+- Updated [[What has my attention now]]
+- New notes uploaded
+	- [[The land of the free is such a lie]]
+	- [[America]]
+	- [[Finding topics to write about is most effective when a body of notes already exists and all we have to do is look at where there is density and cluster of notes]]
+	- [[automate what you can]]
+	- [[Ideas improve by writing about them, not by thinking about them]]
+	- [[web of thinking]]
+	- [[Share ideas before they’re ready]]
+	- [[public notes build authority and trust]]
 
 ## 2020-06-16 — Black Lives Matter
 - Updated [MTDC](https://miketannenbaum.com) homepage with BLM
@@ -17,7 +28,7 @@ title: changelog
 - Updated homepage language
 - Made changeling more accessible
 
-### 2020-06-12 — Added commenting + new notes
+## 2020-06-12 — Added commenting + new notes
 * [[Sensemaking and wayfinding are critical skills for thriving in 2020 and beyond]]
 * [[Wayfinding is the process of orienting within new environments, navigating through space, and progressing towards desired destinations]]
 * [[Sensemaking is the process of creating situational awareness amid uncertain and ambiguous situations and anticipating trajectories in order to effectively make decisions]]

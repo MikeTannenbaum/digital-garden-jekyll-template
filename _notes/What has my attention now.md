@@ -1,10 +1,10 @@
 ---
 title: What has my attention now
 ---
-<em>This page focuses on what I’m building, writing, and exploring. The ideas here are actively being tended over time.</em>
+> This page focuses on what I’m building, writing, and exploring. The ideas here are actively being tended over time.  
 
 ## Building
-* A new learning, knowledge building, idea generating, and note taking system
+* A new learning, knowledge building, idea generating, and note taking system #1-projects/improve-pkm
 	* Just get started taking notes and let structure emerge over time
 	* [[always have something write about]]
 	* [[I want to build ideas and opinions around improving three things:]]
@@ -13,27 +13,28 @@ title: What has my attention now
 		* Finding ways to [[automate what you can]]
 * A [[Digital Mind Garden]]
 	* [[TiddlyWiki Setup]]
-	* [[Changelog]]
+	* [[changelog]]
 	* [[these notes are written for myself]]
-* A weekly newsletter of thought progressions
+* A weekly newsletter of thought progressions #1-projects/new-newsletter
 	* [[Write a weekly newsletter that contains a changelog of the week’s notes]]
+	* https://refinedmind.co/subscribe
 - - - -
 ## Writing
 * » » »  [[Writing themes]]
 * [[How to take smart notes]]
-* [[Sensemaking and wayfinding are critical skills for thriving in 2020 and beyond]]
+* [[America]]
 - [[Work from home is not a binary]]
 - [[How this creative team rapidly transitioned to distributed work]]
 - [[Teach what you learn]]
 - [[public notes build authority and trust]]
 - [[I preach but I don’t practice. It’s time to build the practice.]]
-- [[thoughts in progress]]
 - [[Start teaching as soon as you understand something]]
 - [[Adulthood is making decisions]]
 - - - -
 ## Exploring
 - [[Black Lives Matter]]
 	- Learning how to evolve from “person who continuously learns and supports others” to “actively antiracist.”
+	- [[America]]
 - [[Learning in public]]
 	- [[public notes build authority and trust]]
 * [[Sensemaking and wayfinding are critical skills for thriving in 2020 and beyond]]
