@@ -3,7 +3,7 @@ title: A starting point for thinking
 ---
 Hi, I’m Mike.
 
-You’ve stumbled into my public workspace. I call it The Refined Mind. It’s a bit unusual and unlike most sites.
+You’ve stumbled into my public workspace. It’s a bit unusual and unlike most sites.
 
 This is where I share my thinking, though [[these notes are written for myself]]. I believe [[Writing is thinking]], and this is my attempt to write and think in public.
 
