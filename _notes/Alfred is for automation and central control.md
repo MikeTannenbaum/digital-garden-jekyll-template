@@ -14,30 +14,35 @@ Always [[automate what you can]]. It frees up your time so your mind can focus o
 `/w ` = write: <br>
 
 ## Alfred workflow commands
-`bs` = Bear search<br>
+`bs` = Bear search [[source](https://github.com/drgrib/alfred-bear)]<br>
 `bn` = Bear note<br>
-`bst` = Bear search tags<br>
+`bs #` = Bear search tags<br>
+`bs @` = Bear search today, untagged, files, etc<br>
 
-`ens` = Evernote note search<br>
+`ens` = Evernote note search [[source](http://www.packal.org/workflow/evernote)]<br>
 `ent` = Evernote note title search<br>
 `enn` = Evernote new note<br>
 
-`th` = Things commands
+`d` = Search DuckDuckGo [[source](https://github.com/lorenzschmid/alfred-ddgnext)]
 
-`idt` = I Done This entries
+`th` = Things commands [[source](https://github.com/xilopaint/alfred-things)]
 
-`dnd` = Toggle Do Not Disturb
+`idt` = I Done This entries [[source](https://github.com/chadhs/idonethis-for-alfred)]
 
-`cur` = Currency exchange
+`dnd` = Toggle Do Not Disturb [[source](https://github.com/vitorgalvao/alfred-workflows/tree/master/CalmNotifications)]
 
-`lc [URL]` = Link clean (remove UTM, etc)
+`cur` = Currency exchange [[source](https://github.com/daninfpj/currency-exchange)]
 
-`tgl` = Operate Toggl timers
+`lc [URL]` = Link clean (remove UTM, etc) [[source](https://github.com/vitorgalvao/alfred-workflows/tree/master/LinkClean)]
 
-`uss` = Unicode symbol search
+`tgl` = Operate Toggl timers [[source](https://github.com/jason0x43/alfred-toggl)]
 
-`airpods` = Connect/disconnect AirPods
+`uss` = Unicode symbol search [[source](https://github.com/bevesce/unicode-symbols-search)]
 
-`dark / light` = Toggle dark/light mode in MacOS
+`airpods` = Quickly connect/disconnect AirPods [[source](https://github.com/mariuskiessling/alfred-airpods-connector)]
 
-`spotify` = Control Spotify
+`dark / light` = Toggle dark/light mode in MacOS [[source](https://github.com/MikoMagni/macOS-Mojave-Dark-Mode-Workflow-for-Alfred)]
+
+`spotify` = Control Spotify [[source](https://github.com/vdesabou/alfred-spotify-mini-player)]
+
+`giphy` = Search giphy [[source](https://github.com/kejadlen/giphy.alfredworkflow)]
