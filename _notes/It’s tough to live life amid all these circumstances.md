@@ -1,16 +1,16 @@
 ---
 title: It’s tough to live life amid all these circumstances
 ---
-Fear
-Isolation
-Chaos
-Injustice
-Pandemic
-Death
-Pain
-Suffering
-Rage
-Strength
+Fear<br>
+Isolation<br>
+Chaos<br>
+Injustice<br>
+Pandemic<br>
+Death<br>
+Pain<br>
+Suffering<br>
+Rage<br>
+Strength<br>
 
 There’s so much going on at once, these moments must never be forgotten. Stories will be told of what it was like to live in The United States of [[America]] through the 2020s. A new decade indeed, just like everyone said it would be.
 
