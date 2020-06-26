@@ -3,6 +3,13 @@ title: changelog
 ---
 *Tracking the changes across this site, which is powered by Bear + Jekyll*
 
+## 2020-06-26 — New + updated notes
+- [[It’s tough to live life amid all these circumstances]]
+- [[Friday is for closing loops, weekly reviews, and funky tunes]]
+- Cleaned up and reorganized [[What has my attention now]]
+- [[It feels like there’s a new internet being built with the principle of the early days—sharing and connecting knowledge—but with the wisdom of today, accumulated over decades of improving technology’s capabilities]]
+- Added links to workflows on [[Alfred is for automation and central control]]
+
 ## 2020-06-18 — Fixed URLs + newsletter subscription
 - Made permalinks more accessible with hypens instead of spaces
 - Added link to substack subscription in footer
