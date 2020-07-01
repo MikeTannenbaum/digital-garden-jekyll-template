@@ -2,6 +2,19 @@
 title: changelog
 ---
 *Tracking the changes across this site, which is powered by Bear + Jekyll*
+<hr>
+## 2020-07-01 — Tidying + evolving notes
+- Added a prompt to encourage commenting at the bottom of each note
+- Added example newsletter ([issue #1](https://refinedmind.substack.com/p/01-welcome-to-the-refined-mind)) to /subscribe
+- New Notes
+	- [[The Great Reset]]
+	- [[Digital Mind Garden]]
+	- [[Learning in public]]
+	- [[Every time you tend to an idea you create an opportunity to share original work with others]]
+	- [[Finding topics to write about is most effective when a body of notes already exists and all we have to do is look at where there is density of notes]]
+- Updated Notes
+	- [[public notes build authority and trust]]
+	- [[web of thinking]]
 
 ## 2020-06-26 — New + updated notes
 - [[It’s tough to live life amid all these circumstances]]
@@ -19,7 +32,7 @@ title: changelog
 - New notes uploaded
 	- [[The land of the free is such a lie]]
 	- [[America]]
-	- [[Finding topics to write about is most effective when a body of notes already exists and all we have to do is look at where there is density and cluster of notes]]
+	- [[Finding topics to write about is most effective when a body of notes already exists and all we have to do is look at where there is density of notes]]
 	- [[automate what you can]]
 	- [[Ideas improve by writing about them not by thinking about them]]
 	- [[web of thinking]]
