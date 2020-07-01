@@ -18,7 +18,7 @@ When everything is thrown out of whack, what used to be weird and absurd suddenl
 
 As the world and our culture experiences a massive shift in norms, some of us are fortunate to be able to let go of what’s holding us down and move forward towards the reality we truly want to live in.
 
-Many offs have been given the opportunity to reevaluate what we value and prioritize in life—which also presents the opportunity to get out there and make changes.
+Many of us have been given the opportunity to reevaluate what we value and prioritize in life—which also presents the opportunity to get out there and make changes.
 
 Combined with the uprising of [[Black Lives Matter]] and the pushback against police brutality, corrupt government institutions, and broken social welfare systems, we’re each being presented with the opportunity to recalibrate our interests, passions, and efforts to be more in line with who we want to be and what work we want to do.
 
