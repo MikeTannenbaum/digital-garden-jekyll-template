@@ -1,8 +1,9 @@
----
-title: changelog
----
+# changelog
 *Tracking the changes across this site, which is powered by Bear + Jekyll*
-<hr>
+- - - -
+## 2020-09-21 — Getting back into things
+- Updated copy on the homepage
+
 ## 2020-07-01 — Tidying + evolving notes
 - Added a prompt to encourage commenting at the bottom of each note
 - Added example newsletter ([issue #1](https://refinedmind.substack.com/p/01-welcome-to-the-refined-mind)) to /subscribe
@@ -32,7 +33,6 @@ title: changelog
 - New notes uploaded
 	- [[The land of the free is such a lie]]
 	- [[America]]
-	- [[Finding topics to write about is most effective when a body of notes already exists and all we have to do is look at where there is density of notes]]
 	- [[automate what you can]]
 	- [[Ideas improve by writing about them not by thinking about them]]
 	- [[web of thinking]]
