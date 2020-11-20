@@ -1,6 +1,22 @@
-# changelog
+---
+title: changelog
+---
 *Tracking the changes across this site, which is powered by Bear + Jekyll*
 - - - -
+## 2020-11-20 — A few note updates
+- Added:
+	- [[I’m looking for new, meaningful projects in 2021]]
+	- [[Drafts is for immediate note capture and works in progress]]
+	- [[The ability to jump from sentence to sentence, idea to idea, changes the way the mind works]]
+	- [[Am I the 'mediocre white man' they so often speak about?]]
+	- [[We have barely begun to see the effects of the fallout from this pandemic]]
+- Updated:
+	- [[Bear is for networked thinking]]
+	- [[My new system design]]
+	- [[Writing is thinking]]
+	- [[We must confront ourselves. It’s as simple as that]]
+	- [[The Great Reset]]
+
 ## 2020-09-21 — Getting back into things
 - Updated copy on the homepage
 

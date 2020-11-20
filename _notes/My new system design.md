@@ -1,6 +1,7 @@
 ---
 title: My new system design
 ---
+
 Ever since I was a kid I’ve had a fascination with systems, networks, and automation. When I was in my 10’s I bought all the hardware and software I could afford and spent my time putting them together in ways that would solve whatever problem I was facing at that time.
 
 Fast forward to present day and I’m still a systems nerd perpetually iterating on my personal systems for writing, working, and managing digital data.
@@ -14,7 +15,7 @@ OK ok, I added one. But that’s because it’s an incredible tool with so much 
 ## Here’s what I’m working with right now
 While a big part of this system is to facilitate writing, it’s important to remember that [[It’s not a writing system, it’s a thinking system whose byproduct is writing]].
 
-* Drafts is for immediate note capture.
+* [[Drafts is for immediate note capture and works in progress]]
 * [[Bear is for networked thinking]].
 * Ulysses is for longer form writing.
 * Day One is for journals and notebooks.
