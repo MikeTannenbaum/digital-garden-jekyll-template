@@ -5,7 +5,7 @@ title: changelog
 - - - -
 ## 2020-11-20 — A few note updates
 - Added:
-	- [[I’m looking for new, meaningful projects in 2021]]
+	- [[I am looking for new and meaningful projects in 2021]]
 	- [[Drafts is for immediate note capture and works in progress]]
 	- [[The ability to jump from sentence to sentence, idea to idea, changes the way the mind works]]
 	- [[Am I the 'mediocre white man' they so often speak about?]]

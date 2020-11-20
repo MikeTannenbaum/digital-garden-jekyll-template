@@ -1,5 +1,5 @@
 ---
-title: I'm looking for new, meaningful projects in 2021
+title: I am looking for new and meaningful projects in 2021
 ---
 
 I’m at a point in life where I’m looking for more meaningful and impactful projects to work on and orgs/missions to contribute to.
