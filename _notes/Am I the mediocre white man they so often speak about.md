@@ -1,5 +1,5 @@
 ---
-title: Am I the mediocre white man they so often speak about
+title: Am I the 'mediocre white man' they so often speak about?
 ---
 
 Am I the 'mediocre white man' they so often speak about?
