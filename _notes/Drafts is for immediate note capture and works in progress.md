@@ -1,6 +1,8 @@
 ---
 title: Drafts is for immediate note capture and works in progress
 ---
+*This note is part of a small series highlighting [[My new system design]].*
+
 Drafts is the *only* app ever opened on mobile when an idea pops up.
 
 Instead of thinking “where do I want to put this note?—email, twitter, reminders, etc—the only concern is immediately capturing the thought. Once words are on the digital page, *then* a note can be processed.

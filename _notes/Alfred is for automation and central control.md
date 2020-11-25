@@ -1,6 +1,8 @@
 ---
 title: Alfred is for automation and central control
 ---
+*This note is part of a small series highlighting [[My new system design]].*
+
 Always [[automate what you can]]. It frees up your time so your mind can focus on what matters.
 
 ## Text expansion
