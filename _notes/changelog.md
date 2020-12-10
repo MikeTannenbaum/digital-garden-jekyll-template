@@ -3,6 +3,9 @@ title: changelog
 ---
 *Tracking the changes across this site, which is powered by Bear + Jekyll*
 - - - -
+## 2020-12-09 — New writing
+- Added [[Tinkering with Roam Research]]
+
 ## 2020-11-20 — A few note updates
 - Added:
 	- [[I am looking for new and meaningful projects in 2021]]
