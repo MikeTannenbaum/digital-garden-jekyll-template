@@ -1,7 +1,7 @@
 ---
 title: Learning in public
 ---
-Writing, learning, and working in public creates opportunity and connection. Additionally, [[public notes build authority and trust]].
+Writing, learning, and working in public creates new opportunities while facilitating quick feedback loops and building community. Additionally, [[public notes build authority and trust]].
 
 By publishing your incremental learnings and idea evolutions you invite people to explore your [[web of thinking]].
 

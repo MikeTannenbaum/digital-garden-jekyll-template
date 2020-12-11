@@ -3,8 +3,20 @@ title: changelog
 ---
 *Tracking the changes across this site, which is powered by Bear + Jekyll*
 - - - -
+## 2020-12-11 — Toolkit
+- Added
+	- [[A knowledge worker’s toolkit needs to be well rounded like a carpenter’s]]
+- Updated
+	- [[Learning in public]]
+	- [[My new system design]]
+
 ## 2020-12-09 — New writing
-- Added [[Tinkering with Roam Research]]
+- Added
+	- [[Tinkering with Roam Research]]
+- Updated
+	- [[My new system design]]
+	- [[Every time you tend to an idea you create an opportunity to share original work with others]]
+	- [[web of thinking]]
 
 ## 2020-11-20 — A few note updates
 - Added:
@@ -34,7 +46,7 @@ title: changelog
 	- [[Finding topics to write about is most effective when a body of notes already exists and all we have to do is look at where there is density of notes]]
 - Updated Notes
 	- [[public notes build authority and trust]]
-	- [[web of thinking]]
+	- [[web of thinking]][]()
 
 ## 2020-06-26 — New + updated notes
 - [[It’s tough to live life amid all these circumstances]]
