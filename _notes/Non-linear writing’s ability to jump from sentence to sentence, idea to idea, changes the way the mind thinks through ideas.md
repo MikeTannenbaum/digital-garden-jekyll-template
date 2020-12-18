@@ -1,5 +1,5 @@
 ---
-title: Non-linear writing’s ability to jump from sentence to sentence, idea to idea, changes the way the mind thinks through ideas.
+title: Non-linear writing’s ability to jump from sentence to sentence, idea to idea, changes the way the mind thinks through ideas
 ---
 Writing is typically a linear process. When capturing an idea one writes it down from start to finish. On pen and paper you fill the page this way.
 
