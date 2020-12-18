@@ -25,6 +25,8 @@ Just like the soil on a farm, your [[digital ecosystem]] can either be healthy a
 Systems are a critical part of knowledge work but most people rarely, if ever, think about the systems they use let alone put in the time and effort to design better ones.
 
 Do you feel comfortable tending to your digital ecosystem?
+
+Perhaps you might like to explore my thoughts on [[Why I like Roam over Bear when it comes to improving my thinking (even though Bear is my favorite app)]].
 - - - -
 ## Related
 [Digital Tools I Wish Existed — Jon Borichevskiy](https://jon.bo/posts/digital-tools/)

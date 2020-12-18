@@ -32,3 +32,5 @@ Each app serves a discrete and distinguishing purpose within the flow.
 [[Bidirectional links between apps would greatly improve interoperability of concepts and ideas]]. After all, [[A knowledge worker’s toolkit needs to be well rounded like a carpenter’s]].
 - - - -
 Lately I’ve been [[Tinkering with Roam Research]] and am finding that it might actually end up replacing almost the whole stack above. Too early to commit as I’m just getting myself up and running, but the potential I feel from only a few days of use is unreal.
+
+UPDATE: After a few weeks of tinkering, I wrote up some thoughts on [[Why I like Roam over Bear when it comes to improving my thinking (even though Bear is my favorite app)]]

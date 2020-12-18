@@ -7,8 +7,8 @@ title: It’s not a writing system, it’s a thinking system whose byproduct is 
 
 Some of the most innovative and beloved products started as the byproduct of another creation.
 
-In the case of a thinking system, that byproduct is writing, much of which is revisited and tended to regularly.
+In the case of a thinking system, that byproduct is writing, much of which is revisited and tended to regularly. Which is [[Why I like Roam over Bear when it comes to improving my thinking (even though Bear is my favorite app)]].
 
-[[Every time you tend to an idea you create an opportunity to share original work with others]]. You also advance your ideas and improve how you articulate your original thoughts.
+[[Every time you tend to an idea you create an opportunity to share original work with others]].  You also advance your ideas and improve how you articulate your original thoughts.
 
 [[Share ideas before they’re ready]].
