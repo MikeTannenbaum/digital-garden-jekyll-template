@@ -5,14 +5,17 @@ title: Why I like Roam over Bear when it comes to improving my thinking (even th
 
 While I’ve been using Bear for note taking and writing for years—and even wrote about how [[Bear is for networked thinking]]—there’s something about diving deeper into exploring “networked thought” that really calls to me. While Bear has the ability to cross-link individual notes, Roam goes so much deeper and thus makes the ability to build upon and improve ideas that much easier.
 
-### Here are some recent thoughts of mine after immersing myself in Roam for a few weeks.
-	* Roam shows you, on a single page, all the possible connections to the concept you’re currently thinking about.
-		* Whether you thought to link content together or it never crossed your mind, if there is a mention of keywords, that content will be resurfaced for your consideration. That’s powerful.
-	* Roam makes it easy to manage what you’re looking at by providing toggle dropdowns to expand and collapse content.
-		* While Bear is definitely a less distracting writing environment, **Roam’s toggle dropdowns make dismissing irrelevant content a breeze**, which might be a more valuable feature. This really helps focus.
-	* ::The value of Roam is its automatic bi-directional note linking and block-level embedding. The value of Bear is its beauty, privacy, and mobile app.::
-	* In Bear, a wiki link takes you to a page that includes whatever you write in that note. In Roam, a wiki link takes you to a page that references every mention of that phrase across every word in the system.
-		* **Roam lets you see relationships between notes that previously went undetected, which sparks the human mind to make new connections and boost creativity. That’s powerful.**
+## Here are some recent thoughts of mine after immersing myself in Roam for a few weeks.
+#### 1. Roam shows you, on a single page, all the possible connections to the concept you’re currently thinking about.
+* Whether you thought to link content together or it never crossed your mind, if there is a mention of keywords, that content will be resurfaced for your consideration. That’s powerful.
+
+#### 2. Roam makes it easy to manage what you’re looking at by providing toggle dropdowns to expand and collapse content.
+* While Bear is definitely a less distracting writing environment, **Roam’s toggle dropdowns make dismissing irrelevant content a breeze**, which might be a more valuable feature. This really helps focus.
+
+#### 3. The value of Roam is its automatic bi-directional note linking and block-level embedding. The value of Bear is its beauty, privacy, and mobile app.
+
+#### 4. In Bear, a wiki link takes you to a page that includes whatever you write in that note. In Roam, a wiki link takes you to a page that references every mention of that phrase across every word in the system.
+* **Roam lets you see relationships between notes that previously went undetected, which sparks the human mind to make new connections and boost creativity. That’s powerful.**
 
 With all that being said, I’m wondering if it is a disservice to use both Roam and Bear at the same time with similar levels of activity.  I truly love Bear, but I don’t know if they can co-exist in the same system, as that reduces the value that comes from [[networked thinking]].
 
