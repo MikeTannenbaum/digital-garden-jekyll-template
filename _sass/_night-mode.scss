@@ -1,0 +1,46 @@
+$night-mode-bg: #121212;
+$night-mode-fg: #ffffffe6;
+
+body.night-mode {
+  background-color: $night-mode-bg;
+  color: $night-mode-fg;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: $night-mode-fg;
+  }
+
+  .masthead,
+  .post,
+  hr {
+    border-color: hsla(0, 100%, 100%, 0.15);
+  }
+
+  $link-color: rgb(218, 202, 136);
+  .entry a,
+  a.read-more {
+    color: $link-color;
+  }
+
+  a:hover {
+    color: lighten($link-color, 15);
+  }
+
+  .wrapper-footer {
+    background-color: $night-mode-bg;
+  }
+
+  .highlight {
+    background-color: #202020;
+    border: 1px solid #000;
+  }
+
+  nav a,
+  .site-description {
+    color: #ccc;
+  }
+}

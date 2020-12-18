@@ -3,6 +3,13 @@ title: changelog
 ---
 *Tracking the changes across this site, which is powered by Bear + Jekyll*
 - - - -
+## 2020-12-18 — Roam Research edition
+- Added
+	- [[Why I like Roam over Bear when it comes to improving my thinking (even though Bear is my favorite app)]]
+- Updated
+	- [[Bear is for networked thinking]]
+	- [[What has my attention now]]
+
 ## 2020-12-11 — Toolkit
 - Added
 	- [[A knowledge worker’s toolkit needs to be well rounded like a carpenter’s]]
@@ -23,7 +30,7 @@ title: changelog
 	- [[I am looking for new and meaningful projects in 2021]]
 	- [[Drafts is for immediate note capture and works in progress]]
 	- [[Non-linear writing’s ability to jump from sentence to sentence, idea to idea, changes the way the mind thinks through ideas]]
-	- [[Am I the mediocre white man they so often speak about]]?
+	- [[Am I the 'mediocre white man' they so often speak about?]]
 	- [[We have barely begun to see the effects of the fallout from this pandemic]]
 - Updated:
 	- [[Bear is for networked thinking]]
@@ -46,7 +53,7 @@ title: changelog
 	- [[Finding topics to write about is most effective when a body of notes already exists and all we have to do is look at where there is density of notes]]
 - Updated Notes
 	- [[public notes build authority and trust]]
-	- [[web of thinking]][]()
+	- [[web of thinking]]
 
 ## 2020-06-26 — New + updated notes
 - [[It’s tough to live life amid all these circumstances]]

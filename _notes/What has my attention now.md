@@ -1,7 +1,6 @@
 ---
 title: What has my attention now
 ---
-
 > This page focuses on what I’m building, writing, and exploring. The ideas here are actively being tended over time.  
 
 ## Building
@@ -21,7 +20,7 @@ title: What has my attention now
 - - - -
 ## Writing
 * » » »  [[Writing themes]]
-* [[Am I the mediocre white man they so often speak about]]?
+* [[Am I the 'mediocre white man' they so often speak about?]]
 * [[We have barely begun to see the effects of the fallout from this pandemic]]
 * [[How to take smart notes]]
 * [[America]]
@@ -34,19 +33,21 @@ title: What has my attention now
 - [[Adulthood is making decisions]]
 * [[create a market for yourself]]
 * [[Learning in public]]
+* [[A knowledge worker’s toolkit needs to be well rounded like a carpenter’s]]
+* [[Why I like Roam over Bear when it comes to improving my thinking (even though Bear is my favorite app)]]
 - - - -
 ## Exploring
-- [[I’m looking for new, meaningful projects in 2021]]
+- [[I am looking for new and meaningful projects in 2021]]
 - [[Learning in public]]
 	- [[public notes build authority and trust]]
 	- [[It feels like there’s a new internet being built with the principle of the early days—sharing and connecting knowledge—but with the wisdom of today, accumulated over decades of improving technology’s capabilities]]
 * [[Sensemaking and wayfinding are critical skills for thriving in 2020 and beyond]]
 	* These skills help independent professionals
-	* #1-projects/2021-relaunch
 * [[The Great Reset]]. The Great Pause. The Ultimate Weird. The Reboot.
 - How to build a body of work over time
 	- [[Building A Body Of Work]]
-	- [[The ability to jump from sentence to sentence, idea to idea, changes the way the mind works]]
+	- [[Non-linear writing’s ability to jump from sentence to sentence, idea to idea, changes the way the mind thinks through ideas]]
+	- [[A knowledge worker’s toolkit needs to be well rounded like a carpenter’s]]
 - What the changes post-covid mean for independent professionals
 - Who could use help adapting to our new reality and what helps the most?
 	- Building capacity: distributed work, collaboration, way finding, mental wellbeing
