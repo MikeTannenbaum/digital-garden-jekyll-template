@@ -9,6 +9,11 @@ title: changelog
 - Updated
 	- [[Bear is for networked thinking]]
 	- [[What has my attention now]]
+	- [[It’s not a writing system, it’s a thinking system whose byproduct is writing]]
+	- [[Non-linear writing’s ability to jump from sentence to sentence, idea to idea, changes the way the mind thinks through ideas]]
+	- [[web of thinking]]
+	- [[My new system design]]
+	- [[A knowledge worker’s toolkit needs to be well rounded like a carpenter’s]]
 
 ## 2020-12-11 — Toolkit
 - Added
