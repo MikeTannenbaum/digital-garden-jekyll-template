@@ -1,5 +1,5 @@
 ---
-title: learn in public
+title: Learn in public
 ---
 Writing, learning, and working in public creates new opportunities while facilitating quick feedback loops and building community. Additionally, [[public notes build authority and trust]].
 

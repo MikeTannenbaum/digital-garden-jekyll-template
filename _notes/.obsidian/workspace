@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Digital Mind Garden.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,11 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Digital Mind Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -78,8 +82,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 241
   },
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Digital Mind Garden.md",
+    "_staging/Digital Mind Garden.md",
+    "A knowledge workers toolkit needs to be well rounded like a carpenters.md",
+    "Why I like Roam over Bear when it comes to improving my thinking (even though Bear is my favorite app).md",
+    "What has my attention now.md",
+    "Writing themes.md",
+    "A starting point for thinking.md"
+  ]
 }

@@ -1,7 +1,7 @@
 ---
 title: web of thinking
 ---
-Showing people what you think about, how you evolve your ideas, and how they all connect with one another is a great way to show how you’re [[Building A Body Of Work]].
+Showing people what you think about, how you evolve your ideas, and how they all connect with one another is a great way to [[build a body of work]].
 
 Thinking isn’t linear and neither is your body of work.
 

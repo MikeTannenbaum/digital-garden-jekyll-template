@@ -3,6 +3,21 @@ title: changelog
 ---
 *Tracking the changes across this site, which is powered by Bear + Jekyll*
 - - - -
+## 2020-12-23 — Refine ideas, stack bricks, note updates
+- Added
+	- [[Take notes in your own words while reading, watching, and thinking]]
+	- [[refine your ideas over time]]
+	- [[stack the bricks]]
+	- [[build a body of work]]
+- Updated
+	- [[How to take smart notes]]
+	- [[Share ideas before they’re ready]]
+	- [[Ideas improve by writing about them not by thinking about them]]
+	- [[Learn in public]]
+	- [[Digital Mind Garden]]
+	- [[always have something to write about]]
+	- [[Every time you tend to an idea you create an opportunity to share original work with others]]
+
 ## 2020-12-18 — Roam Research edition
 - Added
 	- [[Why I like Roam over Bear when it comes to improving my thinking (even though Bear is my favorite app)]]
@@ -19,7 +34,7 @@ title: changelog
 - Added
 	- [[A knowledge worker’s toolkit needs to be well rounded like a carpenter’s]]
 - Updated
-	- [[Learning in public]]
+	- [[Learn in public]]
 	- [[My new system design]]
 
 ## 2020-12-09 — New writing
@@ -53,7 +68,7 @@ title: changelog
 - New Notes
 	- [[The Great Reset]]
 	- [[Digital Mind Garden]]
-	- [[Learning in public]]
+	- [[Learn in public]]
 	- [[Every time you tend to an idea you create an opportunity to share original work with others]]
 	- [[Finding topics to write about is most effective when a body of notes already exists and all we have to do is look at where there is density of notes]]
 - Updated Notes

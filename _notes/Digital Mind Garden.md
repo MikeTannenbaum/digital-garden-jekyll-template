@@ -10,9 +10,9 @@ A digital garden is a place to plant, tend, and grow ideas—publicly
 - Thinking out loud and in public
 - Collaborative and inviting
 
-[[Learning in public]] builds connection because [[public notes build authority and trust]]. [[Every time you tend to an idea you create an opportunity to share original work with others]].
+When you [[Learn in public]], you build connection because [[public notes build authority and trust]]. [[Every time you tend to an idea you create an opportunity to share original work with others]].
 
-Similarly, tending to digital gardens helps make sure you [[always have something write about]], are always able to [[explore your curiosities]], and frequently have the opportunity to [[follow your interests]] wherever they may lead.
+Similarly, tending to digital gardens helps make sure you [[always have something to write about]], are always able to [[explore your curiosities]], and frequently have the opportunity to [[follow your interests]] wherever they may lead.
 
 This is true because [[Finding topics to write about is most effective when a body of notes already exists and all we have to do is look at where there is density of notes]].
 

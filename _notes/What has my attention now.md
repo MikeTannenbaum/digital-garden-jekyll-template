@@ -32,20 +32,20 @@ title: What has my attention now
 - [[Start teaching as soon as you understand something]]
 - [[Adulthood is making decisions]]
 * [[create a market for yourself]]
-* [[Learning in public]]
+* [[learn in public]]
 * [[A knowledge worker’s toolkit needs to be well rounded like a carpenter’s]]
 * [[Why I like Roam over Bear when it comes to improving my thinking (even though Bear is my favorite app)]]
 - - - -
 ## Exploring
 - [[I am looking for new and meaningful projects in 2021]]
-- [[Learning in public]]
+- [[learn in public]]
 	- [[public notes build authority and trust]]
 	- [[It feels like there’s a new internet being built with the principle of the early days—sharing and connecting knowledge—but with the wisdom of today, accumulated over decades of improving technology’s capabilities]]
 * [[Sensemaking and wayfinding are critical skills for thriving in 2020 and beyond]]
 	* These skills help independent professionals
 * [[The Great Reset]]. The Great Pause. The Ultimate Weird. The Reboot.
 - How to build a body of work over time
-	- [[Building A Body Of Work]]
+	- [[build a body of work]]
 	- [[Non-linear writing’s ability to jump from sentence to sentence, idea to idea, changes the way the mind thinks through ideas]]
 	- [[A knowledge worker’s toolkit needs to be well rounded like a carpenter’s]]
 - What the changes post-covid mean for independent professionals
