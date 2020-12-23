@@ -1,7 +1,7 @@
 ## An experiment to build a personal wiki
 This is where I think. It’s a bit unusual of a space and it’s not like most sites. Rooted in networked thought, these notes are written for myself and are highly interwoven to facilitate the connection of seemingly disparate ideas with one another. It’s an experiment in service of exploring new ways of thinking. By improving the way I refine, articulate, and share my ideas, I get better at thinking. Since I think for a living, it’s important to keep my mind in shape.
 
-You can [view the live site here](https://mind.miketannenbaum.com/)
+You can [view the live site here](https://refinedmind.co)
 
 ### Credits
 Couldn't have built this without the help of others:
