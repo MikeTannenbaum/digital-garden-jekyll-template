@@ -4,16 +4,11 @@ title: What has my attention now
 > This page focuses on what I’m building, writing, and exploring. The ideas here are actively being tended over time.  
 
 ## Building
-* A new learning, knowledge building, idea generating, and note taking system
-	* Just get started taking notes and let structure emerge over time
-	* [[always have something write about]]
+* A new human, Marley Aviva Tannenbaum!
+* A new learning, knowledge building, idea generating, and note taking system #1-projects/improve-pkm
 	* [[The goal of a learning system is to trigger the right memory to help us remember the most useful information at the time we need it]]
 	* [[My new system design]]
-		* Finding ways to [[automate what you can]]
-	* [[Friday is for closing loops, weekly reviews, and funky tunes]]
-* A [[Digital Mind Garden]]
-	* [[TiddlyWiki Setup]]
-	* [[changelog]]
+		* This system is designed to help me [[always have something to write about]] and [[Learn in public]]
 * Build consistency for [The Refined Mind](https://refinedmind.co)
 	* Send every two weeks
 	* Signup page: https://refinedmind.co/subscribe
