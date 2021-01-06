@@ -3,6 +3,20 @@ title: changelog
 ---
 *Tracking the changes across this site, which is powered by Bear + Jekyll*
 - - - -
+## 2021-01-05 — Rewrote homepage, many note additions and updates
+- Added
+	- [[Tools for managing information overload—and improving your thinking—are on the rise]]
+- Updated
+	- [[digital garden]]
+	- [[build a body of work]]
+	- [[Learn in public]]
+	- [[Bidirectional links between apps would greatly improve interoperability of concepts and ideas]]
+	- [[Every time you tend to an idea you create an opportunity to share original work with others]]
+	- [[How to take smart notes]]
+	- [[Ideas improve by writing about them not by thinking about them]]
+	- [[Finding topics to write about is easier when a body of notes already exists upon which ideas can grow]]
+	- [[refine your ideas over time]]
+
 ## 2020-12-23 — Refine ideas, stack bricks, note updates
 - Added
 	- [[Take notes in your own words while reading, watching, and thinking]]

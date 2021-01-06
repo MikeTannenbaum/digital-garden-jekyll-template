@@ -1,9 +1,9 @@
 ---
 title: Bidirectional links between apps would greatly improve interoperability of concepts and ideas
 ---
-The implementations of linking two notes together within a note taking app is a leading philosophy of [[How to take smart notes]]. Bidirectional linking, it’s called. When you are viewing a note you are also presented with a link to all other notes that include a link to the note you’re currently viewing. It’s a fundamental belief of the note taking community that [[Notes should be densely linked]] because [[Ideas improve by writing about them, not by thinking about them]].
+The implementations of linking two notes together within a note taking app is a leading philosophy of [[How to take smart notes]]. Bidirectional linking, it’s called. When you are viewing a note you are also presented with a link to all other notes that include a link to the note you’re currently viewing. It’s a fundamental belief of the note taking community that [[Notes should be densely linked]] because [[Ideas improve by writing about them not by thinking about them]].
 
-We don’t yet have the capability to link notes and files across the apps we use every day, however, as all implementations of this are within one app, on blogs and websites, or in someone’s [[Digital Mind Garden]].
+We don’t yet have the capability to link notes and files across the apps we use every day, however, as all implementations of this are within one app, on blogs and websites, or in someone’s [[digital garden]].
 
 What if we were able to link all notes and files within one application to all the other mentions and conceptually related documents with one another?
 

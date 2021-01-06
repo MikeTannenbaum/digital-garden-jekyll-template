@@ -3,7 +3,7 @@ title: Every time you tend to an idea you create an opportunity to share origina
 ---
 Sharing original works in public can help ideas, products, and creations spread far and wide. Thanks to the internet’s distribution opportunities we live in a global economy where people make livings building audiences with whom to share their work. That only works, however, if you regularly have something of value to share.
 
-Enter the [[Digital Mind Garden]].
+Enter the [[digital garden]].
 
 Tending to your ideas on a regular basis and sharing them publicly can be incredibly powerful as it provides near-endless opportunities to put your work out there for others to see, experience, and respond to. Regularly tending to your ideas helps make sure you [[always have something to write about]], which means you’re always advancing your thinking and refining your ideas. Hence the name of this site, The Refined Mind.
 

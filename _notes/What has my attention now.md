@@ -33,8 +33,8 @@ title: What has my attention now
 	- [[We have barely begun to see the effects of the fallout from this pandemic]]
 
 ## Writing
-	* » » »  [[Writing themes]]
+	* » » » [[Writing themes]]
 	* [[We have barely begun to see the effects of the fallout from this pandemic]]
-	- [[Teach what you learn]]
-	- [[public notes build authority and trust]]
-	- [[Start teaching as soon as you understand something]]
+	* [[Teach what you learn]]
+	* [[public notes build authority and trust]]
+	* [[Start teaching as soon as you understand something]]

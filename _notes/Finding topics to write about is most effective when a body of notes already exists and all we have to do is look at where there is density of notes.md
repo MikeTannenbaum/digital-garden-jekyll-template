@@ -3,8 +3,10 @@ title: Finding topics to write about is most effective when a body of notes alre
 ---
 Sitting down with a “what should I wrote about now?” approach often leads nowhere.
 
-Instead, read and write your thoughts. Rewrite in your own words the concepts you’re interested in. Put those in your note-taking system as [[Evergreen notes]]. When you want to write, look for dense clusters of notes and turn them into a manuscript. That’s where data visualization and basic wiki technology can be so powerful.
+Instead, read new materials and make note of your thoughts. Write about the concepts you’re interested in and put those in your note-taking system as [[Evergreen notes]].
 
-Remember [[How to take smart notes]]. That’s your starting point for exploring, improving, and writing your ideas.
+When you sit down to write you could, for clusters of notes and build upon your past thoughts in ways that help you [[refine your ideas over time]].
 
-Tending to a [[Digital Mind Garden]] can help you [[always have something write about]]. Additionally, [[Every time you tend to an idea you create an opportunity to share original work with others]].
+Regularly revisit  [[How to take smart notes]]. That’s your starting point for exploring, improving, and writing your ideas.
+
+Tending to a [[digital garden]] can help you [[always have something to write about]]. Additionally, [[Every time you tend to an idea you create an opportunity to share original work with others]].

@@ -11,7 +11,7 @@ Taking notes is about collecting information and ideas in *this* moment, and mak
 
 The goal is to [[build a body of work]] that, over time, compounds on itself, offering future returns greater than the present sum of their parts. Like a long-term investment strategy, the more you put in on a consistent basis, the better your returns will likely be over time.
 
-Note taking allows us to seed initial ideas, tend to them over time, and eventually, harvest the best ideas the moment they turn ripe. It’s this analogy that leads people to build [[Digital Mind Garden]]s for tending and nurturing ideas—a fascinating practice I’m actively exploring for myself.
+Note taking allows us to seed initial ideas, tend to them over time, and eventually, harvest the best ideas the moment they turn ripe. It’s this analogy that leads people to build [[digital garden]]s for tending and nurturing ideas—a fascinating practice I’m actively exploring for myself.
 
 ## There are good and not-so-good ways to take notes
 The first thing to know when taking notes is the importance of translating notes into your own words. [[Take notes in your own words while reading, watching, and thinking]], as it will help you process and better understand your ideas.
@@ -24,6 +24,7 @@ As always, [learn by doing](https://miketannenbaum.com/learning-is-the-key).
 
 > Let structure emerge over time. Just take notes and start to connect them. This will lead to new ideas, new organization, and new output. — Andy Matuschak  
 - - - -
+
 Your starting goal is to capture your ideas and write contextually relevant notes that can always be referred to and understood.
 
 Underlining, margin notes, and fleeting notes become useless if they are not acted on within a day or two, so it’s important to revisit your “fleeting” notes—notes made in the moment—and turn them into “evergreen” notes—notes written to be easily understood in any future context.
@@ -44,7 +45,7 @@ Since note taking is about building knowledge by remixing your thoughts in ways 
 * Evergreen / Permanent: crystal clear + in your own words
 
 ## Places to store them:
-* [[Digital Mind Garden]]
+* [[digital garden]]
 * [Personal wikis](https://tomcritchlow.com/2019/02/17/building-digital-garden/)
 * [Second brains](https://fortelabs.co/blog/basboverview/)
 

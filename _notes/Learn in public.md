@@ -1,9 +1,9 @@
 ---
 title: Learn in public
 ---
-Writing, learning, and working in public creates new opportunities while facilitating quick feedback loops and building community. Additionally, [[public notes build authority and trust]].
+Writing, learning, and working in public create new opportunities while facilitating quick feedback loops and building community.
 
-By publishing your incremental learnings and idea evolutions you invite people to explore your [[web of thinking]].
+By publishing your incremental learnings and idea evolutions you invite people to explore your [[web of thinking]]. Additionally, [[public notes build authority and trust]].
 
 It’s impossible to foresee what will come from ideas as they collide with one another, but the more writing and sharing you do, the more opportunities you create for yourself and others.
 
@@ -15,7 +15,7 @@ Opportunities to…
 * Build relationships
 * Inspire change
 
-[[Digital Mind Garden]]s are taking off as the latest way to connect ideas both for yourself and in collaboration with others. This site is an example of one.
+[[digital garden]]s are taking off as the latest way to connect ideas both for yourself and in collaboration with others. This site is an example of one.
 
 [[Tools for managing information overload—and improving your thinking—are on the rise]], which has led to community developing around the tools and philosophy.
 
