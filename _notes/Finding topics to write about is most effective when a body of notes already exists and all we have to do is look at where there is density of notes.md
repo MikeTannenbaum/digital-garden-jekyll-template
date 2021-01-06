@@ -1,5 +1,5 @@
 ---
-title: Finding topics to write about is most effective when a body of notes already exists and all we have to do is look at where there is density of notes
+title: Finding topics to write about is easier when a body of notes already exists upon which ideas can grow
 ---
 Sitting down with a “what should I wrote about now?” approach often leads nowhere.
 
