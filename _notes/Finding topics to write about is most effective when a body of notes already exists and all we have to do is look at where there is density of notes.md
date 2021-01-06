@@ -7,6 +7,8 @@ Instead, read new materials and make note of your thoughts. Write about the conc
 
 When you sit down to write you could, for clusters of notes and build upon your past thoughts in ways that help you [[refine your ideas over time]].
 
-Regularly revisit  [[How to take smart notes]]. That’s your starting point for exploring, improving, and writing your ideas.
+> Getting something that is already written into another written piece is incomparably easier than assembling everything in your mind and then trying to retrieve it from there." —Sönke Ahrens
+
+Regularly revisit [[How to take smart notes]]. That’s your starting point for exploring, improving, and writing your ideas.
 
 Tending to a [[digital garden]] can help you [[always have something to write about]]. Additionally, [[Every time you tend to an idea you create an opportunity to share original work with others]].
