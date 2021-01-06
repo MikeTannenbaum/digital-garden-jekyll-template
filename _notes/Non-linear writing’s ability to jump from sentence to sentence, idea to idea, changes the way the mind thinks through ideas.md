@@ -12,3 +12,5 @@ If I’m three sentences in to a paragraph and have an idea that fits in the par
 No longer do I have to think so diligently about what I want the next sentence to say; instead, I can have a thought, and jump to a different part of the digital page and insert my thought there. When I'm at a point of review, I can rearrange paragraphs and sentences on the fly, mixing and remixing words and thoughts until the sentence feels right.
 
 This is not a new concept—Microsoft Word has been around forever—but my thinking about it is new. I’m fascinated by how, over time, [[non-linear writing helps ideas improve and evolve]]. It’s this thinking that has led me to explore [[Why I like Roam over Bear when it comes to improving my thinking (even though Bear is my favorite app)]]
+
+It’s also led me to recognize that [[Tools for managing information overload—and improving your thinking—are on the rise]], and they show incredible potential for improving *our thinking*, beyond just making processes easier.

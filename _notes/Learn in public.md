@@ -17,4 +17,6 @@ Opportunities to…
 
 [[Digital Mind Garden]]s are taking off as the latest way to connect ideas both for yourself and in collaboration with others. This site is an example of one.
 
+[[Tools for managing information overload—and improving your thinking—are on the rise]], which has led to community developing around the tools and philosophy.
+
 Personally I’m using this as my way of [[build a body of work]]. Like most things I do it’s a giant experiment. Time will tell how it’s received…

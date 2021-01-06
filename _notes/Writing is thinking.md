@@ -17,4 +17,4 @@ The act of writing requires acute awareness, and awareness is a superpower becau
 
 Of course, this is speaking specifically to non-fiction writing such as journaling, though fiction writing surely offers its own benefits since it engages dramatically different thought patterns, processes, and skills from those activated through reflective writing. Which, in and of itself, makes writing fiction a worthy practice on its own.
 
-Writing can also be non-linear. Especially when “writing is thinking” holds true. [[The ability to jump from sentence to sentence, idea to idea, changes the way the mind works]].
+Writing can also be non-linear. Especially when “writing is thinking” holds true. [[Non-linear writing’s ability to jump from sentence to sentence, idea to idea, changes the way the mind thinks through ideas]].
