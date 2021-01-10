@@ -14,7 +14,7 @@ This is my tiny plot on the internet where I share ideas in progress. It's my pu
 
 I believe <a href="writing-is-thinking">writing is thinking</a>, so <a href="these-notes-are-written-for-myself">these notes are written for myself</a> to aid my thinking, learning, and creating.
 
-This site is a diverse ecosystem of notes, all of which are interlinked in some way, each evolving at a different rate than the others. Most of the notes fall within these <a href="/Writing-themes">themes</a> and many of the concepts and words might be incorrect. Fortunately, that's what this whole site is about: evolving my thinking by challenging existing beliefs, assumptions, and mental models.
+This site is a diverse ecosystem of notes all interlinked in some way and evolving at different rates. Most of the notes fall within these <a href="/Writing-themes">themes</a> and some of the concepts and words might be incorrect. Fortunately, that's what this whole site is about: evolving my thinking by challenging existing beliefs, assumptions, and mental models.
 
 Feel free to explore <a href="What-has-my-attention-now">what has my attention</a>, my <a href="web-of-thinking">web of thinking</a>, the <a href="changelog">latest updates</a>, and any link that catches your curiosity.
 
