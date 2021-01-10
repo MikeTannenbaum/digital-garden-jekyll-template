@@ -3,9 +3,9 @@ title: My new system design
 ---
 Ever since I was a kid I’ve had a fascination with systems, networks, and automation. When I was in my 10’s I bought all the hardware and software I could afford and spent my time putting them together in ways that would solve whatever problem I was facing at that time.
 
-Fast forward to present day and I’m still a systems nerd perpetually iterating on my personal systems for writing, working, and managing digital data.
+Fast forward to present day and I’m still a systems nerd perpetually iterating on my personal systems for writing, working, learning, and managing digital data, files, and knowledge.
 
-Somehow I ended up stumbling upon a community of folks passionate about building their own personal wikis, productivity systems, and digital gardens. Immediately I was hooked.
+Somehow I ended up stumbling upon a community of folks passionate about building their own personal wikis, productivity systems, and [[digital garden]]s. Immediately I was hooked.
 
 After much experimentation and exploration of new tools, I’ve improved my system tremendously *without adding any new tools*!
 

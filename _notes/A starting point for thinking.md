@@ -9,7 +9,7 @@ This is my tiny plot on the internet where I share ideas in progress. It's my pu
 
 I believe [[Writing is thinking]], so [[these notes are written for myself]] to aid my thinking, learning, and creating.
 
-This site is a diverse ecosystem of notes, all of which are interlinked in some way, each evolving at a different rate than the others. Most of the notes fall within these [[Writing themes]] and many of the concepts and words might be incorrect. Fortunately, that's what this whole site is about: evolving my thinking by challenging existing beliefs, assumptions, and mental models.
+This site is a diverse ecosystem of notes all interlinked in some way and evolving at different rates. Most of the notes fall within these [[Writing themes]] and some of the concepts and words might be incorrect. Fortunately, that's what this whole site is about: evolving my thinking by challenging existing beliefs, assumptions, and mental models.
 
 Feel free to explore [[What has my attention now]], my [[web of thinking]], the [[changelog]] of this site, and any link that catches your curiosity.
 
