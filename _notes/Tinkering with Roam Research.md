@@ -1,11 +1,11 @@
 ---
 title: Tinkering with Roam Research
 ---
-Already leaps and bounds beyond what Bear is capable of, and I hardly know how to use the product. It serves a different purpose. Maybe.
+Already leaps and bounds beyond what Bear is capable of and I hardly know how to use the product. It serves a different purpose. Maybe.
 
 Like Bear it is text based plus a few embeds and wiki links, though its ability to connect words, notes, and ideas together while providing magical—and logical—connections between notes is unparralleled.
 
-I’m wondering whether it fits within [[My new system design]] or if it’s just going to swallow the whole stack. And if the latter, would I be better served if I just said “out with the old and in with the new!”? Perhaps.
+I’m wondering whether it fits within [[my digital ecosystem]] or if it’s just going to swallow the whole stack. And if the latter, would I be better served if I just said “out with the old and in with the new!”? Perhaps.
 
 Thus far it’s been fascinating, mind bending, and perplexing at the same time. Which, if we’re being honest, are novel experiences that are quite rare nowadays—especially in the midst of this ongoing pandemic.
 

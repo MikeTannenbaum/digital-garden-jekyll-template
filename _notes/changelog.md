@@ -3,6 +3,29 @@ title: changelog
 ---
 *Tracking the changes across this site, which is powered by Bear + Jekyll*
 - - - -
+## 2021-01-19 — Obsidian, Roam Research, and note updates
+### Added
+- [[Obsidian is for tending my digital garden]]
+> The tool is designed for [[networked thinking]] and automatically connects notes with one another to help you build out your [[web of thinking]] by writing similarly to how we think: non-linearly.
+- [Newsletter signup form](a-starting-point-for-thinking) on notes pages
+
+### Updated
+- Renamed *My new design system* to [[my digital ecosystem]] and totally reworked the note
+> After much experimentation and exploration of new practices and tools, I’ve made significant improvements to my learning and knowledge management system. It's considered a work in progress, however, as it's always being iterated on and improved as my needs evolve and change.
+
+- Added products I love to [[Tools for managing information overload—and improving your thinking—are on the rise]]
+> These tools can help you go from *idea capture* to *new thing created* if you use them effectively.
+
+- [[Drafts is for immediate note capture and works in progress]]
+> Instead of having a thought and then thinking “where do I want to put this?"—and then having to think about what app to open, the only concern is immediately capturing the thought. BAM. done.
+
+- [[Evernote is for long-term storage]]
+> The content in Evernote is interacted with less frequently, but is housed in a trustworthy place. It's a great place to store things that need to be recalled on occasion but aren't interacted with regularly.
+
+## 2021-01-10 — Rethinking education models
+- Added
+	- [[When you have the world of information available at your fingertips, traditional models of education are rendered obsolete]]
+
 ## 2021-01-05 — Rewrote homepage, many note additions and updates
 - Added
 	- [[Tools for managing information overload—and improving your thinking—are on the rise]]
@@ -28,20 +51,19 @@ title: changelog
 	- [[Share ideas before they’re ready]]
 	- [[Ideas improve by writing about them not by thinking about them]]
 	- [[Learn in public]]
-	- [[Digital Mind Garden]]
-	- [[always have something to write about]]
+	- [[digital garden]]
 	- [[Every time you tend to an idea you create an opportunity to share original work with others]]
 
 ## 2020-12-18 — Roam Research edition
 - Added
-	- [[Why I like Roam over Bear when it comes to improving my thinking (even though Bear is my favorite app)]]
+	- [[Why I like Roam over Bear for improving my thinking]]
 - Updated
 	- [[Bear is for networked thinking]]
 	- [[What has my attention now]]
 	- [[It’s not a writing system, it’s a thinking system whose byproduct is writing]]
 	- [[Non-linear writing’s ability to jump from sentence to sentence, idea to idea, changes the way the mind thinks through ideas]]
 	- [[web of thinking]]
-	- [[My new system design]]
+	- [[my digital ecosystem]]
 	- [[A knowledge worker’s toolkit needs to be well rounded like a carpenter’s]]
 
 ## 2020-12-11 — Toolkit
@@ -49,13 +71,13 @@ title: changelog
 	- [[A knowledge worker’s toolkit needs to be well rounded like a carpenter’s]]
 - Updated
 	- [[Learn in public]]
-	- [[My new system design]]
+	- [[my digital ecosystem]]
 
 ## 2020-12-09 — New writing
 - Added
 	- [[Tinkering with Roam Research]]
 - Updated
-	- [[My new system design]]
+	- [[my digital ecosystem]]
 	- [[Every time you tend to an idea you create an opportunity to share original work with others]]
 	- [[web of thinking]]
 
@@ -68,7 +90,7 @@ title: changelog
 	- [[We have barely begun to see the effects of the fallout from this pandemic]]
 - Updated:
 	- [[Bear is for networked thinking]]
-	- [[My new system design]]
+	- [[my digital ecosystem]]
 	- [[Writing is thinking]]
 	- [[We must confront ourselves. It’s as simple as that]]
 	- [[The Great Reset]]
@@ -81,17 +103,16 @@ title: changelog
 - Added example newsletter ([issue #1](https://refinedmind.substack.com/p/01-welcome-to-the-refined-mind)) to /subscribe
 - New Notes
 	- [[The Great Reset]]
-	- [[Digital Mind Garden]]
+	- [[digital garden]]
 	- [[Learn in public]]
 	- [[Every time you tend to an idea you create an opportunity to share original work with others]]
-	- [[Finding topics to write about is most effective when a body of notes already exists and all we have to do is look at where there is density of notes]]
+	- [[Finding topics to write about is easier when a body of notes already exists upon which ideas can grow]]
 - Updated Notes
 	- [[public notes build authority and trust]]
 	- [[web of thinking]]
 
 ## 2020-06-26 — New + updated notes
 - [[It’s tough to live life amid all these circumstances]]
-- [[Friday is for closing loops, weekly reviews, and funky tunes]]
 - Cleaned up and reorganized [[What has my attention now]]
 - [[It feels like there’s a new internet being built with the principle of the early days—sharing and connecting knowledge—but with the wisdom of today, accumulated over decades of improving technology’s capabilities]]
 - Added links to workflows on [[Alfred is for automation and central control]]
@@ -130,7 +151,7 @@ title: changelog
 ### 2020-06-09 — Content + Layout updates
 * Added more notes
 	* [[Bidirectional links between apps would greatly improve interoperability of concepts and ideas]]
-	* [[My new system design]]
+	* [[my digital ecosystem]]
 	* [[Alfred is for automation and central control]]
 	* [[Bear is for networked thinking]]
 	* [[How to take smart notes]]

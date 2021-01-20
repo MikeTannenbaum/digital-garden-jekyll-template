@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7b6b39d35f283d3a",
+        "id": "e3a1b8e6259ba4d3",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Digital Mind Garden.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -53,7 +50,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 513,
+    "collapsed": true
   },
   "right": {
     "id": "57fbaada095c81cb",
@@ -69,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Mind Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,15 +79,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241
+    "width": 241,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "Digital Mind Garden.md",
-    "_staging/Digital Mind Garden.md",
-    "A knowledge workers toolkit needs to be well rounded like a carpenters.md",
-    "Why I like Roam over Bear when it comes to improving my thinking (even though Bear is my favorite app).md",
-    "What has my attention now.md",
-    "Writing themes.md",
-    "A starting point for thinking.md"
+    "Evernote is for long-term storage.md",
+    "my digital ecosystem.md",
+    "It’s not a writing system, it’s a thinking system whose byproduct is writing.md",
+    "Alfred is for automation and central control.md",
+    "Why I like Roam over Bear for improving my thinking.md",
+    "Bear is for networked thinking.md",
+    "digital garden.md",
+    "Obsidian is for tending my digital garden.md",
+    "Drafts is for immediate note capture and works in progress.md",
+    "changelog.md"
   ]
 }

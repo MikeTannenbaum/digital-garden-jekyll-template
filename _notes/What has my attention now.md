@@ -6,9 +6,9 @@ title: What has my attention now
 ## Building
 * A knowledge building, note taking, idea generating, learning system
 	* [[The goal of a learning system is to trigger the right memory to help us remember the most useful information at the time we need it]]
-	* [[My new system design]]
+	* [[my digital ecosystem]]
 		* This system helps me [[always have something to write about]], [[Learn in public]], and [[build a body of work]]
-		* [[Why I like Roam over Bear when it comes to improving my thinking (even though Bear is my favorite app)]]
+		* [[Why I like Roam over Bear for improving my thinking]]
 		* [[How to take smart notes]]
 		* [[Take notes in your own words while reading, watching, and thinking]]
 * Consistency for [The Refined Mind](https://refinedmind.co)

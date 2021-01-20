@@ -10,7 +10,7 @@ permalink: /
 
 Welcome to The Refined Mind, which is the fancy name I gave to this boring website.
 
-This is my tiny plot on the internet where I share ideas in progress. It's my public workspace and an experiment in what's known as digital gardening.
+This is my tiny plot on the internet where I share ideas in progress. It's my public workspace and an experiment in what's known as <a href="digital-garden">digital gardening</a>.
 
 I believe <a href="writing-is-thinking">writing is thinking</a>, so <a href="these-notes-are-written-for-myself">these notes are written for myself</a> to aid my thinking, learning, and creating.
 

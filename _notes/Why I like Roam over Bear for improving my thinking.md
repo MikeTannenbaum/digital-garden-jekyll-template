@@ -1,6 +1,8 @@
 ---
-title: Why I like Roam over Bear when it comes to improving my thinking (even though Bear is my favorite app)
+title: Why I like Roam over Bear for improving my thinking
 ---
+> *This note is part of a small series highlighting [[my digital ecosystem]].*
+
 [[Roam Research]] is one of the most innovative note taking apps on the market. While that sounds trivial on the surface, a closer look shows a powerful tool for [[networked thinking]].
 
 While I’ve been using Bear for note taking and writing for years—and even wrote about how [[Bear is for networked thinking]]—there’s something about diving deeper into exploring “networked thought” that really calls to me. While Bear has the ability to cross-link individual notes, Roam goes so much deeper and thus makes the ability to build upon and improve ideas that much easier.

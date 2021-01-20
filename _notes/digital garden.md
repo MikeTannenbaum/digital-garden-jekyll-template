@@ -1,9 +1,16 @@
 ---
 title: digital garden
 ---
+> *This note is part of a small series highlighting [[my digital ecosystem]].*
+
 Digital gardens are a relatively new way of publishing and tending to one’s ideas, knowledge, and thought explorations.
 
-They’re frequently made up of works-in-progress in the form of notes—often unpolished and unfinished—that are deeply interconnected and linked with one another.
+They’re frequently made up of works-in-progress in the form of notes—often unpolished and unfinished—that are deeply interconnected and linked with one another. Most importantly, they are created for you, the creator.
+
+<blockquote class="quoteback" darkmode="" data-title="Digital%20gardens%20let%20you%20cultivate%20your%20own%20little%20bit%20of%20the%20internet%20%E2%80%93%20MIT%20Technology%20Review" data-author="" cite="https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/">
+“With blogging, you’re talking to a large audience,” he says. “With digital gardening, you’re talking to yourself. You focus on what you want to cultivate over time.”
+<footer><cite> <a href="https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/">https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
 The gardening language is a beautiful analogy for how we plant, tend, and grow our ideas publicly. Some bloom faster than others, some are evergreen, and some of the seeds just don’t take. Such is gardening 🌱.
 

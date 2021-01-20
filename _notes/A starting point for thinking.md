@@ -5,7 +5,7 @@ Hi, I’m Mike! 👋
 
 Welcome to The Refined Mind, which is the fancy name I gave to this boring website.
 
-This is my tiny plot on the internet where I share ideas in progress. It's my public workspace and an experiment in what's known as digital gardening.
+This is my tiny plot on the internet where I share ideas in progress. It's my public workspace and an experiment in what's known as [[digital garden]]ing.
 
 I believe [[Writing is thinking]], so [[these notes are written for myself]] to aid my thinking, learning, and creating.
 
