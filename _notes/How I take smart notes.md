@@ -1,5 +1,5 @@
 ---
-title: How to take smart notes
+title: How I take smart notes
 ---
 Note-taking is an activity that occurs in the present moment but is in service of a future one.
 

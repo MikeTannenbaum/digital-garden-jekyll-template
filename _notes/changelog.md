@@ -16,6 +16,9 @@ title: changelog
 - Added products I love to [[Tools for managing information overload—and improving your thinking—are on the rise]]
 > These tools can help you go from *idea capture* to *new thing created* if you use them effectively.
 
+- Renamed "How to take smart notes" to "How I take smart notes" because I can only share what works for me, not what others should do
+> Taking notes is about collecting information and ideas in *this* moment, and making them available for our *future* selves to act upon. We’re seeding ideas now and helping them grow stronger as we explore and learn new things.
+
 - [[Drafts is for immediate note capture and works in progress]]
 > Instead of having a thought and then thinking “where do I want to put this?"—and then having to think about what app to open, the only concern is immediately capturing the thought. BAM. done.
 
@@ -35,7 +38,7 @@ title: changelog
 	- [[Learn in public]]
 	- [[Bidirectional links between apps would greatly improve interoperability of concepts and ideas]]
 	- [[Every time you tend to an idea you create an opportunity to share original work with others]]
-	- [[How to take smart notes]]
+	- [[How I take smart notes]]
 	- [[Ideas improve by writing about them not by thinking about them]]
 	- [[Finding topics to write about is easier when a body of notes already exists upon which ideas can grow]]
 	- [[refine your ideas over time]]
@@ -47,7 +50,7 @@ title: changelog
 	- [[stack the bricks]]
 	- [[build a body of work]]
 - Updated
-	- [[How to take smart notes]]
+	- [[How I take smart notes]]
 	- [[Share ideas before they’re ready]]
 	- [[Ideas improve by writing about them not by thinking about them]]
 	- [[Learn in public]]
@@ -154,7 +157,7 @@ title: changelog
 	* [[my digital ecosystem]]
 	* [[Alfred is for automation and central control]]
 	* [[Bear is for networked thinking]]
-	* [[How to take smart notes]]
+	* [[How I take smart notes]]
 * Updated footer with changelog link
 
 ### 2020-06-07 — Updated URL

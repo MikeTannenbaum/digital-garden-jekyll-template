@@ -6,11 +6,22 @@
       {
         "id": "e3a1b8e6259ba4d3",
         "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "How I take smart notes.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "b8b1fc4c9fc9caf9",
+        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "digital garden.md",
+            "file": "changelog.md",
             "mode": "source"
           }
         }
@@ -78,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "digital garden.md",
+                "file": "changelog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,19 +102,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241,
-    "collapsed": true
+    "width": 916
   },
   "lastOpenFiles": [
+    "changelog.md",
+    "How I take smart notes.md",
+    "Take notes in your own words while reading, watching, and thinking.md",
+    "Ideas improve by writing about them not by thinking about them.md",
+    "Bidirectional links between apps would greatly improve interoperability of concepts and ideas.md",
+    "How to take smart notes.md",
     "digital garden.md",
+    "Tools for managing information overload—and improving your thinking—are on the rise.md",
     "Evernote is for long-term storage.md",
-    "my digital ecosystem.md",
-    "It’s not a writing system, it’s a thinking system whose byproduct is writing.md",
-    "Alfred is for automation and central control.md",
-    "Why I like Roam over Bear for improving my thinking.md",
-    "Bear is for networked thinking.md",
-    "Obsidian is for tending my digital garden.md",
-    "Drafts is for immediate note capture and works in progress.md",
-    "changelog.md"
+    "my digital ecosystem.md"
   ]
 }

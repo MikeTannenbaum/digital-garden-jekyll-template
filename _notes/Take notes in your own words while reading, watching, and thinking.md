@@ -10,4 +10,4 @@ Underlining doesn't retain whatever thought was going through your head when you
 
 By capturing notes in the moment and in your own words, you preserve both your thinking and the context of your thoughts, which will enable you to effectively [[refine your ideas over time]].
 
-Start improving your note-taking with [[How to take smart notes]]. Over time, this will help you [[stack the bricks]] and [[build a body of work]].
+Start improving your note-taking by exploring [[How I take smart notes]]. Over time, this will help you [[stack the bricks]] and [[build a body of work]].

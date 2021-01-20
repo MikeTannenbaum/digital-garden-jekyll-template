@@ -17,7 +17,7 @@ title: build a body of work
 - Follow your efforts
 - Learn quickly
 - Take good notes
-	- [[How to take smart notes]]
+	- [[How I take smart notes]]
 - Write frequently
 - Work in public
 - Create often

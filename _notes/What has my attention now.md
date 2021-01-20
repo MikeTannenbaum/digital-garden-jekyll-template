@@ -9,7 +9,7 @@ title: What has my attention now
 	* [[my digital ecosystem]]
 		* This system helps me [[always have something to write about]], [[Learn in public]], and [[build a body of work]]
 		* [[Why I like Roam over Bear for improving my thinking]]
-		* [[How to take smart notes]]
+		* [[How I take smart notes]]
 		* [[Take notes in your own words while reading, watching, and thinking]]
 * Consistency for [The Refined Mind](https://refinedmind.co)
 	* Send every two weeks
