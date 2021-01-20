@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "digital garden.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -45,6 +48,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "0a63e02673ee7fd1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -67,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "digital garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,13 +95,13 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "digital garden.md",
     "Evernote is for long-term storage.md",
     "my digital ecosystem.md",
     "It’s not a writing system, it’s a thinking system whose byproduct is writing.md",
     "Alfred is for automation and central control.md",
     "Why I like Roam over Bear for improving my thinking.md",
     "Bear is for networked thinking.md",
-    "digital garden.md",
     "Obsidian is for tending my digital garden.md",
     "Drafts is for immediate note capture and works in progress.md",
     "changelog.md"
