@@ -1,5 +1,5 @@
 ---
-title: Tools for managing information overload—and improving your thinking—are on the rise
+title: Tools for managing information overload and improving how we think are on the rise
 ---
 These tools help you think, improve ideas, build knowledge, and expand brain capacity.
 

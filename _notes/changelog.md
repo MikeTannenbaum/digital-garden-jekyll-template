@@ -13,7 +13,7 @@ title: changelog
 - Renamed *My new design system* to [[my digital ecosystem]] and totally reworked the note
 > After much experimentation and exploration of new practices and tools, I’ve made significant improvements to my learning and knowledge management system. It's considered a work in progress, however, as it's always being iterated on and improved as my needs evolve and change.
 
-- Added products I love to [[Tools for managing information overload—and improving your thinking—are on the rise]]
+- Added products I love to [[Tools for managing information overload and improving how we think are on the rise]]
 > These tools can help you go from *idea capture* to *new thing created* if you use them effectively.
 
 - Renamed "How to take smart notes" to "[[How I take smart notes]]" because I can only share what works for me, not what others should do
@@ -31,7 +31,7 @@ title: changelog
 
 ## 2021-01-05 — Rewrote homepage, many note additions and updates
 - Added
-	- [[Tools for managing information overload—and improving your thinking—are on the rise]]
+	- [[Tools for managing information overload and improving how we think are on the rise]]
 - Updated
 	- [[digital garden]]
 	- [[build a body of work]]

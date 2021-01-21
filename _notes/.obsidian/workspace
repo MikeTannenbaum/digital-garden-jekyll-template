@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Tools for managing information overload and improving how we think are on the rise.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -75,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tools for managing information overload and improving how we think are on the rise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +94,7 @@
     "width": 916
   },
   "lastOpenFiles": [
+    "Tools for managing information overload—and improving your thinking—are on the rise.md",
     "changelog.md",
     "How I take smart notes.md",
     "Take notes in your own words while reading, watching, and thinking.md",
@@ -97,7 +102,6 @@
     "Bidirectional links between apps would greatly improve interoperability of concepts and ideas.md",
     "How to take smart notes.md",
     "digital garden.md",
-    "Tools for managing information overload—and improving your thinking—are on the rise.md",
     "Evernote is for long-term storage.md",
     "my digital ecosystem.md"
   ]

@@ -18,7 +18,7 @@ As a knowledge worker there are many parts that make up our larger ecosystem, in
 
 Sometimes one specific tool is better for a job than another.
 
-[[Tools for managing information overload—and improving your thinking—are on the rise]].
+[[Tools for managing information overload and improving how we think are on the rise]].
 
 Perhaps this is my way of justifying my use of almost a dozen different digital tools in [[my digital ecosystem]] when I know simplicity is better. While often true, knowledge work is complex and full of intricacy. Sometimes we need inspiration, other times we need data. Sometimes we need to revisit and tend to our past ideas, other times we need to capture new ones. It’s at the nexus of these needs and complexities where [[digital ecosystems]] reside.
 

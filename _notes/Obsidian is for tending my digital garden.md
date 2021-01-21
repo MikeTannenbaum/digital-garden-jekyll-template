@@ -5,7 +5,7 @@ title: Obsidian is for tending my digital garden
 
 [Obsidian](http://obsidian.md/){:target="_blank"} is a new-to-market knowledge management tool that runs on locally-stored markdown files. No cloud or web servers involved.
 
-[[Tools for managing information overload—and improving your thinking—are on the rise]], and Obsidian is one of these tools.
+[[Tools for managing information overload and improving how we think are on the rise]], and Obsidian is one of these tools.
 
 The tool is designed for [[networked thinking]] and automatically connects notes with one another to help you build out your [[web of thinking]] by writing similarly to how we think: non-linearly.
 

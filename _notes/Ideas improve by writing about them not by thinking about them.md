@@ -5,6 +5,6 @@ Emptying our minds onto paper and into external systems frees us up to do the wo
 
 [[Finding topics to write about is easier when a body of notes already exists upon which ideas can grow]].
 
-[[Tools for managing information overload—and improving your thinking—are on the rise]].
+[[Tools for managing information overload and improving how we think are on the rise]].
 
 It’s critical to [[Take notes in your own words while reading, watching, and thinking]]. Here’s [[How I take smart notes]].
