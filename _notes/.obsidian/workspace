@@ -4,26 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e3a1b8e6259ba4d3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "How I take smart notes.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "b8b1fc4c9fc9caf9",
+        "id": "70c4537c8ff89dde",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "changelog.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -89,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "changelog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

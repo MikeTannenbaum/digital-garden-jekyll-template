@@ -16,7 +16,7 @@ title: changelog
 - Added products I love to [[Tools for managing information overload—and improving your thinking—are on the rise]]
 > These tools can help you go from *idea capture* to *new thing created* if you use them effectively.
 
-- Renamed "How to take smart notes" to "How I take smart notes" because I can only share what works for me, not what others should do
+- Renamed "How to take smart notes" to "[[How I take smart notes]]" because I can only share what works for me, not what others should do
 > Taking notes is about collecting information and ideas in *this* moment, and making them available for our *future* selves to act upon. We’re seeding ideas now and helping them grow stronger as we explore and learn new things.
 
 - [[Drafts is for immediate note capture and works in progress]]
