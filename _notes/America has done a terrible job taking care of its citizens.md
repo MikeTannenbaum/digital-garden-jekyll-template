@@ -5,7 +5,7 @@ The leading country in the world—the beacon of hope and freedom, land of oppor
 
 The rich get richer while the poor get poorer, right here in plain sight.
 
-Politicians are corrupt and making insider trades right in front of our eyes while failing to provide relief and support to their constituents when the crisis of the century strikes.
+Politicians are taking advantage of our systems right in front of our eyes while failing to provide relief and support to their constituents when the crisis of the century strikes.
 
 Wall Street is stealing directly from The People of [[America]] and when their own inventions are used against them, they find ways to shut down the little guy when they're beating Wall Street at their own game.
 

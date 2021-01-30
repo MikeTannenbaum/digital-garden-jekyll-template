@@ -4,20 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "e136fbc6775a07bf",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "America has done a terrible job taking care of its citizens.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "9eb47760561ebed8",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -88,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "America has done a terrible job taking care of its citizens.md",
+                "file": "Black Lives Matter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +93,8 @@
     "width": 241
   },
   "lastOpenFiles": [
-    "America has done a terrible job taking care of its citizens.md",
     "Black Lives Matter.md",
+    "America has done a terrible job taking care of its citizens.md",
     "America.md",
     "changelog.md",
     "A knowledge workers toolkit needs to be well rounded like a carpenters.md",
