@@ -1,6 +1,8 @@
 ---
 title: America
 ---
+[[America has done a terrible job taking care of its citizens]]. The systems are rigged in favor of the rich, and the history we've been sold through school is littered with America-as-savior propaganda.
+
 [[The land of the free is such a lie]].
 
 America stole people from their home continent and brought them here against their will.

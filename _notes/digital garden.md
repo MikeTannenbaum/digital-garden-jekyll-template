@@ -12,7 +12,7 @@ They’re frequently made up of works-in-progress in the form of notes—often u
 <footer><cite> <a href="https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/">https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/</a></cite></footer>
 </blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
-The gardening language is a beautiful analogy for how we plant, tend, and grow our ideas publicly. Some bloom faster than others, some are evergreen, and some of the seeds just don’t take. Such is gardening 🌱.
+The gardening language is a beautiful analogy for how we plant, tend, and grow our ideas publicly. Some bloom faster than others, some are evergreen, and some of the seeds just don’t take. Such is gardening—and creativity 🌱.
 
 Seeds need to be germinated properly and many don't root despite best intentions. My idea seeds are planted in one place—Drafts—germinated in another—Roam Research—and once they sprout into seedlings, they are moved to the garden to be tended to and matured. As of this writing,[[Obsidian is for tending my digital garden]].
 

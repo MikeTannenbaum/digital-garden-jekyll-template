@@ -3,6 +3,10 @@ title: changelog
 ---
 *Tracking the changes across this site, which is powered by Bear + Jekyll*
 - - - -
+## 2021-01-29 — More on American inequality
+### Added
+- [[America has done a terrible job taking care of its citizens]]
+
 ## 2021-01-19 — Obsidian, Roam Research, and note updates
 ### Added
 - [[Obsidian is for tending my digital garden]]
