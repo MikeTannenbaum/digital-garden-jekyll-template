@@ -19,6 +19,14 @@ While many folks may have known this all along, it seems that many more are waki
 
 One of the wealthiest nations in the world should be able to fully provide for the welfare of their people, but instead we're facing massive chasms of inequality that force the poor to slip further into poverty, all while the wealthiest people and companies add Billions and Trillions of U.S. Dollars to their balance sheets. (Enter: Bitcoin)
 
+It's unfathomable that in such a wealthy nation people do not have access to fresh food.
+
+<blockquote class="quoteback" darkmode="" data-title="Going%20to%20bed%20hungry%20" data-author="@WashingtonPost" cite="https://www.washingtonpost.com/nation/interactive/2021/covid-hunger-crisis/">
+In many parts of New Mexico, fresh food is hard to come by, even in better times. You can drive for miles without passing a supermarket. If you don’t have a car, the local dollar store may be the only place to get groceries.
+<footer>@WashingtonPost <cite><a href="https://www.washingtonpost.com/nation/interactive/2021/covid-hunger-crisis/">https://www.washingtonpost.com/nation/interactive/2021/covid-hunger-crisis/</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
 They stay quiet about their gains until one day Regular Olde Joe Citizen figures out how to stick it to the man and give em a taste of their own medicine by exploiting the system to their advantage and forcing the wealthy to lose billions of dollars.
 
 [[The Great Reset]] is turning out to be The Great Reckoning as the country grapples with its history of oppression, exploitation, and inequality. These forces are so deeply ingrained in the fabric of society and systems of governance that those of great privilege do not even recognize the reality of their impact.
