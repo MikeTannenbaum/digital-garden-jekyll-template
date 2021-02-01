@@ -4,12 +4,14 @@ title: What has my attention now
 > This page focuses on what I’m building, writing, and exploring. The ideas here are actively being tended over time. Please share your thoughts, challenges, and constructive criticisms with me anytime!  
 
 ## Building
-* A knowledge building, note taking, idea generating, learning system
+* An idea generating, knowledge building, note taking, learning system
 	* [[The goal of a learning system is to trigger the right memory to help us remember the most useful information at the time we need it]]
-	* [[my digital ecosystem]]
+	* Some thoughts as I iterate on [[my digital ecosystem]]
 		* This system helps me [[always have something to write about]], [[Learn in public]], and [[build a body of work]]
-		* [[Why I like Roam over Bear for improving my thinking]]
+		* [[A knowledge worker’s toolkit needs to be well rounded like a carpenter’s]]
+		* [[Tools for managing information overload and improving how we think are on the rise]]
 		* [[How I take smart notes]]
+		* [[Why I like Roam over Bear for improving my thinking]]
 		* [[Take notes in your own words while reading, watching, and thinking]]
 * Consistency for [The Refined Mind](https://refinedmind.co)
 	* Send every two weeks
@@ -29,12 +31,13 @@ title: What has my attention now
 	- [[Black Lives Matter]]
 		- Learning how to evolve from “person who continuously learns and supports others” to “actively antiracist.”
 	- [[America]] needs to be redesigned
+	- [[America has done a terrible job taking care of its citizens]]
+	- [[The future is not American-led]]
 	- [[Am I the 'mediocre white man' they so often speak about?]]
 	- [[We have barely begun to see the effects of the fallout from this pandemic]]
 
 ## Writing
-	* » » » [[Writing themes]]
-	* [[We have barely begun to see the effects of the fallout from this pandemic]]
-	* [[Teach what you learn]]
-	* [[public notes build authority and trust]]
-	* [[Start teaching as soon as you understand something]]
+- [[Writing themes]]
+- [[networked thinking]]
+- [[Teach what you learn]]
+- [[Start teaching as soon as you understand something]]

@@ -24,6 +24,6 @@ American government was designed to create a country where wealthy white people 
 
 The system is working exactly as it was designed.
 
-It’s time to redesign the system.
+It’s time to redesign the system. 
 
-[[Black Lives Matter]]
+[[Black Lives Matter]].

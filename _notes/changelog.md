@@ -6,6 +6,10 @@ title: changelog
 ## 2021-01-29 — More on American inequality
 ### Added
 - [[America has done a terrible job taking care of its citizens]]
+- [[The future is not American-led]]
+
+### Updated
+- [[America]]
 
 ## 2021-01-19 — Obsidian, Roam Research, and note updates
 ### Added
