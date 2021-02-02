@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "What has my attention now.md",
+            "file": "changelog.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What has my attention now.md",
+                "file": "changelog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +93,8 @@
     "width": 241
   },
   "lastOpenFiles": [
+    "changelog.md",
+    "build a body of work.md",
     "What has my attention now.md",
     "A knowledge workers toolkit needs to be well rounded like a carpenters.md",
     "A knowledge worker’s toolkit needs to be well rounded like a carpenter’s.md",
@@ -100,8 +102,6 @@
     "Writing themes.md",
     "Tools for managing information overload and improving how we think are on the rise.md",
     "The Great Reset.md",
-    "It feels like theres a new internet being built with the principle of the early days—sharing and connecting knowledge—but with the wisdom of today accumulated over decades of improving technologys capabilities.md",
-    "changelog.md",
-    "The future is not American-led.md"
+    "It feels like theres a new internet being built with the principle of the early days—sharing and connecting knowledge—but with the wisdom of today accumulated over decades of improving technologys capabilities.md"
   ]
 }

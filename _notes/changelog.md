@@ -3,6 +3,14 @@ title: changelog
 ---
 *Tracking the changes across this site, which is powered by Bear + Jekyll*
 - - - -
+## 2021-02-01 — Building a body of work
+### Added
+- Added [Buy Me A Coffee link](https://www.buymeacoffee.com/miketannenbaum) to the footer
+
+### Updated
+- Finally wrote something real about why to [[build a body of work]].
+> When you consistently produce work you believe in—creative work that's fueled by intrinsic motivation as opposed to external forces—the volume of work grows and becomes more and more valuable over time.
+
 ## 2021-01-29 — More on American inequality
 ### Added
 - [[America has done a terrible job taking care of its citizens]]
