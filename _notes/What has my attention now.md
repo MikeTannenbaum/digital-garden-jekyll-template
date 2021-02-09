@@ -8,7 +8,7 @@ title: What has my attention now
 	* [[The goal of a learning system is to trigger the right memory to help us remember the most useful information at the time we need it]]
 	* Some thoughts as I iterate on [[my digital ecosystem]]
 		* This system helps me [[always have something to write about]], [[Learn in public]], and [[build a body of work]]
-		* [[A knowledge worker’s toolkit needs to be well rounded like a carpenter’s]]
+		* [[A knowledge worker’s toolkit needs to be well-rounded]]
 		* [[Tools for managing information overload and improving how we think are on the rise]]
 		* [[How I take smart notes]]
 		* [[Why I like Roam over Bear for improving my thinking]]
@@ -25,7 +25,7 @@ title: What has my attention now
 - How to [[build a body of work]] over time
 	- [[It feels like there’s a new internet being built with the principle of the early days—sharing and connecting knowledge—but with the wisdom of today, accumulated over decades of improving technology’s capabilities]]
 	- [[Non-linear writing’s ability to jump from sentence to sentence, idea to idea, changes the way the mind thinks through ideas]]
-	- [[A knowledge worker’s toolkit needs to be well rounded like a carpenter’s]]
+	- [[A knowledge worker’s toolkit needs to be well-rounded]]
 - How to process the reality, severity, and impact of what’s happening in our country and abroad, what that means for our economy and my livelihood, and from what efforts and investments am I most likely to generate income
 	- [[It’s tough to live life amid all these circumstances]]
 	- [[Black Lives Matter]]

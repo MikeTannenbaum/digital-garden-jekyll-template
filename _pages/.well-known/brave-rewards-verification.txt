@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: refinedmind.co
-Token: 476e9c7608fb10e50a867969ed05963f859868b592fd77992d35419dd606904a

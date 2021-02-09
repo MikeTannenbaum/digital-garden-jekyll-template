@@ -13,8 +13,8 @@ When you consistently produce work you believe in—creative work that's fueled 
 
 While projects you complete might seem disparate or disjointed, when you zoom out you might find each "node" to be part of your larger "network" of work. Everything you've created can be connected by your [[web of thinking]], which you could share through a [[digital garden]] such as this one. 
 <hr/>
-## Still to be explored
-> *What's this? [[Share ideas before they’re ready]].*
+## 🚧 ⚠️ Rough Terrain Ahead ⚠️ 🚧
+> *🛑  **What's this?** ✍️  This whole note is a work in progress, but the below part is really rough. So why's it here? [[Share ideas before they’re ready]].*
 
 ### Why build a body of work?
 - Creates opportunity

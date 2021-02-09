@@ -5,6 +5,14 @@ title: changelog
 - - - -
 ## 2021-02-01 — Building a body of work
 ### Added
+[[Data ≠ Insight]]
+
+### Updated
+- [[Ideas improve by writing about them not by thinking about them]]
+> [[writing brings clarity]], clarity frequently facilitates insight, and insight informs action, which facilitates learning, which leads to improvement
+
+## 2021-02-01 — Building a body of work
+### Added
 - Added [Buy Me A Coffee link](https://www.buymeacoffee.com/miketannenbaum) to the footer
 
 ### Updated
@@ -83,11 +91,11 @@ title: changelog
 	- [[Non-linear writing’s ability to jump from sentence to sentence, idea to idea, changes the way the mind thinks through ideas]]
 	- [[web of thinking]]
 	- [[my digital ecosystem]]
-	- [[A knowledge worker’s toolkit needs to be well rounded like a carpenter’s]]
+	- [[A knowledge worker’s toolkit needs to be well-rounded]]
 
 ## 2020-12-11 — Toolkit
 - Added
-	- [[A knowledge worker’s toolkit needs to be well rounded like a carpenter’s]]
+	- [[A knowledge worker’s toolkit needs to be well-rounded]]
 - Updated
 	- [[Learn in public]]
 	- [[my digital ecosystem]]

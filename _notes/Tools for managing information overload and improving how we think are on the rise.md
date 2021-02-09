@@ -7,6 +7,8 @@ These tools can help you go from *idea capture* to *new thing created* if you us
 
 They help you make your ideas better by enabling you to browse your thoughts non-linearly, nurture your ideas over time, and improve your overall cognition and creativity.
 
+While you're exploring your curiosity and gathering research data, these tools help you process everything you make note of and generate insights and novel ideas. [[Data ≠ Insight]], but data *is* the building block of insight, and these tools are getting better at helping us turn our data inputs into insight outputs.
+
 These tools are built to work the way your brain works, which helps to optimize the interactions you have with your computer.  [[Non-linear writing’s ability to jump from sentence to sentence, idea to idea, changes the way the mind thinks through ideas]].
 
 They’re simple pieces of software on the surface, with great depths of design and capability.

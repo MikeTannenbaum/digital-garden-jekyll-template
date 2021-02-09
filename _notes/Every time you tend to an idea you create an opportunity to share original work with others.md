@@ -9,6 +9,6 @@ Tending to your ideas on a regular basis and sharing them publicly can be incred
 
 Instead of always searching for something to write about or something to have an opinion on you are simply able to explore your curiosities, follow your interests, and consistently develop ideas worth sharing. Then, you can [[Share ideas before they’re ready]] and receive feedback to help you [[refine your ideas over time]].
 
-For those of us who identify as knowledge workers this presents a golden opportunity. If your skills and talents are in the way you think, and you give people a reason to hire you for your thinking, you [[create a market for yourself]].  After all, [[A knowledge worker’s toolkit needs to be well rounded like a carpenter’s]].
+For those of us who identify as knowledge workers this presents a golden opportunity. If your skills and talents are in the way you think, and you give people a reason to hire you for your thinking, you [[create a market for yourself]].  After all, [[A knowledge worker’s toolkit needs to be well-rounded]].
 
 By regularly sharing what has your attention and how you think about things, you create a portal into your worldview—a portal that can captivate people and draw them into your work and your [[web of thinking]]. This is why I’ve been [[Tinkering with Roam Research]]. It helps me extract knowledge from what I read, capture knowledge from my own mind, and connect ideas as they collide with one another.

@@ -26,7 +26,7 @@ Each app serves a discrete and distinguished purpose within my digital  ecosyste
 
 Most of those can be deeplinked to from any other app, so relevant notes and information are almost always a click away if I make sure to include those links.
 
-That said...how amazing would it be to see all the multidirectional links across apps? Evernote could show you all the related journals in Day One, tasks in Things, and research in Roam. [[Bidirectional links between apps would greatly improve interoperability of concepts and ideas]]. After all, [[A knowledge worker’s toolkit needs to be well rounded like a carpenter’s]].
+That said...how amazing would it be to see all the multidirectional links across apps? Evernote could show you all the related journals in Day One, tasks in Things, and research in Roam. [[Bidirectional links between apps would greatly improve interoperability of concepts and ideas]]. After all, [[A knowledge worker’s toolkit needs to be well-rounded]].
 - - - -
 Originally I said [[Bear is for networked thinking]] but lately I’ve been [[Tinkering with Roam Research]] and am finding that it might actually end up replacing most of the stack above. It's already taken me away from Bear, which was my favorite app for a long time. It's too early to fully commit as I’m just getting myself up and running, but the potential I feel from a few weeks of use is unreal.
 
