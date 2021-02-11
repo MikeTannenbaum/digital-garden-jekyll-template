@@ -1,57 +1,37 @@
 ---
 title: changelog
 ---
-*Tracking the changes across this site, which is powered by Bear + Jekyll*
+*Tracking the changes across this site, which is powered by Obsidian + Jekyll*
 - - - -
-## 2021-02-01 — Building a body of work
-### Added
-[[Data ≠ Insight]]
-
-### Updated
-- [[Ideas improve by writing about them not by thinking about them]]
-> [[writing brings clarity]], clarity frequently facilitates insight, and insight informs action, which facilitates learning, which leads to improvement
+## 2021-02-10 — Discord is modern AIM
+- [[Discord is a modern day AIM]]
 
 ## 2021-02-01 — Building a body of work
-### Added
+- Added: [[Data ≠ Insight]]
+- Updated: [[Ideas improve by writing about them not by thinking about them]]
+
+## 2021-02-01 — Building a body of work
 - Added [Buy Me A Coffee link](https://www.buymeacoffee.com/miketannenbaum) to the footer
-
-### Updated
-- Finally wrote something real about why to [[build a body of work]].
-> When you consistently produce work you believe in—creative work that's fueled by intrinsic motivation as opposed to external forces—the volume of work grows and becomes more and more valuable over time.
+- Finally wrote something real about why to [[build a body of work]]
 
 ## 2021-01-29 — More on American inequality
-### Added
-- [[America has done a terrible job taking care of its citizens]]
-- [[The future is not American-led]]
-
-### Updated
-- [[America]]
+- Added: [[America has done a terrible job taking care of its citizens]]
+- Added: [[The future is not American-led]]
+- Updated: [[America]]
 
 ## 2021-01-19 — Obsidian, Roam Research, and note updates
-### Added
-- [[Obsidian is for tending my digital garden]]
-> The tool is designed for [[networked thinking]] and automatically connects notes with one another to help you build out your [[web of thinking]] by writing similarly to how we think: non-linearly.
+- Added: [[Obsidian is for tending my digital garden]]
 - [Newsletter signup form](a-starting-point-for-thinking) on notes pages
 
 ### Updated
 - Renamed *My new design system* to [[my digital ecosystem]] and totally reworked the note
-> After much experimentation and exploration of new practices and tools, I’ve made significant improvements to my learning and knowledge management system. It's considered a work in progress, however, as it's always being iterated on and improved as my needs evolve and change.
-
 - Added products I love to [[Tools for managing information overload and improving how we think are on the rise]]
-> These tools can help you go from *idea capture* to *new thing created* if you use them effectively.
-
 - Renamed "How to take smart notes" to "[[How I take smart notes]]" because I can only share what works for me, not what others should do
-> Taking notes is about collecting information and ideas in *this* moment, and making them available for our *future* selves to act upon. We’re seeding ideas now and helping them grow stronger as we explore and learn new things.
-
 - [[Drafts is for immediate note capture and works in progress]]
-> Instead of having a thought and then thinking “where do I want to put this?"—and then having to think about what app to open, the only concern is immediately capturing the thought. BAM. done.
-
 - [[Evernote is for long-term storage]]
-> The content in Evernote is interacted with less frequently, but is housed in a trustworthy place. It's a great place to store things that need to be recalled on occasion but aren't interacted with regularly.
 
 ## 2021-01-10 — Rethinking education models
-- Added
-	- [[When you have the world of information available at your fingertips, traditional models of education are rendered obsolete]]
+- Added: [[When you have the world of information available at your fingertips, traditional models of education are rendered obsolete]]
 
 ## 2021-01-05 — Rewrote homepage, many note additions and updates
 - Added

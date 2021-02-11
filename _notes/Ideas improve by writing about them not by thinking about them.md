@@ -5,7 +5,7 @@ Letting our minds wander is a critical part of the creative process, but when it
 
 Writing brings clarity by forcing us to reflect on experiences and make sense of our thoughts.
 
-In order to write a sentence, words must be strung together coherently as thoughts in your mind. In the wake of mental progress, words fall to the page as clear articulations of thought. Thus, it is safe to say that[[writing brings clarity]], clarity frequently facilitates insight, and insight informs action, which facilitates learning, which leads to improvement.
+In order to write a sentence, words must be strung together coherently as thoughts in your mind. In the wake of mental progress, words fall to the page as clear articulations of thought. Thus, it is safe to say that [[writing brings clarity]], clarity facilitates insight, and insight informs action, which facilitates learning, which leads to improvement.
 
 If this relationship between writing and thinking is cultivated with intention, it is possible to create a system that consistently outputs ever-improving ideas along with prolific writing.
 

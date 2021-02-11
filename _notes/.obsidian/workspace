@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "18c45c47e793a53c",
+        "id": "38717c1bafa148a5",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ideas improve by writing about them not by thinking about them.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "ffb00b1ab13c73fb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "changelog.md",
+            "file": "Discord is a modern day AIM.md",
             "mode": "source"
           }
         }
@@ -51,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"digital commons\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264
+    "width": 402
   },
   "right": {
     "id": "57fbaada095c81cb",
@@ -88,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas improve by writing about them not by thinking about them.md",
+                "file": "Discord is a modern day AIM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +93,15 @@
     "width": 438
   },
   "lastOpenFiles": [
+    "Discord is a modern day AIM.md",
     "Ideas improve by writing about them not by thinking about them.md",
-    "public notes build authority and trust.md",
-    "Finding topics to write about is easier when a body of notes already exists upon which ideas can grow.md",
     "changelog.md",
     "Data ≠ Insight.md",
+    "Untitled.md",
+    "digital garden.md",
+    "public notes build authority and trust.md",
+    "Finding topics to write about is easier when a body of notes already exists upon which ideas can grow.md",
     "build a body of work.md",
-    "Black Lives Matter.md",
-    "my digital ecosystem.md",
-    "Learn in public.md",
-    "Notes should be densely linked.md"
+    "Black Lives Matter.md"
   ]
 }
