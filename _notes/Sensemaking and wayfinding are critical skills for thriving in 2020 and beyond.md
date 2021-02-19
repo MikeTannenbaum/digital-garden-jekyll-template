@@ -12,3 +12,5 @@ Effective sensemaking and wayfinding are dependent on having strong foundational
 Contexts and needs are always shifting and evolving, sometimes overnight, so building capacity for rapid iteration and adaptation to the way teams operate is crucial for organizations to effectively navigate unforeseen situations such as what we’re living through right now in 2020.
 
 For the independent professional, sensemaking and wayfinding are crucial skills for finding markets to serve, evolving service offerings, and creating opportunities out of thin air.
+
+One way to start exploring both practices is by creating maps and/or blueprints of journeys and systems you're working within. While it's important to remember [[journey maps are tools not outcomes]], they can be incredibly useful when it comes to help you make sense of complexity and find your way amid ambiguity.

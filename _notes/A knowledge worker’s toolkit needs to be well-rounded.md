@@ -24,6 +24,8 @@ Just like the soil on a farm, your [[digital ecosystem]] can either be healthy a
 
 Systems are a critical part of knowledge work but most people rarely, if ever, think about the systems they use let alone put in the time and effort to design better ones. Mostly people adopt tools as needed and without intention or concern for the larger ecosystem.
 
+Just as [[journey maps are tools not outcomes]], the tools you use to do your work are exactly that: tools. They are not the outcome you're looking for, so be sure to choose them wisely **but** focus on what really matters: delivering quality work.
+
 - - - -
 ## Related
 [[Why I like Roam over Bear for improving my thinking]]

@@ -3,10 +3,16 @@ title: changelog
 ---
 *Tracking the changes across this site, which is powered by Obsidian + Jekyll*
 - - - -
+## 2021-02-19 — Journey Maps
+- Added: [[journey maps are tools not outcomes]]
+- Updated: [[Sensemaking and wayfinding are critical skills for thriving in 2020 and beyond]]
+- Updated: [[A knowledge worker’s toolkit needs to be well-rounded]]
+- Updated: [[Data ≠ Insight]]
+
 ## 2021-02-10 — Discord is modern AIM
 - [[Discord is a modern day AIM]]
 
-## 2021-02-01 — Building a body of work
+## 2021-02-01 — Data vs Insight
 - Added: [[Data ≠ Insight]]
 - Updated: [[Ideas improve by writing about them not by thinking about them]]
 
