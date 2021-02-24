@@ -4,26 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "96dcf4c9c63d79f6",
+        "id": "0e334f9e6865088b",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Data ≠ Insight.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "368b7cffd0714b33",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "changelog.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -88,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data ≠ Insight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,8 +90,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Data ≠ Insight.md",
     "changelog.md",
+    "Data ≠ Insight.md",
     "A knowledge worker’s toolkit needs to be well-rounded.md",
     "When you have the world of information available at your fingertips, traditional models of education are rendered obsolete.md",
     "Wayfinding is the process of orienting within new environments, navigating through space, and progressing towards desired destinations.md",
