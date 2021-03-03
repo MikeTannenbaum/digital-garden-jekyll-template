@@ -5,6 +5,9 @@ title: changelog
 - - - -
 ## 2021-03-03 — Obsidian + Jekyll setup
 - Added: [[Obsidian Jekyll workflow]]
+- Updated: [[Obsidian is for tending my digital garden]]
+- Updated: [[digital garden]]
+- Updated: [[my digital ecosystem]]
 
 ## 2021-02-24 — Privacy Policy
 - Added: [Privacy](/privacy)
