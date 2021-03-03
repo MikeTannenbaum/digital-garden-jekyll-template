@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0e334f9e6865088b",
+        "id": "4834b8f2fbe6842c",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Obsidian Jekyll workflow.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian Jekyll workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +94,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Obsidian Jekyll workflow.md",
+    "open.md",
     "changelog.md",
-    "Data ≠ Insight.md",
+    "obsidian-jekyll-workflow.md",
+    "Untitled.md",
+    "_staging/obsidian-jekyll-workflow.md",
+    "automate what you can.md",
+    "_staging/Untitled.md",
     "A knowledge worker’s toolkit needs to be well-rounded.md",
-    "When you have the world of information available at your fingertips, traditional models of education are rendered obsolete.md",
-    "Wayfinding is the process of orienting within new environments, navigating through space, and progressing towards desired destinations.md",
-    "Sensemaking and wayfinding are critical skills for thriving in 2020 and beyond.md",
-    "change.md",
-    "journey maps are tools not outcomes.md",
-    "build a body of work.md",
-    "Discord is a modern day AIM.md"
+    "It feels like theres a new internet being built with the principle of the early days—sharing and connecting knowledge—but with the wisdom of today accumulated over decades of improving technologys capabilities.md"
   ]
 }

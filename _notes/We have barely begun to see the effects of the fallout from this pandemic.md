@@ -1,7 +1,7 @@
 ---
 title: We have barely begun to see the effects of the fallout from this pandemic
 ---
-Good and bad.
+Good and bad. ^62a420
 
 The forced progress and adaptation; people who never considered such a large scale event with dramatic consequences suddenly being forced to change their entire way of doing things—it’s a whole new world and we’re just scratching the surface of it.
 

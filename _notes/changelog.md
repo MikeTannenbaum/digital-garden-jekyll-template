@@ -3,6 +3,12 @@ title: changelog
 ---
 *Tracking the changes across this site, which is powered by Obsidian + Jekyll*
 - - - -
+## 2021-03-03 — Obsidian + Jekyll setup
+- Added: [[Obsidian Jekyll workflow]]
+
+## 2021-02-24 — Privacy Policy
+- Added: [Privacy](/privacy)
+
 ## 2021-02-19 — Journey Maps
 - Added: [[journey maps are tools not outcomes]]
 - Updated: [[Sensemaking and wayfinding are critical skills for thriving in 2020 and beyond]]

@@ -9,6 +9,12 @@ Created to share ideas with the world as a beacon for people with similar intere
 
 Built within a community of people with shared interests in learning, creating, and browsing [[the slow web]].
 
+<blockquote class="quoteback" darkmode="" data-title="We%E2%80%99re%20a%20Niche%2C%20We%20Just%20Didn%E2%80%99t%20Know" data-author="Interintellect" cite="https://interintellect.medium.com/were-a-niche-we-just-didn-t-know-9561f662e127">
+<blockquote class="kj"><p id="fe57" class="kk kl fo av km kn ko kp kq kr ks ki bt" data-selectable-paragraph="">I have been watching a new, loose-knit and diverse community come into existence — one that aspires to be selflessly hyper-connected and striving to be fully inclusive and output-oriented.</p></blockquote>
+<footer>Interintellect <cite><a href="https://interintellect.medium.com/were-a-niche-we-just-didn-t-know-9561f662e127">https://interintellect.medium.com/were-a-niche-we-just-didn-t-know-9561f662e127</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
 This community has inspired me to [[Learn in public]] and [[Share ideas before they’re ready]] because [[public notes build authority and trust]].
 
 It has also led me to notice a trend that absolutely fascinates me: [[Tools for managing information overload and improving how we think are on the rise]].

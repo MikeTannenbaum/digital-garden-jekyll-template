@@ -19,4 +19,4 @@ title:
 [[
 ```
 
-Automating frees the mind and helps us move towards a [[Mind like water]] state.
+Automating frees the mind and helps us move towards a [[Mind like water]] state. ^c47a5a
