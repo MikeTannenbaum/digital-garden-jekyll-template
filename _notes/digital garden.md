@@ -1,8 +1,6 @@
 ---
 title: digital garden
 ---
-> *This note is part of a small series highlighting [[my digital ecosystem]].*
-
 Digital gardens are a relatively new way of publishing and tending to one’s ideas, knowledge, and thought explorations.
 
 They’re frequently made up of works-in-progress in the form of notes—often unpolished and unfinished—that are deeply interconnected and linked with one another. Most importantly, they are created for you, the creator.
@@ -12,9 +10,11 @@ They’re frequently made up of works-in-progress in the form of notes—often u
 <footer><cite> <a href="https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/">https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/</a></cite></footer>
 </blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
+> *This note is part of a small series highlighting [[my digital ecosystem]].*
+
 The gardening language is a beautiful analogy for how we plant, tend, and grow our ideas publicly. Some bloom faster than others, some are evergreen, and some of the seeds just don’t take. Such is gardening—and creativity 🌱.
 
-Seeds need to be germinated properly and many don't root despite best intentions. My idea seeds are planted in one place—Drafts—germinated in another—Roam Research—and once they sprout into seedlings, they are moved to the garden to be tended to and matured. As of this writing,[[Obsidian is for tending my digital garden]].
+Seeds need to be germinated properly and many don't root despite best intentions. My idea seeds are planted in one place—Drafts—germinated in another—Roam Research—and once they sprout into seedlings, they are moved to the garden to be tended to and matured. As of this writing, [[Obsidian is for tending my digital garden]].
 
 Many digital gardens adhere to some basic tenets which help cultivate the digital soil in a healthy and effective way.
 - Linking notes to one another, bidirectionally, is essential
@@ -37,3 +37,6 @@ Tending to digital gardens helps make sure you [[always have something to write 
 [Ness Labs — You and your mind garden](https://nesslabs.com/mind-garden)<br>
 [Tom Critchlow — Digital Gardens](https://tomcritchlow.com/blogchains/digital-gardens/)<br>
 [Andy Matuschak — About these notes](http://notes.andymatuschak.org/)<br>
+
+## How to setup your own digital garden
+My workflow is MacOS-specific, as [[Obsidian is for tending my digital garden]] and it is native to MacOS. If you would like to learn more about my workflow, I made this for you: [[Obsidian Jekyll workflow]].

@@ -11,6 +11,8 @@ After much experimentation and exploration of new practices and tools, I’ve ma
 
 While the system is intended to facilitate writing, I've come to learn that [[It’s not a writing system, it’s a thinking system whose byproduct is writing]].
 
+If you would like to setup your own digital garden, I wrote a note on how mine is made through my [[Obsidian Jekyll workflow]].
+
 ## Here’s what I’m working with right now
 * [[Drafts is for immediate note capture and works in progress]].
 * [[Obsidian is for tending my digital garden]].
