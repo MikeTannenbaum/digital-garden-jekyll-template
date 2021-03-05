@@ -30,3 +30,4 @@ Just as [[journey maps are tools not outcomes]], the tools you use to do your wo
 ## Related
 [[Why I like Roam over Bear for improving my thinking]]
 [Digital Tools I Wish Existed — Jon Borichevskiy](https://jon.bo/posts/digital-tools/)
+[[browsing the internet through multiple tabs is non-linear thinking]]

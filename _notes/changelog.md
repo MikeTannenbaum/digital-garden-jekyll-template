@@ -3,6 +3,13 @@ title: changelog
 ---
 *Tracking the changes across this site, which is powered by Obsidian + Jekyll*
 - - - -
+## 2021-03-05 — Asynchronous work
+- Added: [[asynchronous communication is a critical component of the future of work]]
+- Added: [[scheduling—but not forcing—creativity]]
+- Added: [[browsing the internet through multiple tabs is non-linear thinking]]
+- Updated: [[Non-linear writing’s ability to jump from sentence to sentence, idea to idea, changes the way the mind thinks through ideas]]
+- Updated: [[When you have the world of information available at your fingertips, traditional models of education are rendered obsolete]]
+
 ## 2021-03-03 — Obsidian + Jekyll setup
 - Added: [[Obsidian Jekyll workflow]]
 - Updated: [[Obsidian is for tending my digital garden]]
