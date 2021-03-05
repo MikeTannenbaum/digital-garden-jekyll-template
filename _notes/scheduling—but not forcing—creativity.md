@@ -1,7 +1,7 @@
 ---
 title: scheduling—but not forcing—creativity
 ---
-Based on a Twitter conversation I found myself thinking about how to effectively block my time and then _use that time productively/creatively_ **without having to feel the pressure** of trying to force a creative spark or insight.
+Based on a [Twitter conversation](https://twitter.com/brandontoner/status/1364404730454245379){:target="_blank"} I found myself thinking about how to effectively block my time and then _use that time productively/creatively_ **without having to feel the pressure** of trying to force a creative spark or insight.
 
 ## It starts with time blocking
 I've started with the bare minimum of simply blocking that time.
@@ -21,20 +21,10 @@ When I allot myself time and space to be free from focusing intensely on The Pro
 
 Sometimes it's relevant to The Problem and other times it's something else entirely. Either way I'm happy because I end up with some creative output that I can use somewhere in my [[web of thinking]], [[digital garden]], or somewhere else.
 
-While I fully believe[[writing is thinking]], it is certainly not the only way to think. Yes, [[Ideas improve by writing about them not by thinking about them]], which means it's important to **[[capture the output of your thoughts in some way they can be remembered in the future]]**.
+While I fully believe[[writing is thinking]], it is certainly not the only way to think. Yes, [[Ideas improve by writing about them not by thinking about them]], which means it's important to [[capture the output of your thoughts in some way they can be remembered in the future]].
 
 But problems can also be solved by thinking—especially when you're stepping away from The Problem and letting your mind relax and cognitive load decrease.
 
 It's almost as if the time away from focusing on The Problem is effective _because_ I've spent so much time focusing on The Problem.
 
-Ironically, after writing this, one of my favorite people to learn from posted a video about exactly this: the difference between focused thinking and diffused thinking, i.e. [why good ideas happen in the shower](https://www.youtube.com/watch?v=8wOgJ5NuMNY).
-
----
-I’m REALLY interested in cracking open a solution to non-coercive productivity and creativity. 
-
-I believe it’s possible to align work with flow. To accomplish, without forcing. Allowing inspiration to take stage, and running with it.
-
----
-I have been thinking about this too. I'm thinking about scheduling time to flow, with a bit of freedom + time tracking.
-
-Source: https://twitter.com/brandontoner/status/1364404730454245379
+Ironically, after writing this, one of my favorite people to learn from, Anne-Laure Le Cunff, posted a video about exactly this: the difference between focused thinking and diffused thinking, i.e. [why good ideas happen in the shower](https://www.youtube.com/watch?v=8wOgJ5NuMNY).

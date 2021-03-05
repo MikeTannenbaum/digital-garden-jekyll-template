@@ -4,52 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2e4a49d027c53e8a",
-        "type": "split",
-        "children": [
-          {
-            "id": "346238e0d41580ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "When you have the world of information available at your fingertips, traditional models of education are rendered obsolete.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "29bd6a679160b7cd",
-            "type": "split",
-            "children": [
-              {
-                "id": "addeba161cc7821b",
-                "type": "leaf",
-                "active": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "browsing the internet through multiple tabs is non-linear thinking.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "22175e8de3f368e7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "changelog.md",
-                    "mode": "source"
-                  }
-                }
-              }
-            ],
-            "direction": "horizontal"
+        "id": "260ae8a10a892d4e",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "scheduling—but not forcing—creativity.md",
+            "mode": "source"
           }
-        ],
-        "direction": "vertical"
+        }
       }
     ],
     "direction": "vertical"
@@ -113,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "browsing the internet through multiple tabs is non-linear thinking.md",
+                "file": "scheduling—but not forcing—creativity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,15 +90,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438
+    "width": 352,
+    "collapsed": true
   },
   "lastOpenFiles": [
+    "scheduling—but not forcing—creativity.md",
     "browsing the internet through multiple tabs is non-linear thinking.md",
-    "changelog.md",
     "When you have the world of information available at your fingertips, traditional models of education are rendered obsolete.md",
+    "changelog.md",
     "A knowledge worker’s toolkit needs to be well-rounded.md",
     "Non-linear writing’s ability to jump from sentence to sentence, idea to idea, changes the way the mind thinks through ideas.md",
-    "scheduling—but not forcing—creativity.md",
     "Untitled.md",
     "my digital ecosystem.md",
     "What has my attention now.md",
