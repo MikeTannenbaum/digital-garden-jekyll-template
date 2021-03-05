@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "260ae8a10a892d4e",
+        "id": "911fb09a0833b2fe",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "scheduling—but not forcing—creativity.md",
+            "file": "changelog.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "##",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scheduling—but not forcing—creativity.md",
+                "file": "changelog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,10 +95,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "changelog.md",
     "scheduling—but not forcing—creativity.md",
     "browsing the internet through multiple tabs is non-linear thinking.md",
     "When you have the world of information available at your fingertips, traditional models of education are rendered obsolete.md",
-    "changelog.md",
     "A knowledge worker’s toolkit needs to be well-rounded.md",
     "Non-linear writing’s ability to jump from sentence to sentence, idea to idea, changes the way the mind thinks through ideas.md",
     "Untitled.md",
