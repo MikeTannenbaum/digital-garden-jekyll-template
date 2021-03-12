@@ -14,22 +14,33 @@ While the system is intended to facilitate writing, I've come to learn that [[It
 If you would like to setup your own digital garden, I wrote a note on how mine is made through my [[Obsidian Jekyll workflow]].
 
 ## Here’s what I’m working with right now
+* *Experimental:* [[Notion as an organized workspace]].
+* Roam as a networked [[web of thinking]].
 * [[Drafts is for immediate note capture and works in progress]].
 * [[Obsidian is for tending my digital garden]].
-* Things is for getting shit done.
-* Readwise is for serendipity and delight.
-* Roam Research has recently become my go to system for everything related to research, learning, thinking, and managing knowledge (and possibly tasks and reading materials, too). I may write more on Roam in the future but for now here's [[Why I like Roam over Bear for improving my thinking]].
+	* Obsidian helps you build and improve ideas over time.
+* Things as a tasklist.
 * [[Evernote is for long-term storage]].
 * Day One is for personal journaling since 2013.
-* Ulysses is for long form writing projects.
-* [[Alfred is for automation and central control]].
+* Craft / Bear / Ulysses for writing and collaborative idea building.
+* Readwise is for serendipity and delight.
+* *And the nerdy side of me:* [[Alfred is for automation and central control]].
 
 Each app serves a discrete and distinguished purpose within my digital  ecosystem.
 
 Most of those can be deeplinked to from any other app, so relevant notes and information are almost always a click away if I make sure to include those links.
 
 That said...how amazing would it be to see all the multidirectional links across apps? Evernote could show you all the related journals in Day One, tasks in Things, and research in Roam. [[Bidirectional links between apps would greatly improve interoperability of concepts and ideas]]. After all, [[A knowledge worker’s toolkit needs to be well-rounded]].
-- - - -
-Originally I said [[Bear is for networked thinking]] but lately I’ve been [[Tinkering with Roam Research]] and am finding that it might actually end up replacing most of the stack above. It's already taken me away from Bear, which was my favorite app for a long time. It's too early to fully commit as I’m just getting myself up and running, but the potential I feel from a few weeks of use is unreal.
 
-UPDATE: [[Why I like Roam over Bear for improving my thinking]]
+### Some thoughts on the evolution of this ecosystem
+Ulysses was for long form and Bear was for notes, but that's all changing.
+
+Craft seems awesome and might replace both, but it's too new to me to commit. For now I don't need to choose because most of my work is done elsewhere at this point: in Roam and Things.
+
+In late 2020, I started experimenting with Roam Research to see how it might fit with my brain. I was stunned.
+
+Immediately I saw the potential of this brilliantly simple-yet-powerful piece of software.
+
+Since then it has increasingly become my go to system for everything related to research, learning, thinking, and managing knowledge. It also holds tasks, ideas, and reading materials, though I do not rely on it like I do Things and Instapaper. I'd like to write more about my experiences with Roam in the future, but for now here's [[Why I like Roam over Bear for improving my thinking]].
+
+Originally I wrote [[Bear is for networked thinking]]. When I started [[Tinkering with Roam Research]] I quickly saw how it might actually end up replacing most of the stack above. It's already taken me away from Bear, which was my favorite app for a long time, followed closely by Ulysses.

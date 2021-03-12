@@ -5,6 +5,13 @@ title: changelog
 
 - - - -
 ### 2021-03-05 — Asynchronous work
+- Updated
+	- [[my digital ecosystem]]
+	- [[Why I like Roam over Bear for improving my thinking]]
+	- [[Alfred is for automation and central control]]
+	- 
+
+### 2021-03-05 — Asynchronous work
 - Added
 	- [[asynchronous communication is a critical component of the future of work]]
 	- [[scheduling—but not forcing—creativity]]

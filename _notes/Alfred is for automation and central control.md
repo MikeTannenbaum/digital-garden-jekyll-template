@@ -1,21 +1,36 @@
 ---
 title: Alfred is for automation and central control
 ---
+Always [[automate what you can]]. It frees up your time so your mind can focus on what matters most.
+
 > *This note is part of a small series highlighting [[my digital ecosystem]].*
 
-Always [[automate what you can]]. It frees up your time so your mind can focus on what matters.
+This note exists because it's so easy to forget such tiny details about our digital lives. I hack together so many systems but fail to document anything.
+
+In effort to build out documentation for my digital life I've started making note of all the little customizations and personalizations I make now and then.
+
+Like everything, this is a giant experiment that might end up as a giant waste of time. We shall see...
 
 ## Text expansion
-`##B` = Backlinks for Bear<br>
+After years of using Alfred for all these, 2021 led to me moving all these expansions to iCloud via keyboard settings. This enables all expansions to work on all devices, which has been pretty great. I'm really hoping to build out more of these.
+
+`shrug` = ¯\_(ツ)_/¯<br>
+`.r ` = review:<br>
+`.e ` = email:<br>
+`.w ` = write: <br>
+`.tp ` = #to-process <br>
+`.li ` = https://www.linkedin.com/in/tannenbaum/  <br>
+`.tw ` = https://www.twitter.com/theroyaltbomb/  <br>
+`.mt ` = https://www.miketannenbaum.com/  <br>
+`.trm ` = https://www.refinedmind.co/  <br>
 `$wb` = Whereby URL<br>
 `$z` = Zoom URL<br>
 `$u` = Uberconference URL<br>
-`shrug` = ¯\_(ツ)_/¯<br>
-`/r ` = review:<br>
-`/e ` = email:<br>
-`/w ` = write: <br>
+`##B` = Backlinks for Bear<br>
 
 ## Alfred workflow commands
+Aside from all the custom commands below, I also rely on Alfred for searching my device, the internet, and until recently, all my notes. I'll need to better integrate it with [[my digital ecosystem]] now that's it's wrapping up its recent evolution.
+
 `bs` = Bear search [[source](https://github.com/drgrib/alfred-bear)]<br>
 `bn` = Bear note<br>
 `bs #` = Bear search tags<br>

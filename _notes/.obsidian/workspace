@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "911fb09a0833b2fe",
+        "id": "c298aa347ce1ac0f",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "changelog.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -57,8 +54,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "changelog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,14 +91,14 @@
   },
   "lastOpenFiles": [
     "changelog.md",
+    "What has my attention now.md",
+    "my digital ecosystem.md",
+    "Why I like Roam over Bear for improving my thinking.md",
+    "Tinkering with Roam Research.md",
+    "change.md",
+    "Alfred is for automation and central control.md",
     "scheduling—but not forcing—creativity.md",
     "browsing the internet through multiple tabs is non-linear thinking.md",
-    "When you have the world of information available at your fingertips, traditional models of education are rendered obsolete.md",
-    "A knowledge worker’s toolkit needs to be well-rounded.md",
-    "Non-linear writing’s ability to jump from sentence to sentence, idea to idea, changes the way the mind thinks through ideas.md",
-    "Untitled.md",
-    "my digital ecosystem.md",
-    "What has my attention now.md",
-    "Ideas improve by writing about them not by thinking about them.md"
+    "When you have the world of information available at your fingertips, traditional models of education are rendered obsolete.md"
   ]
 }
