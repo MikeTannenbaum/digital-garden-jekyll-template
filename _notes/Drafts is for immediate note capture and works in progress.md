@@ -1,9 +1,9 @@
 ---
 title: Drafts is for immediate note capture and works in progress
 ---
-> *This note is part of a small series highlighting [[my digital ecosystem]].*
-
 When an idea pops up—whether a task, a reminder, or something more expansive—[Drafts](https://getdrafts.com/){:target="_blank"} is the app that gets opened on mobile to quickly capture thoughts.
+
+> *This note is part of a small series highlighting [[my digital ecosystem]].*
 
 ### Every piece of writing starts in Drafts
 Whether a note to myself, an email to be composed, or something to remind myself later, it all starts in Drafts.

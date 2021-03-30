@@ -9,6 +9,10 @@ Early in 2020 I discovered a community of folks passionate about building their 
 
 After much experimentation and exploration of new practices and tools, I’ve made significant improvements to my learning and knowledge management system. It's considered a work in progress, however, as it's always being iterated on and improved as my needs evolve and change.
 
+And once again, as of March 2021, I'm considering how to rework the system based on how my needs have evolved.
+
+{% picture /assets/digital-ecosystem-diagram.png --alt Visual map of my digital ecosystem %}
+
 While the system is intended to facilitate writing, I've come to learn that [[It’s not a writing system, it’s a thinking system whose byproduct is writing]].
 
 If you would like to setup your own digital garden, I wrote a note on how mine is made through my [[Obsidian Jekyll workflow]].
@@ -18,15 +22,18 @@ If you would like to setup your own digital garden, I wrote a note on how mine i
 * Roam as a networked [[web of thinking]].
 * [[Drafts is for immediate note capture and works in progress]].
 * [[Obsidian is for tending my digital garden]].
-	* Obsidian helps you build and improve ideas over time.
-* Things as a tasklist.
+	* Obsidian helps build and improve ideas over time.
+* [[Things is for getting shit done]].
 * [[Evernote is for long-term storage]].
 * Day One is for personal journaling since 2013.
-* Craft / Bear / Ulysses for writing and collaborative idea building.
+* Craft for writing and collaborative idea building.
+* [[Whimsical is for visual thinking]]
 * Readwise is for serendipity and delight.
 * *And the nerdy side of me:* [[Alfred is for automation and central control]].
 
 Each app serves a discrete and distinguished purpose within my digital  ecosystem.
+
+{% picture /assets/digital-ecosystem-apps.png --alt App icons of my ecosystem and their associated purposes) %}
 
 Most of those can be deeplinked to from any other app, so relevant notes and information are almost always a click away if I make sure to include those links.
 

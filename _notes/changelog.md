@@ -4,12 +4,26 @@ title: changelog
 > *Tracking the changes across this site, powered by an [[Obsidian Jekyll workflow]]*
 
 - - - -
-### 2021-03-05 — Asynchronous work
+### 2021-03-30 — New tools for visual thinking + the patriarchy at work
+- Added
+	- [[Whimsical is for visual thinking]]
+	- [[Notion as an organized workspace]]
+	- [[the world of work was not designed for working parents]]
+- Updated
+	- [[my digital ecosystem]]
+	- [[A knowledge worker’s toolkit needs to be well-rounded]]
+- Site Improvements
+	- Added feed.xml with a [Jekyll plugin](https://github.com/jekyll/jekyll-feed){:target="_blank"}
+	- Added [plugin](https://github.com/rob-murray/jekyll-twitter-plugin){:target="_blank"} to display Twitter embeds
+	- Added [SEO tagging](https://github.com/jekyll/jekyll-seo-tag){:target="_blank"}
+	- Added Jekyll [Spaceship plugin](https://github.com/jeffreytse/jekyll-spaceship){:target="_blank"} to help with all the things
+	- Added Jekyll [image plugin](https://github.com/rbuchberger/jekyll_picture_tag){:target="_blank"} (not working yet)
+
+### 2021-03-05 — Digital ecosystem updates
 - Updated
 	- [[my digital ecosystem]]
 	- [[Why I like Roam over Bear for improving my thinking]]
 	- [[Alfred is for automation and central control]]
-	- 
 
 ### 2021-03-05 — Asynchronous work
 - Added

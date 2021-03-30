@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c298aa347ce1ac0f",
+        "id": "212c76a1feabd129",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "changelog.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "changelog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,14 +95,14 @@
   },
   "lastOpenFiles": [
     "changelog.md",
-    "What has my attention now.md",
+    "the world of work was not designed for working parents.md",
+    "A knowledge worker’s toolkit needs to be well-rounded.md",
+    "Tools for managing information overload and improving how we think are on the rise.md",
+    "Untitled.md",
+    "journey maps are tools not outcomes.md",
+    "Whimsical is for visual thinking.md",
     "my digital ecosystem.md",
-    "Why I like Roam over Bear for improving my thinking.md",
-    "Tinkering with Roam Research.md",
-    "change.md",
-    "Alfred is for automation and central control.md",
-    "scheduling—but not forcing—creativity.md",
-    "browsing the internet through multiple tabs is non-linear thinking.md",
-    "When you have the world of information available at your fingertips, traditional models of education are rendered obsolete.md"
+    "What has my attention now.md",
+    "asynchronous communication is a critical component of the future of work.md"
   ]
 }
