@@ -11,7 +11,7 @@ After much experimentation and exploration of new practices and tools, I’ve ma
 
 And once again, as of March 2021, I'm considering how to rework the system based on how my needs have evolved.
 
-{% picture /assets/digital-ecosystem-diagram.png --alt Visual map of my digital ecosystem %}
+![](/assets/digital-ecosystem-diagram.png)
 
 While the system is intended to facilitate writing, I've come to learn that [[It’s not a writing system, it’s a thinking system whose byproduct is writing]].
 
@@ -33,7 +33,7 @@ If you would like to setup your own digital garden, I wrote a note on how mine i
 
 Each app serves a discrete and distinguished purpose within my digital  ecosystem.
 
-{% picture /assets/digital-ecosystem-apps.png --alt App icons of my ecosystem and their associated purposes) %}
+![](/assets/digital-ecosystem-apps.png)
 
 Most of those can be deeplinked to from any other app, so relevant notes and information are almost always a click away if I make sure to include those links.
 

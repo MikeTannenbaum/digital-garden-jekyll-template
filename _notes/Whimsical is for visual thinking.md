@@ -19,8 +19,6 @@ Enter Whimsical.
 
 **Very** quickly I had diagrams up and running and keyboard shortcuts committed to memory. The ability to go from "never having used this before" to "I feel like a pro" took only an hour or two, and I've only grown my comfort with the tool.
 
-After many (many) iterations of the diagram above, all done in Whimsical, I was able to leave my design session feeling good about the progress I made, which has since then (~12 hours later) shifted the way I think about the apps and services I rely on to do my work.
-
-{% twitter https://twitter.com/theroyaltbomb/status/1376650184390807555 %}
+After [many (many) iterations of the diagram above](https://twitter.com/theroyaltbomb/status/1376650184390807555){:target="_blank"}, all done in Whimsical, I was able to leave my design session feeling good about the progress I made, which has since then (~12 hours later) shifted the way I think about the apps and services I rely on to do my work.
 
 No tool is perfect, and too many tools can have negative consequences, but so far I'm really happy with [[my digital ecosystem]], including the addition of [Whimsical](https://whimsical.com/){:target="_blank"}
