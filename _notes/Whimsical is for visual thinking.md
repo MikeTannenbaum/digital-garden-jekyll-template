@@ -5,11 +5,11 @@ A recent discovery, [Whimsical](https://whimsical.com/){:target="_blank"} has qu
 
 While [[my digital ecosystem]] is quite robust and maybe not in need of another app—though [[A knowledge worker’s toolkit needs to be well-rounded]]—this one is really special because it's delightful to use and helps me think in ways that other digital apps do not.
 
-Whimsical facilitates visual thinking in an intuitive and magical experience. The visual-first focus is what makes it a unique addition to my existing stack of apps. It also handles docs, which I haven't fully explored yet, but they look incredibly promising and I can see certain use cases for them over time. 
+Whimsical facilitates visual thinking in an intuitive and magical experience. The visual-first focus is what makes it a unique addition to my existing stack of apps. It also handles docs, which I haven't fully explored yet, but they look incredibly promising and I can see certain use cases for them over time.
 
 Whimsical is what I used to visualize this diagram of my ecosystem:
 
-{% picture /assets/digital-ecosystem-apps.png %}
+![](/assets/digital-ecosystem-apps.png)
 
 I found myself struggling to reduce the number of apps I use in my workflow. So what happened? I added another one, naturally!
 
