@@ -31,7 +31,7 @@ If you would like to setup your own digital garden, I wrote a note on how mine i
 * Readwise is for serendipity and delight.
 * *And the nerdy side of me:* [[Alfred is for automation and central control]].
 
-Each app serves a discrete and distinguished purpose within my digital  ecosystem.
+Each app serves a discrete and distinguished purpose within my digital ecosystem.
 
 ![](/assets/digital-ecosystem-apps.png)
 
