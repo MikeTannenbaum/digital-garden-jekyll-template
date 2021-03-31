@@ -9,9 +9,11 @@ title: changelog
 	- [[Whimsical is for visual thinking]]
 	- [[Notion as an organized workspace]]
 	- [[the world of work was not designed for working parents]]
+	- [[think in terms of inputs and outputs to design better processes]]
 - Updated
 	- [[my digital ecosystem]]
 	- [[A knowledge worker’s toolkit needs to be well-rounded]]
+	- [[journey maps are tools not outcomes]]
 - Site Improvements
 	- Added feed.xml with a [Jekyll plugin](https://github.com/jekyll/jekyll-feed){:target="_blank"}
 	- Added [plugin](https://github.com/rob-murray/jekyll-twitter-plugin){:target="_blank"} to display Twitter embeds
@@ -200,7 +202,7 @@ title: changelog
 ### 2020-06-12 — Added commenting + new notes
 * [[Sensemaking and wayfinding are critical skills for thriving in 2020 and beyond]]
 * [[Wayfinding is the process of orienting within new environments, navigating through space, and progressing towards desired destinations]]
-* [[Sensemaking is the process of creating situational awareness amid uncertain and ambiguous situations and anticipating trajectories in order to effectively make decisions]]
+* [[sensemaking is the process of creating situational awareness amid uncertain and ambiguous situations while anticipating paths forward in order to effectively make decisions]]
 * Added a comment system in hopes of some dialogue and public discourse!
 
 #### 2020-06-09 — Content + Layout updates

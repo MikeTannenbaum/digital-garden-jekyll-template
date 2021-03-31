@@ -27,16 +27,15 @@ Perhaps this is my way of justifying the many tools in [[my digital ecosystem]],
 
 Just like the soil on a farm, your [[digital ecosystem]] can either be healthy and lead to a bountiful harvest, or can be devoid of all nutrients and produce little to nothing of value. It all depends on where you focus your efforts.
 
-Systems are a critical part of knowledge work but most people rarely, if ever, think about the systems they use let alone put in the time and effort to design better ones. Mostly people adopt tools as needed and without intention or concern for the larger ecosystem, which often leads to bloated and fragmented work environments where ideas and knowledge are spread out and made difficult to access quickly.
+Just as [[journey maps are tools not outcomes]], the digital tools you use to do your work are exactly that: tools. Be sure to choose them wisely. We shape our tools as we want them to be, but our tools also shape us the more we use them.
 
-Just as [[journey maps are tools not outcomes]], the tools you use to do your work are exactly that: tools. They are not the outcome you're looking for, so be sure to choose them wisely—**but** focus on what really matters: delivering quality work.
+As important as it is to choose the right tool for the job, remember what matters here in the land of knowledge work: outcomes.
 
-While we shape our tools, our tools also shape us.
-
-Be intentional with how you do your work, as it is a reflection of your worldview and will be mirrored back to and imprinted upon you over time.
+Make sure to stay focused on what matters most: **delivering quality work**.
 
 - - - -
 ## Related
 [[Why I like Roam over Bear for improving my thinking]]
 [Digital Tools I Wish Existed — Jon Borichevskiy](https://jon.bo/posts/digital-tools/)
 [[browsing the internet through multiple tabs is non-linear thinking]]
+[[think in terms of inputs and outputs to design better processes]]

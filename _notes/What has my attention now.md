@@ -24,6 +24,7 @@ title: What has my attention now
 ## Thinking
 - [[asynchronous communication is a critical component of the future of work]]
 - [[capture the output of your thoughts in some way they can be remembered in the future]]
+- [[think in terms of inputs and outputs to design better processes]]
 * [[Sensemaking and wayfinding are critical skills for thriving in 2020 and beyond]]
 	* These skills help independent professionals
 - How to [[build a body of work]] over time

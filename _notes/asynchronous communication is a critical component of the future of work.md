@@ -32,6 +32,8 @@ These skills are increasingly essential for high-performing teams of knowledge w
 
 [[A knowledge worker’s toolkit needs to be well-rounded]], and an increasingly essential part of this toolkit is the ability to work and communicate asynchronously.
 
+[[think in terms of inputs and outputs to design better processes]].
+
 ## How to transition to working asynchronously
 - [GitLab — How to implement async workflows](https://about.gitlab.com/company/culture/all-remote/asynchronous/#how-to-implement-asynchronous-workflows)
 - [GitLab — Embracing asynchronous communication](https://about.gitlab.com/company/culture/all-remote/asynchronous/){:target="_blank"}

@@ -10,7 +10,7 @@ Same with journey maps.
 
 Journey maps help people visualize and understand the complexities of a system or service, which then helps identify areas in need of improvement. By zooming in and zooming out—something I've started calling [[zoom-in-zoom-out thinking]]—journey maps help uncover those critical opportunities for improvement which can then be focused and iterated on in ways that leave things better than they are displayed on the original journey map.
 
-When you present your journey map to stakeholders, know what areas you want them to invest in and make that clear. "Here's what we learned and here's what's next."
+When you present your journey map to stakeholders it's important to have research-informed recommendations regarding what you believe is worth further exploring. "Here's what we learned and here's what's next."
 
 Also, it's important to know the difference between data and insight. [[Data ≠ Insight]] though most people will present data as insights, which really misses the mark.
 
@@ -23,3 +23,8 @@ That said...
 If you're not taking action on what you learn from a journey map there's a good chance stakeholders were not taught *why* the journey map is being made.
 
 Further upstream in the process of stakeholder alignment it should be made clear that the journey map is a launching pad for further investment and continuous improvement, not an endpoint.
+
+## 🚧 ⚠️ Rough Terrain Ahead ⚠️ 🚧
+> *🛑  **What's this?** ✍️  This whole note is a work in progress, but the below part is really rough. So why's it here? [[Share ideas before they’re ready]].*
+
+Related: [[think in terms of inputs and outputs to design better processes]]
