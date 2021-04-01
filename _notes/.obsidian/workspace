@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "e50821c30799376b",
+        "id": "f9f8181ad8e675f7",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "What has my attention now.md",
+            "file": "Notion as an organized workspace.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What has my attention now.md",
+                "file": "Notion as an organized workspace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,15 +94,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Notion as an organized workspace.md",
+    "I am looking for new and meaningful projects in 2021.md",
+    "think in terms of inputs and outputs to design better processes.md",
     "What has my attention now.md",
     "Take notes in your own words while reading, watching, and thinking.md",
     "asynchronous communication is a critical component of the future of work.md",
-    "think in terms of inputs and outputs to design better processes.md",
     "Obsidian is for tending my digital garden.md",
     "journey maps are tools not outcomes.md",
     "changelog.md",
-    "A knowledge worker’s toolkit needs to be well-rounded.md",
-    "sensemaking is the process of creating situational awareness amid uncertain and ambiguous situations while anticipating paths forward in order to effectively make decisions.md",
-    "zoom-in-zoom-out thinking.md"
+    "A knowledge worker’s toolkit needs to be well-rounded.md"
   ]
 }
