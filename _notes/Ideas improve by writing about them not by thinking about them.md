@@ -36,4 +36,4 @@ To improve ideas it's helpful to have a foundation to build upon. This foundatio
 - [[Take notes in your own words while reading, watching, and thinking]]
 - [[Notes should be densely linked]]
 - [[Obsidian is for tending my digital garden]]
-- [[Learn in public]]
+- [[learn in public]]

@@ -15,7 +15,7 @@ Built within a community of people with shared interests in learning, creating, 
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
-This community has inspired me to [[Learn in public]] and [[Share ideas before they’re ready]] because [[public notes build authority and trust]].
+This community has inspired me to [[learn in public]] and [[Share ideas before they’re ready]] because [[public notes build authority and trust]].
 
 It has also led me to notice a trend that absolutely fascinates me: [[Tools for managing information overload and improving how we think are on the rise]].
 

@@ -24,7 +24,7 @@ While projects you complete might seem disparate or disjointed, when you zoom ou
 - Offers purpose and meaning
 
 ### How to get started
-- [[Learn in public]]
+- [[learn in public]]
 - [[stack the bricks]]
 - [[Share ideas before they’re ready]]
 - [[refine your ideas over time]]

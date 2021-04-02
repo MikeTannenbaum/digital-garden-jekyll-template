@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f9f8181ad8e675f7",
+        "id": "11c7cda9f0730eed",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notion as an organized workspace.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion as an organized workspace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,19 +86,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352,
-    "collapsed": true
+    "width": 352
   },
   "lastOpenFiles": [
-    "Notion as an organized workspace.md",
-    "I am looking for new and meaningful projects in 2021.md",
+    "Every time you tend to an idea you create an opportunity to share original work with others.md",
+    "web of thinking.md",
+    "We must confront ourselves. It’s as simple as that.md",
+    "We have barely begun to see the effects of the fallout from this pandemic.md",
     "think in terms of inputs and outputs to design better processes.md",
-    "What has my attention now.md",
-    "Take notes in your own words while reading, watching, and thinking.md",
-    "asynchronous communication is a critical component of the future of work.md",
-    "Obsidian is for tending my digital garden.md",
-    "journey maps are tools not outcomes.md",
+    "the world of work was not designed for working parents.md",
     "changelog.md",
-    "A knowledge worker’s toolkit needs to be well-rounded.md"
+    "Obsidian is for tending my digital garden.md",
+    "Share ideas before they’re ready.md",
+    "learn in public.md"
   ]
 }

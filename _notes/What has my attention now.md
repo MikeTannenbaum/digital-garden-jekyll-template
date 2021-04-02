@@ -8,7 +8,7 @@ title: What has my attention now
 * An idea generating, knowledge building, note taking, learning system, part of which is this [[digital garden]]
 	* [[The goal of a learning system is to trigger the right memory to help us remember the most useful information at the time we need it]]
 	* Some thoughts as I iterate on [[my digital ecosystem]]
-		* This system helps me [[always have something to write about]], [[Learn in public]], and [[build a body of work]] while exploring my [[web of thinking]]
+		* This system helps me [[always have something to write about]], [[learn in public]], and [[build a body of work]] while exploring my [[web of thinking]]
 		* [[A knowledge worker’s toolkit needs to be well-rounded]]
 		* [[Tools for managing information overload and improving how we think are on the rise]]
 		* [[How I take smart notes]]

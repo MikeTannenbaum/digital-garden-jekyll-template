@@ -1,9 +1,9 @@
 ---
 title: Share ideas before they’re ready
 ---
-Often we have ideas and then sit on them for a long time, telling ourselves “it’s not ready yet” and therefore we never publish the idea, which is as if we never really had it at all.
+Sharing ideas before they’re ready helps strengthen the core of an idea by creating opportunities for people to challenge assumptions, provide different perspectives, and shift thinking.
 
-Sharing ideas before they’re ready creates opportunities for people to challenge assumptions and meld minds in ways that strengthen the core of an idea.
+Often we have ideas and then sit on them for a long time, telling ourselves “it’s not ready yet.” This leads to us never publishing ideas, which is basically the same as never really having the idea at all.
 
 Quick feedback loops enable iteration and refinement, which result in better ideas. [[Ideas improve by writing about them not by thinking about them]].
 
@@ -11,6 +11,6 @@ Since these are thoughts in progress it’s important to note that these are not
 
 When sharing thoughts in progress there needs to be an unspoken-yet-mutually-accepted agreement between the reader and writer. Respectful discourse is encouraged but aggression without prior discussion is unwarranted. All words and ideas are subject to change at any time.
 
-One benefit of sharing ideas publicly is the opportunity to collaborate on ideas with people from around the world, which only leads to even more new perspectives to help refine and improve ideas. Over time you’ll discover that you’ve built a [[build a body of work]] that is unique to you.
+One benefit of sharing ideas publicly is the opportunity to collaborate on ideas with people from around the world, which only leads to even more new perspectives to help refine and improve ideas. Over time you’ll [[refine your ideas over time]] and discover you’ve built a [[build a body of work]] that is unique to you.
 
-All of this is foundational to help you [[Learn in public]].
+All of this is foundational to help you [[learn in public]].

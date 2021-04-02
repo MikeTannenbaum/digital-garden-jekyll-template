@@ -26,7 +26,7 @@ Many digital gardens adhere to some basic tenets which help cultivate the digita
 
 When exploring the garden, links are clicked through without any linearity—every path through the garden is unique.[[Non-linear writing’s ability to jump from sentence to sentence, idea to idea, changes the way the mind thinks through ideas]], and digital gardens are a representation of that non-linear thinking, just in a public fashion.
 
-When you [[Learn in public]], you build connection between ideas and people. [[Every time you tend to an idea you create an opportunity to share original work with others]].  It also helps that [[public notes build authority and trust]].
+When you [[learn in public]], you build connection between ideas and people. [[Every time you tend to an idea you create an opportunity to share original work with others]].  It also helps that [[public notes build authority and trust]].
 
 Tending to digital gardens helps make sure you [[always have something to write about]], consistently [[build a body of work]], and frequently have the opportunity to share your [[web of thinking]] with others, as a beacon for likeminded people.
 
