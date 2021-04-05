@@ -1,7 +1,7 @@
 ---
 title: the world of work was not designed for working parents
 ---
-> This was originally written as a [Twitter thread](https://twitter.com/TheRoyalTbomb/status/1376958731578179586){:target="_blank"}
+> This was originally written as a [Twitter thread][1]{:target="\_blank"}
 
 The world of work was not designed for working parents.
 
@@ -57,6 +57,10 @@ But seriously, it's in our way.
 
 Because of the patriarchy our entire world of work has zero fundamentals on how to integrate a life of ambition with a life of family care.
 
+<blockquote class="quoteback" darkmode="" data-title="Nikishka%20Iyengar%20(she%2Fher)%20on%20Twitter" data-author="" cite="https://twitter.com/Nikishka/status/1378195102271688705">Imagine what our economy would look and feel like if it actually valued caregiving<footer> <cite><a href="https://twitter.com/Nikishka/status/1378195102271688705">https://twitter.com/Nikishka/status/1378195102271688705</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
 There's no clear path for parents who love their family *and* want to have impact through a job that integrates nicely into their lives instead of requiring the choice between parenting and working.
 
 That's not a choice one should have to make.
@@ -102,3 +106,5 @@ Let's make sure the infrastructure of modern orgs fully supports moms, dads, car
 And finally...
 
 Fuck the patriarchy.
+
+[1]:	https://twitter.com/TheRoyalTbomb/status/1376958731578179586

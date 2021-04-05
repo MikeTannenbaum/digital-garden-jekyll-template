@@ -18,7 +18,6 @@ While the system is intended to facilitate writing, I've come to learn that [[It
 If you would like to setup your own digital garden, I wrote a note on how mine is made through my [[Obsidian Jekyll workflow]].
 
 ## Here’s what I’m working with right now
-* *Experimental:* [[Notion as an organized workspace]].
 * Roam as a networked [[web of thinking]].
 * [[Drafts is for immediate note capture and works in progress]].
 * [[Obsidian is for tending my digital garden]].
@@ -30,6 +29,9 @@ If you would like to setup your own digital garden, I wrote a note on how mine i
 * [[Whimsical is for visual thinking]]
 * Readwise is for serendipity and delight.
 * *And the nerdy side of me:* [[Alfred is for automation and central control]].
+* *Experimental:* [[Notion as an organized workspace]].
+* *Experimental:* Obsidian as my main note-taking, writing, thinking environment
+	* Trying to replace Roam. Terrible privacy policy, very sluggish, no good mobile experience, and relies on cloud providers. Obsidian is local, native, markdown, beautiful, and hopefully exactly what I need. Roam might still have a place for the Research part of it—a place to collect and connect knowledge and data—but the goal is for Obsidian to become where the *wisdom and insight* are. Where ideas are forged and imagination is sparked. The place to call my home, knowing my data, files, and words are mine. Yes, there's fewer flashy features, but plain text might end up being perfect. Simplicity is crucial and thus far things have been anything but simple.
 
 Each app serves a discrete and distinguished purpose within my digital  ecosystem.
 

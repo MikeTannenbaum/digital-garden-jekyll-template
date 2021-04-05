@@ -13,6 +13,6 @@ title: Writing themes
 * Change, Uncertainty, & Inclusivity
 * Antiracism & [[Black Lives Matter]]
 * Sustainability & Environmentalism
-* Regenerative Systems, Circular Economies, and Climate Solutions
+* Regenerative Agriculture, Circular Systems, and Climate Solutions
 
 Recent thought explorations can be found in my [[changelog]] and [[What has my attention now]].

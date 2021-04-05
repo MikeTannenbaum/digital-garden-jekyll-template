@@ -34,6 +34,11 @@ These skills are increasingly essential for high-performing teams of knowledge w
 
 [[think in terms of inputs and outputs to design better processes]].
 
+<blockquote class="quoteback" darkmode="" data-title="Embracing%20asynchronous%20communication" data-author="@GitLab" cite="https://about.gitlab.com/company/culture/all-remote/asynchronous/">
+Slack (or Microsoft Teams, or similar) should be used primarily for <a href="https://about.gitlab.com/company/culture/all-remote/informal-communication/" target="_blank" rel="noopener">informal communication</a>. If you are accustomed to Slack being an always-on center of urgency in a prior organization, breaking your reliance on it as a core part of accomplishing tasks will require deliberate effort and reinforcement.
+<footer>@GitLab<cite> <a href="https://about.gitlab.com/company/culture/all-remote/asynchronous/">https://about.gitlab.com/company/culture/all-remote/asynchronous/</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
 ## How to transition to working asynchronously
 - [GitLab — How to implement async workflows](https://about.gitlab.com/company/culture/all-remote/asynchronous/#how-to-implement-asynchronous-workflows)
 - [GitLab — Embracing asynchronous communication](https://about.gitlab.com/company/culture/all-remote/asynchronous/){:target="_blank"}

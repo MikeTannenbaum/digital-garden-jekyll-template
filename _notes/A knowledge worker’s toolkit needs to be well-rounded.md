@@ -23,7 +23,7 @@ Sometimes one specific tool is better for a job than another. It all depends on 
 - Collaborating with others
 - Visualizing ideas
 
-Perhaps this is my way of justifying the many tools in [[my digital ecosystem]], despite knowing simplicity is better. While often true, knowledge work is complex and full of intricacy. Sometimes we need inspiration, other times we need data. Sometimes we need to revisit and tend to our past ideas, other times we need to capture new ones. It’s at the nexus of these needs and complexities where [[digital ecosystems]] reside.
+Perhaps this is my way of justifying the many tools in [[my digital ecosystem]], despite knowing simplicity is better. While often true, knowledge work is complex and full of intricacy. Sometimes we need inspiration, other times we need data. Sometimes we need to revisit and tend to our past ideas, other times we need to capture new ones. It’s at the nexus of these needs and complexities where your [[digital ecosystem]] resides.
 
 Just like the soil on a farm, your [[digital ecosystem]] can either be healthy and lead to a bountiful harvest, or can be devoid of all nutrients and produce little to nothing of value. It all depends on where you focus your efforts.
 

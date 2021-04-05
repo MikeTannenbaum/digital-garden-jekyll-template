@@ -3,6 +3,14 @@ title: scheduling—but not forcing—creativity
 ---
 Based on a [Twitter conversation](https://twitter.com/brandontoner/status/1364404730454245379){:target="_blank"} I found myself thinking about how to effectively block my time and then _use that time productively/creatively_ **without having to feel the pressure** of trying to force a creative spark or insight.
 
+
+<blockquote class="quoteback" darkmode="" data-title="Brandon%20Toner%20%F0%9F%8C%B1%20on%20Twitter" data-author="" cite="https://twitter.com/brandontoner/status/1364404730454245379">
+I’m REALLY interested in cracking open a solution to non-coercive productivity and creativity. 
+
+I believe it’s possible to align work with flow. To accomplish, without forcing. Allowing inspiration to take stage, and running with it.
+<footer><cite> <a href="https://twitter.com/brandontoner/status/1364404730454245379">https://twitter.com/brandontoner/status/1364404730454245379</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
 ## It starts with time blocking
 I've started with the bare minimum of simply blocking that time.
 

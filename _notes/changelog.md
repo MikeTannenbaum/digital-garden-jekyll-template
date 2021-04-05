@@ -4,6 +4,12 @@ title: changelog
 > *Tracking the changes across this site, powered by an [[Obsidian Jekyll workflow]]*
 
 - - - -
+### 2021-04-02 — digital ecosystem
+- Added
+	- [[digital ecosystem]]
+- Updated
+	- [[these notes are written for myself]]
+
 ### 2021-04-01 — New tools for visual thinking + the patriarchy at work
 - Added
 	- [[Whimsical is for visual thinking]]
