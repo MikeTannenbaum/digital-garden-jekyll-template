@@ -15,7 +15,7 @@ Create a system to help you think and process your ideas.
 
 Use it to generate [[novel ideas]] and [[build a body of work]] that compounds over time.
 
-As Amy and Alex say, [[stack the bricks]].
+Consistently [[stack the bricks]].
 
 Think long term, play infinite games, and [[build a body of work]].
 

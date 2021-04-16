@@ -14,3 +14,5 @@ Contexts and needs are always shifting and evolving, sometimes overnight, so bui
 For the independent professional, sensemaking and wayfinding are crucial skills for finding markets to serve, evolving service offerings, and creating opportunities out of thin air.
 
 One way to start exploring both practices is by creating maps and/or blueprints of journeys and systems you're working within. While it's important to remember [[journey maps are tools not outcomes]], they can be incredibly useful when it comes to help you make sense of complexity and find your way amid ambiguity.
+
+Another way is to explore [[zoom-in-zoom-out thinking]] to help generate [[novel ideas]]and build a [[web of thinking]].

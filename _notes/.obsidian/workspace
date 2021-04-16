@@ -4,20 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "19ec0099a6ae8c3a",
+        "id": "8d5fab1d96808f17",
         "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "these notes are written for myself.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "094742f09592a0e1",
-        "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -92,6 +80,8 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -104,16 +94,17 @@
     "width": 352,
     "collapsed": true
   },
+  "active": "8d5fab1d96808f17",
   "lastOpenFiles": [
     "changelog.md",
-    "these notes are written for myself.md",
-    "Writing is thinking.md",
-    "public notes build authority and trust.md",
-    "the world of work was not designed for working parents.md",
-    "asynchronous communication is a critical component of the future of work.md",
-    "scheduling—but not forcing—creativity.md",
-    "digital ecosystem.md",
-    "A knowledge worker’s toolkit needs to be well-rounded.md",
-    "digital ecosystems.md"
+    "zoom-in-zoom-out thinking.md",
+    "web of thinking.md",
+    "Sensemaking and wayfinding are critical skills for thriving in 2020 and beyond.md",
+    "Obsidian is for tending my digital garden.md",
+    "Notion as an organized workspace.md",
+    "Non-linear writing’s ability to jump from sentence to sentence, idea to idea, changes the way the mind thinks through ideas.md",
+    "Data ≠ Insight.md",
+    "Every time you tend to an idea you create an opportunity to share original work with others.md",
+    "build a body of work.md"
   ]
 }

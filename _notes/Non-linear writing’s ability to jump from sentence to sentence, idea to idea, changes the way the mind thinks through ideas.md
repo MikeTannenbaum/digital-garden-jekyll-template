@@ -7,7 +7,7 @@ Writing digitally, however, changes this.
 
 Writing digitally makes it so the writer can quickly pop from working on one sentence to adding another sentence to a paragraph 3 pages back, whenever they choose.
 
-If I’m three sentences in to a paragraph and have an idea that fits in the paragraph three pages ago, I can quickly jump there to add it, write more as needed, then jump back to the present.
+If I’m three sentences in to a paragraph and have an idea that fits in the paragraph three pages ago, I can quickly jump there to add it, write more as needed, then jump back to the present. This is one way to practice [[zoom-in-zoom-out thinking]].
 
 No longer do I have to think so diligently about what I want the next sentence to say; instead, I can have a thought, and jump to a different part of the digital page and insert my thought there. When I'm at a point of review, I can rearrange paragraphs and sentences on the fly, mixing and remixing words and thoughts until the sentence feels right.
 

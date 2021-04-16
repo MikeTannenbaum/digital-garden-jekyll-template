@@ -7,6 +7,8 @@ This note is a collection of Black voices with occasional thoughts of my own. [[
 
 One thing I haven’t been able to stop thinking about since first waking up in 2014: [[The land of the free is such a lie]].
 
+We all need to become comfortable owning and learning from our internalized racism, which includes taking responsibility for any racist actions and rhetoric. We each need to admit when we are being racist and then put in the work to understand and dismantle our racist ideologies and tendencies.
+
 ---
 <blockquote class="quoteback" data-title="White People, I Still Don't Believe You" data-author="" cite="https://www.phillymag.com/news/2020/06/08/white-people-anti-racism/">
 If you are not invested in decentralizing whiteness in positions of privilege and dominance, then you are not helping. Racism is white supremacy, and unless you’re working to eliminate the white power structures in your workplace, government, education, health care, entertainment, nonprofit, tech and corporate structures, you aren’t doing anything.

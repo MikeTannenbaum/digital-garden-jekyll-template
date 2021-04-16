@@ -4,7 +4,7 @@ title: think in terms of inputs and outputs to design better processes
 
 > **Output**: what you get once you complete a process<br>**Input**: what you need in order to complete the process
 
-When thinking about designing a process, begin with the end in mind and know what you want to achieve.
+When designing a process, begin with the end in mind and know what you want to achieve.
 
 Take a meeting, for example.
 

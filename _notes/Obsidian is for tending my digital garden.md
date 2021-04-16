@@ -7,7 +7,7 @@ title: Obsidian is for tending my digital garden
 
 The tool is designed for [[networked thinking]] and automatically connects notes with one another to help you build out your [[web of thinking]] by writing similarly to how we think: non-linearly.
 
-[[Non-linear writing’s ability to jump from sentence to sentence, idea to idea, changes the way the mind thinks through ideas]].  Obsidian helps you ride the waves of your thoughts, clicking from one idea to the next, writing a bit here and a bit there, while encouraging you to connect you notes with one another to help build out ideas.
+[[Non-linear writing’s ability to jump from sentence to sentence, idea to idea, changes the way the mind thinks through ideas]].  Obsidian helps you ride the waves of your thoughts, clicking from one idea to the next, writing a bit here and a bit there, while encouraging you to connect you notes with one another to help build out ideas. It's a wonderful tool for practicing [[zoom-in-zoom-out thinking]].
 
 > *This note is part of a small series highlighting [[my digital ecosystem]]. If you want to setup your own, here is a walkthrough on how to setup this system: [[Obsidian Jekyll workflow]]*
 

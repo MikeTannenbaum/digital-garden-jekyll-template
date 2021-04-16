@@ -4,6 +4,26 @@ title: changelog
 > *Tracking the changes across this site, powered by an [[Obsidian Jekyll workflow]]*
 
 - - - -
+### 2021-04-16 — Zoom-in-zoom-out thinking
+- Added
+	- [[New Rules for the Workplace]]
+	- [[zoom-in-zoom-out thinking]]
+- Updated
+	- [[We have barely begun to see the effects of the fallout from this pandemic]]
+	- [[digital garden]]
+	- [[digital ecosystem]]
+	- [[web of thinking]]
+	- [[build a body of work]]
+	- [[Non-linear writing’s ability to jump from sentence to sentence, idea to idea, changes the way the mind thinks through ideas]]
+	- [[Obsidian is for tending my digital garden]]
+	- [[Sensemaking and wayfinding are critical skills for thriving in 2020 and beyond]]
+	- [[Data ≠ Insight]]
+	- [[Black Lives Matter]]
+
+### 2021-04-07 — digital exhaust
+- Added
+	- [[digital exhaust]]
+
 ### 2021-04-02 — digital ecosystem
 - Added
 	- [[digital ecosystem]]

@@ -14,6 +14,12 @@ They’re frequently made up of works-in-progress in the form of notes—often u
 
 The gardening language is a beautiful analogy for how we plant, tend, and grow our ideas publicly. Some bloom faster than others, some are evergreen, and some of the seeds just don’t take. Such is gardening—and creativity 🌱.
 
+<blockquote class="quoteback" darkmode="" data-title="Too%20Many%20Thoughts%20Living%20Rent-Free%20In%20Your%20Head%3F%20Try%20Mind%20Gardening" data-author="Sadhbh O'Sullivan" cite="https://www.refinery29.com/en-gb/mind-gardening-organise-thoughts-increase-productivity">
+Mind gardening is a proactive way of cultivating knowledge, ideas and thinking in general. It's very different from passive consumption – it's like a proactive creation.Advertisement
+<footer>Sadhbh O'Sullivan <cite><a href="https://www.refinery29.com/en-gb/mind-gardening-organise-thoughts-increase-productivity">https://www.refinery29.com/en-gb/mind-gardening-organise-thoughts-increase-productivity</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
 Seeds need to be germinated properly and many don't root despite best intentions. My idea seeds are planted in one place—Drafts—germinated in another—Roam Research—and once they sprout into seedlings, they are moved to the garden to be tended to and matured. As of this writing, [[Obsidian is for tending my digital garden]].
 
 Many digital gardens adhere to some basic tenets which help cultivate the digital soil in a healthy and effective way.
