@@ -4,7 +4,7 @@ title: changelog
 > *Tracking the changes across this site, powered by an [[Obsidian Jekyll workflow]]*
 
 - - - -
-### 2021-04-29 — Browser tabs as non-linear thinking
+### 2021-04-29 — All about digital workspaces
 - Added
 	- [[I want somewhere to be My Workspace™]]
 	- [[what I need in a digital workspace]]
@@ -83,7 +83,7 @@ title: changelog
 
 ### 2021-03-03 — Obsidian + Jekyll setup
 - Added: [[Obsidian Jekyll workflow]]
-- Updated: 
+- Updated:
 	- [[Obsidian is for building my body of work]]
 	- [[digital garden]]
 	- [[my digital ecosystem]]
