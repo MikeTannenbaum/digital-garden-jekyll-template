@@ -1,11 +1,9 @@
 ---
 title: browsing the internet through multiple tabs is non-linear thinking
 ---
-Browser tabs enable us to pickup and leave off any task at any point in time. This is essentially a form of [[non-linear thinking]], since our minds are holding space for multiple threads of thought at basically the same time.
+Browser tabs enable us to pickup and leave off any task at any point in time. This is essentially a form of [[non-linear thinking]], since our minds are holding space for multiple threads of thought at the same time.
 
-It's constant [[context shifting]], for better or for worse, but it can also be an effective method of following thoughts and curiosity to see where your mind leads.
-
-This emboldens distraction and discovery, one if which can be incredibly productive.
+It's constant [[context shifting]], which can be draining on the mind, but it can also be an effective method of following thoughts and curiosity to see where your mind leads. This emboldens distraction and discovery, one of which can be incredibly productive. So why not play along and follow your curiosity?
 
 Until recently we have not had effective tools to help us capture and truly make sense of the information we collect on a daily basis. Most were analog systems which are in entirely different leagues than digital tools.
 

@@ -14,7 +14,7 @@ title: What has my attention now
 		* [[How I take smart notes]]
 		* [[Why I like Roam over Bear for improving my thinking]]
 		* [[Take notes in your own words while reading, watching, and thinking]]
-		* [[Obsidian is for tending my digital garden]]
+		* [[Obsidian is for building my body of work]]
 			* [[Obsidian Jekyll workflow]]
 * Consistency for [The Refined Mind](https://refinedmind.co)
 	* Send every two weeks

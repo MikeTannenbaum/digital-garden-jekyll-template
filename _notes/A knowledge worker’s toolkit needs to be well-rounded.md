@@ -13,6 +13,8 @@ Similar to craftspeople and their expertise in approaching challenges, experienc
 
 As knowledge workers, we too have collections of tools for various jobs. Our toolkits are made of digital tools, many of which fit specific use cases, though in the 2020's we're increasingly seeing attempts at "one tool fits all" product development. [[Tools for managing information overload and improving how we think are on the rise]], and digital tools and apps have become core to our lives both as knowledge workers and citizens of the digital age.
 
+I recently wrote up [[what I need in a digital workspace]] along with why [[I want somewhere to be My Workspace™]], which are core to informing [[my digital ecosystem]].
+
 Sometimes one specific tool is better for a job than another. It all depends on the needs of the use case at hand. Example needs might include:
 - Capturing thoughts
 - Processing tasks
@@ -29,7 +31,7 @@ Just like the soil on a farm, your [[digital ecosystem]] can either be healthy a
 
 Just as [[journey maps are tools not outcomes]], the digital tools you use to do your work are exactly that: tools. Be sure to choose them wisely. We shape our tools as we want them to be, but our tools also shape us the more we use them.
 
-As important as it is to choose the right tool for the job, remember what matters here in the land of knowledge work: outcomes.
+As important as it is to choose the right tool for the job, remember what matters here in the land of knowledge work: outcomes and impact.
 
 Make sure to stay focused on what matters most: **delivering quality work**.
 

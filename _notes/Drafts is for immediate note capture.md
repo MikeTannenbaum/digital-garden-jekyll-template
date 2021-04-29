@@ -1,5 +1,5 @@
 ---
-title: Drafts is for immediate note capture and works in progress
+title: Drafts is for immediate note capture
 ---
 When an idea pops up—whether a task, a reminder, or something more expansive—[Drafts](https://getdrafts.com/){:target="_blank"} is the app that gets opened on mobile to quickly capture thoughts.
 

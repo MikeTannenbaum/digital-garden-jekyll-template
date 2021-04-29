@@ -10,3 +10,6 @@ Similarly, [[Wayfinding is the process of orienting within new environments, nav
 
 ## Resources
 [What is Sense-making? - Cognitive Edge](https://www.evernote.com/l/AAnH8p8M4wtPaIFhNlW70YpvX6o2uBxO_Jo)
+
+<blockquote class="quoteback" darkmode="" data-title="Nick%20Milo%20on%20Twitter" data-author="" cite="https://twitter.com/NickMilo/status/1384157680231608325">Personal knowledge management is really about the *process of making sense of the world. Sense-making. <footer><cite> <a href="https://twitter.com/NickMilo/status/1384157680231608325">https://twitter.com/NickMilo/status/1384157680231608325</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>

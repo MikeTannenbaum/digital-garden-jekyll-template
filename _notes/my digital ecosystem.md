@@ -7,49 +7,38 @@ I also have a passion for everything nature and outdoors. Permaculture, farming,
 
 Early in 2020 I discovered a community of folks passionate about building their own personal wikis, productivity systems, and [[digital garden]]s. Several community members also share a love of permaculture and systems thinking. I was hooked.
 
-After much experimentation and exploration of new practices and tools, I’ve made significant improvements to my learning and knowledge management system. It's considered a work in progress, however, as it's always being iterated on and improved as my needs evolve and change.
+The result of many conversations within this community led me to make note how [[I want somewhere to be My Workspace™]].
 
-And once again, as of March 2021, I'm considering how to rework the system based on how my needs have evolved.
+[[A knowledge worker’s toolkit needs to be well-rounded]], so after much experimentation and exploration of new practices and tools, I’ve made significant improvements to my learning and knowledge management system. It's considered a work in progress, however, as it's always being iterated on and improved as my needs evolve and change.
 
-![](/assets/digital-ecosystem-diagram.png)
+> As of May 2021, I've committed myself to two main tools: Things and Craft. The goal is to handle 90% of my workload within those two tools. Time will tell...
 
-While the system is intended to facilitate writing, I've come to learn that [[It’s not a writing system, it’s a thinking system whose byproduct is writing]].
+![](/assets/choose-an-objective.png)
 
-If you would like to setup your own digital garden, I wrote a note on how mine is made through my [[Obsidian Jekyll workflow]].
+While this ecosystem is intended to facilitate writing, I've come to learn that [[It’s not a writing system, it’s a thinking system whose byproduct is writing]].
 
 ## Here’s what I’m working with right now
-* Roam as a networked [[web of thinking]].
-* [[Drafts is for immediate note capture and works in progress]].
-* [[Obsidian is for tending my digital garden]].
-	* Obsidian helps build and improve ideas over time.
-* [[Things is for getting shit done]].
-* [[Evernote is for long-term storage]].
-* Day One is for personal journaling since 2013.
-* Craft for writing and collaborative idea building.
+* [[Craft is my workspace]] for (mostly) private, messy, diverse types of work
+* [[Obsidian is for building my body of work]] and tending my [[digital garden]]
+* [[Drafts is for immediate note capture]]
+* [[Things is for getting shit done]]
+* [[Evernote is for long-term storage]]
 * [[Whimsical is for visual thinking]]
-* Readwise is for serendipity and delight.
-* *And the nerdy side of me:* [[Alfred is for automation and central control]].
-* *Experimental:* [[Notion as an organized workspace]].
-* *Experimental:* Obsidian as my main note-taking, writing, thinking environment
-	* Trying to replace Roam. Terrible privacy policy, very sluggish, no good mobile experience, and relies on cloud providers. Obsidian is local, native, markdown, beautiful, and hopefully exactly what I need. Roam might still have a place for the Research part of it—a place to collect and connect knowledge and data—but the goal is for Obsidian to become where the *wisdom and insight* are. Where ideas are forged and imagination is sparked. The place to call my home, knowing my data, files, and words are mine. Yes, there's fewer flashy features, but plain text might end up being perfect. Simplicity is crucial and thus far things have been anything but simple.
+* Day One is for personal journaling since 2013
+* Readwise is for resurfacing once-valued knowledge and wisdom
+* *The nerdy side of me:* [[Alfred is for automation and central control]]
+* *Experimental:* [[Roam is for collecting the internet]]
+* *Experimental:* ~~Obsidian~~ Craft as my main note-taking, writing, and thinking environment
+	* I'm replacing Roam, even though it's a very powerful tool. Why? Terrible privacy policy, very sluggish, no good mobile experience, and relies on cloud providers instead of being device-native and offline-first. Craft is local, native, markdown, beautiful, and hopefully exactly what I need. Roam might still have a place for the research part of it—a place to collect and connect knowledge and data—but the goal is for Craft to become where the *wisdom and insight* are. Where ideas are forged and imagination is sparked. The place to call my home, knowing my data, files, and words are mine. Yes, there's fewer flashy features, but plain text might end up being perfect. Simplicity is crucial and thus far things have been anything but simple.
 
-Each app serves a discrete and distinguished purpose within my digital  ecosystem.
+Each app serves a discrete and distinguished purpose within my digital  ecosystem. (👇🏻 visual needs updating as of April 29, 2021 since Roam and Notion are gone)
 
 ![](/assets/digital-ecosystem-apps.png)
 
-Most of those can be deeplinked to from any other app, so relevant notes and information are almost always a click away if I make sure to include those links.
+Most of these apps can be deeplinked to one another from any other app, so relevant notes and information are almost always a click away if I make sure to include those links.
 
-That said...how amazing would it be to see all the multidirectional links across apps? Evernote could show you all the related journals in Day One, tasks in Things, and research in Roam. [[Bidirectional links between apps would greatly improve interoperability of concepts and ideas]]. After all, [[A knowledge worker’s toolkit needs to be well-rounded]].
+That said...how amazing would it be to see all the multidirectional links across apps? Evernote could show you all the related journals in Day One, tasks in Things, and research in Roam. [[Bidirectional links between apps would greatly improve interoperability of concepts and ideas]]. 
 
-### Some thoughts on the evolution of this ecosystem
-Ulysses was for long form and Bear was for notes, but that's all changing.
+It's been a long [[evolution of the ecosystem]], and hopefully I'm at a comfortable place where I can focus more on the work than on the system.
 
-Craft seems awesome and might replace both, but it's too new to me to commit. For now I don't need to choose because most of my work is done elsewhere at this point: in Roam and Things.
-
-In late 2020, I started experimenting with Roam Research to see how it might fit with my brain. I was stunned.
-
-Immediately I saw the potential of this brilliantly simple-yet-powerful piece of software.
-
-Since then it has increasingly become my go to system for everything related to research, learning, thinking, and managing knowledge. It also holds tasks, ideas, and reading materials, though I do not rely on it like I do Things and Instapaper. I'd like to write more about my experiences with Roam in the future, but for now here's [[Why I like Roam over Bear for improving my thinking]].
-
-Originally I wrote [[Bear is for networked thinking]]. When I started [[Tinkering with Roam Research]] I quickly saw how it might actually end up replacing most of the stack above. It's already taken me away from Bear, which was my favorite app for a long time, followed closely by Ulysses.
+> If you would like to setup your own digital garden, I wrote a note on how mine is made through my [[Obsidian Jekyll workflow]].

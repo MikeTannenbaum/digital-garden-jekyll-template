@@ -1,11 +1,11 @@
 ---
 title: Notion as an organized workspace
 ---
-> *🧪 This is an experiment.*
+> *🧪 This is an experiment. As of Thursday, April 29, 2021 the experiment might be over, as I've decided [[Craft is my workspace]]. Hopefully it stays that way. Consider this note closed 🚫.*
 
 I'm not sure how this will work out in the long run as I haven't really fallen in love with Notion the way many people have, but I'm trying it anyway.
 
-I need somewhere to be My Workspace™. Some place I open up every day and am presented with an organized system, just like sitting at my desk.
+[[I want somewhere to be My Workspace™]]. Some place I open up every day and am presented with an organized system, just like sitting at my desk.
 
 I want [[peripheral cues]] of my work, such as artifacts hanging around that trigger my thoughts: sticky notes, scribbled ideas, marked-up books, and all the goodness that a typical analog workspace has.
 

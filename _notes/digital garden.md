@@ -15,17 +15,18 @@ They’re frequently made up of works-in-progress in the form of notes—often u
 The gardening language is a beautiful analogy for how we plant, tend, and grow our ideas publicly. Some bloom faster than others, some are evergreen, and some of the seeds just don’t take. Such is gardening—and creativity 🌱.
 
 <blockquote class="quoteback" darkmode="" data-title="Too%20Many%20Thoughts%20Living%20Rent-Free%20In%20Your%20Head%3F%20Try%20Mind%20Gardening" data-author="Sadhbh O'Sullivan" cite="https://www.refinery29.com/en-gb/mind-gardening-organise-thoughts-increase-productivity">
-Mind gardening is a proactive way of cultivating knowledge, ideas and thinking in general. It's very different from passive consumption – it's like a proactive creation.Advertisement
+Mind gardening is a proactive way of cultivating knowledge, ideas and thinking in general. It's very different from passive consumption – it's like a proactive creation.
 <footer>Sadhbh O'Sullivan <cite><a href="https://www.refinery29.com/en-gb/mind-gardening-organise-thoughts-increase-productivity">https://www.refinery29.com/en-gb/mind-gardening-organise-thoughts-increase-productivity</a></cite></footer>
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
-Seeds need to be germinated properly and many don't root despite best intentions. My idea seeds are planted in one place—Drafts—germinated in another—Roam Research—and once they sprout into seedlings, they are moved to the garden to be tended to and matured. As of this writing, [[Obsidian is for tending my digital garden]].
+Seeds need to be germinated properly and many don't root despite best intentions. My idea seeds are planted in one part of my [[digital ecosystem]]—Drafts—germinated in another—Craft—and once they sprout into seedlings, they are moved to the garden to be tended and matured. As of this writing, [[Obsidian is for building my body of work]] and tending to my digital garden.
 
 Many digital gardens adhere to some basic tenets which help cultivate the digital soil in a healthy and effective way.
 - Linking notes to one another, bidirectionally, is essential
-- Most pages are somewhere between low fidelity notes and polished essays
-- The garden is a system of networked thought designed to cross-pollinate and facilitate the capturing, linking, and remixing of ideas
+- Each note focuses on one atomic concept
+- Most pages are somewhere between low fidelity notes and semi-polished essays
+- The garden is a system of networked thought designed to cross-pollinate and facilitate the linking and remixing of ideas
 - Each garden provides a source of inspiration more effective than a spark file due to their heavily interconnected notes and continuous ability to explore and document thought non-linearly
 - They’re all about thinking out loud and in public and working with the garage door open
 - Many strive to be collaborative and inviting of others
@@ -34,7 +35,7 @@ When exploring the garden, links are clicked through without any linearity—eve
 
 When you [[learn in public]], you build connection between ideas and people. [[Every time you tend to an idea you create an opportunity to share original work with others]].  It also helps that [[public notes build authority and trust]].
 
-Tending to digital gardens helps make sure you [[always have something to write about]], consistently [[build a body of work]], and frequently have the opportunity to share your [[web of thinking]] with others, as a beacon for likeminded people.
+Tending to digital gardens helps make sure you [[always have something to write about]], consistently [[build a body of work]], and frequently have the opportunity to share your [[web of thinking]] with others, as a beacon for like-minded people.
 
 [[Finding topics to write about is easier when a body of notes already exists upon which ideas can grow]], so digital gardens aim to facilitate curiosity, creativity, and creation.
 
@@ -45,4 +46,4 @@ Tending to digital gardens helps make sure you [[always have something to write 
 [Andy Matuschak — About these notes](http://notes.andymatuschak.org/)<br>
 
 ## How to setup your own digital garden
-My workflow is MacOS-specific, as [[Obsidian is for tending my digital garden]] and it is native to MacOS. If you would like to learn more about my workflow, I made this for you: [[Obsidian Jekyll workflow]].
+My workflow is MacOS-specific, as Obsidian is what I use for tending the garden, and it is native to MacOS. If you would like to learn more about my workflow, I made this for you: [[Obsidian Jekyll workflow]].

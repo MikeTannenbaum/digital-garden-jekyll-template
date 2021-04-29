@@ -4,6 +4,23 @@ title: changelog
 > *Tracking the changes across this site, powered by an [[Obsidian Jekyll workflow]]*
 
 - - - -
+### 2021-04-29 — Browser tabs as non-linear thinking
+- Added
+	- [[I want somewhere to be My Workspace™]]
+	- [[what I need in a digital workspace]]
+	- [[evolution of the ecosystem]]
+	- [[Craft is my workspace]]
+	- [[Things is for getting shit done]]
+	- [[Roam is for collecting the internet]]
+- Updated
+	- [[Obsidian is for building my body of work]] *(title change)*
+	- [[my digital ecosystem]]
+	- [[A knowledge worker’s toolkit needs to be well-rounded]]
+
+### 2021-04-21 — Browser tabs as non-linear thinking
+- Updated
+	- [[browsing the internet through multiple tabs is non-linear thinking]]
+
 ### 2021-04-16 — Zoom-in-zoom-out thinking
 - Added
 	- [[New Rules for the Workplace]]
@@ -15,7 +32,7 @@ title: changelog
 	- [[web of thinking]]
 	- [[build a body of work]]
 	- [[Non-linear writing’s ability to jump from sentence to sentence, idea to idea, changes the way the mind thinks through ideas]]
-	- [[Obsidian is for tending my digital garden]]
+	- [[Obsidian is for building my body of work]]
 	- [[Sensemaking and wayfinding are critical skills for thriving in 2020 and beyond]]
 	- [[Data ≠ Insight]]
 	- [[Black Lives Matter]]
@@ -67,7 +84,7 @@ title: changelog
 ### 2021-03-03 — Obsidian + Jekyll setup
 - Added: [[Obsidian Jekyll workflow]]
 - Updated: 
-	- [[Obsidian is for tending my digital garden]]
+	- [[Obsidian is for building my body of work]]
 	- [[digital garden]]
 	- [[my digital ecosystem]]
 
@@ -98,14 +115,14 @@ title: changelog
 - Updated: [[America]]
 
 ### 2021-01-19 — Obsidian, Roam Research, and note updates
-- Added: [[Obsidian is for tending my digital garden]]
+- Added: [[Obsidian is for building my body of work]]
 - [Newsletter signup form](a-starting-point-for-thinking) on notes pages
 
 #### Updated
 - Renamed *My new design system* to [[my digital ecosystem]] and totally reworked the note
 - Added products I love to [[Tools for managing information overload and improving how we think are on the rise]]
 - Renamed "How to take smart notes" to "[[How I take smart notes]]" because I can only share what works for me, not what others should do
-- [[Drafts is for immediate note capture and works in progress]]
+- [[Drafts is for immediate note capture]]
 - [[Evernote is for long-term storage]]
 
 ### 2021-01-10 — Rethinking education models
@@ -169,7 +186,7 @@ title: changelog
 ### 2020-11-20 — A few note updates
 - Added:
 	- [[I am looking for new and meaningful projects in 2021]]
-	- [[Drafts is for immediate note capture and works in progress]]
+	- [[Drafts is for immediate note capture]]
 	- [[Non-linear writing’s ability to jump from sentence to sentence, idea to idea, changes the way the mind thinks through ideas]]
 	- [[Am I the 'mediocre white man' they so often speak about?]]
 	- [[We have barely begun to see the effects of the fallout from this pandemic]]
