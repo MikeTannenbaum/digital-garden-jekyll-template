@@ -16,6 +16,6 @@ I believe <a href="writing-is-thinking">writing is thinking</a>, so <a href="the
 
 This site is a diverse ecosystem of notes all interlinked in some way and evolving at different rates. Most of the notes fall within these <a href="/Writing-themes">themes</a> and some of the concepts and words might be incorrect. Fortunately, that's what this whole site is about: evolving my thinking by challenging existing beliefs, assumptions, and mental models.
 
-Feel free to explore <a href="What-has-my-attention-now">what has my attention</a>, my <a href="web-of-thinking">web of thinking</a>, the <a href="changelog">latest updates</a>, and any link that catches your curiosity.
+The best way to get started is to explore the <a href="changelog">changelog</a> of recent updates and additions along with <a href="What-has-my-attention-now">what has my attention now</a>. Feel free to click any link that catches your curiosity, as each provides a choose-your-own-adventure-style pathway into my <a href="web-of-thinking">web of thinking</a>.
 
 Have something to say? I check [email](mailto:letstalk@miketannenbaum.com) and [twitter](https://twitter.com/theroyaltbomb) occasionally. Still curious? [My main site](https://miketannenbaum.com) has [essays](https://miketannenbaum.com/writings), [projects](https://miketannenbaum.com/projects), a [newsletter](https://miketannenbaum.com/signup) and more.

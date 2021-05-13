@@ -7,8 +7,11 @@
         "id": "30e84833afaf3c72",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "A starting point for thinking.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "![",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -53,8 +56,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -74,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "A starting point for thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +96,7 @@
   },
   "active": "30e84833afaf3c72",
   "lastOpenFiles": [
+    "A starting point for thinking.md",
     "I want somewhere to be My Workspace™.md",
     "my digital ecosystem.md",
     "A knowledge worker’s toolkit needs to be well-rounded.md",
@@ -101,7 +105,6 @@
     "Notion as an organized workspace.md",
     "Craft is my workspace.md",
     "digital exhaust.md",
-    "evolution of the ecosystem.md",
-    "Things is for getting shit done.md"
+    "evolution of the ecosystem.md"
   ]
 }
