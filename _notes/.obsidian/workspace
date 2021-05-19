@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "changelog.md",
+            "file": "Bitcoin energy usage.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "changelog.md",
+                "file": "Bitcoin energy usage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +96,8 @@
   },
   "active": "1f03bfcd8680a15a",
   "lastOpenFiles": [
-    "changelog.md",
     "Bitcoin energy usage.md",
+    "changelog.md",
     "What has my attention now.md",
     "Every time you tend to an idea you create an opportunity to share original work with others.md",
     "public notes build authority and trust.md",

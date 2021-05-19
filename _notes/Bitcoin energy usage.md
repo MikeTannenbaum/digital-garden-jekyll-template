@@ -18,7 +18,7 @@ title: Bitcoin energy usage
 - [Proof of Work is Efficient — Dan Held](https://www.danheld.com/blog/2019/1/5/pow-is-efficent)
 - [This power plant stopped burning fossil fuels. Then Bitcoin came along.](https://grist.org/technology/bitcoin-greenidge-seneca-lake-cryptocurrency/)
 
-## Feb 2021 — [Nic Carter](craftdocs://open?blockId=7C55BB6E-8917-40A7-A061-370956B2D012&spaceId=6353c2be-506f-1502-4929-a1b0394ecc3d) on [bitcoin](craftdocs://open?blockId=D22963C4-E987-48C4-9590-428FD29CBA06&spaceId=6353c2be-506f-1502-4929-a1b0394ecc3d) and its energy usage (Bloomberg TV)
+## Feb 2021
 [Bloomberg - Are you a robot?](https://www.bloomberg.com/tosv2.html?vid=&uuid=9cd7aec0-b40c-11eb-b700-bb96839a0d7c&url=L25ld3MvdmlkZW9zLzIwMjEtMDItMDkvd2hhdC1wZW9wbGUtZ2V0LXdyb25nLWFib3V0LWJpdGNvaW4tcy1jbGltYXRlLWZvb3RwcmludC1uaWMtY2FydGVyLXZpZGVv)
 
 - China (Sichuan, specifically), has lots of hydropower overbuilt over the past decade which would otherwise be curtailed and now is being put to use. It’s a cleaner way to mine bitcoin.
@@ -36,7 +36,7 @@ title: Bitcoin energy usage
 - We are 88% done with the mining process
 - In the future, most miner revenue will accrue from fees
 
-- ## May 2021 — [Nic Carter](craftdocs://open?blockId=7C55BB6E-8917-40A7-A061-370956B2D012&spaceId=6353c2be-506f-1502-4929-a1b0394ecc3d) on [bitcoin](craftdocs://open?blockId=D22963C4-E987-48C4-9590-428FD29CBA06&spaceId=6353c2be-506f-1502-4929-a1b0394ecc3d) and its energy usage (HBR)
+## May 2021
 [How Much Energy Does Bitcoin Actually Consume?](https://hbr.org/2021/05/how-much-energy-does-bitcoin-actually-consume)
 
 - *“Part of the reason Bitcoin consumes so much electricity is because China lowered the clearing price of energy by overbuilding hydro capacity due to sloppy central planning.*
