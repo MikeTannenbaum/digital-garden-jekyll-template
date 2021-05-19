@@ -1,4 +1,6 @@
-# Bitcoin energy usage
+---
+title: Bitcoin energy usage
+---
 
 **Bitcoin mining is driving innovation in the renewable energy sector** by incentivizing entrepreneurs and pioneers to develop the cheapest, most cost effective mining systems available. An example is [Upstream Data](https://www.upstreamdata.ca/), a Canadian bitcoin mining company that's developed products to capture methane emissions and use them for bitcoin mining. But this energy can also be used for other purposes, and is a positive impact on otherwise negative emissions.
 
@@ -40,7 +42,7 @@
 - *“Part of the reason Bitcoin consumes so much electricity is because China lowered the clearing price of energy by overbuilding hydro capacity due to sloppy central planning.*
 - *In a non-Bitcoin world, this excess energy would either have been used to smelt aluminum or would simply have been wasted.”*
 - *“Energy is not globally fungible. Electricity decays as it leaves its point of origin; it’s expensive to transport.*
-- *Globally, about* [*8 percent*](https://data.worldbank.org/indicator/EG.ELC.LOSS.ZS)* of electricity is lost in transit. Even high-voltage transmission lines suffer “line losses,” making it impractical to transport electricity over very long distances. 
+- *Globally, about* [*8 percent*](https://data.worldbank.org/indicator/EG.ELC.LOSS.ZS)* of electricity is lost in transit. Even high-voltage transmission lines suffer “line losses,” making it impractical to transport electricity over very long distances.
 - This is why we talk about an energy grid — you have to produce it virtually everywhere, especially near to population centers.*”
 
       How much energy *should* a monetary system consume? Especially one that's global and decentralized.
