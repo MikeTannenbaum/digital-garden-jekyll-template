@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "30e84833afaf3c72",
+        "id": "1f03bfcd8680a15a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A starting point for thinking.md",
+            "file": "changelog.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "public",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A starting point for thinking.md",
+                "file": "changelog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +94,17 @@
     "width": 352,
     "collapsed": true
   },
-  "active": "30e84833afaf3c72",
+  "active": "1f03bfcd8680a15a",
   "lastOpenFiles": [
-    "A starting point for thinking.md",
-    "digital ecosystem.md",
-    "I want somewhere to be My Workspace™.md",
-    "my digital ecosystem.md",
-    "A knowledge worker’s toolkit needs to be well-rounded.md",
     "changelog.md",
-    "what I need in a digital workspace.md",
-    "Notion as an organized workspace.md",
-    "Craft is my workspace.md",
-    "digital exhaust.md"
+    "Bitcoin energy usage.md",
+    "What has my attention now.md",
+    "Every time you tend to an idea you create an opportunity to share original work with others.md",
+    "public notes build authority and trust.md",
+    "scheduling—but not forcing—creativity.md",
+    "New Rules for the Workplace.md",
+    "Roam is for collecting the internet.md",
+    "A starting point for thinking.md",
+    "digital ecosystem.md"
   ]
 }

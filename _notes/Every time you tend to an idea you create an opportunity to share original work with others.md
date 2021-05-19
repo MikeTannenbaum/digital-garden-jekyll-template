@@ -12,3 +12,7 @@ Instead of always searching for something to write about or something to have an
 For those of us who identify as knowledge workers this presents a golden opportunity. If your skills and talents are in the way you think, and you give people a reason to hire you for your thinking, you [[create a market for yourself]].  After all, [[A knowledge worker’s toolkit needs to be well-rounded]].
 
 By regularly sharing what has your attention and how you think about things, you create a portal into your worldview—a portal that can captivate people and draw them into your work and your [[web of thinking]]. This is why I’ve been [[Tinkering with Roam Research]]. It helps me extract knowledge from what I read, capture knowledge from my own mind, and connect ideas as they collide with one another.
+
+<blockquote class="quoteback" darkmode="" data-title="Jack%20Butcher%20on%20Twitter" data-author="" cite="https://twitter.com/jackbutcher/status/1395066204486832129">
+Showcase your thinking and opportunity will find you.<footer> <cite><a href="https://twitter.com/jackbutcher/status/1395066204486832129">https://twitter.com/jackbutcher/status/1395066204486832129</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>

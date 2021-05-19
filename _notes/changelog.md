@@ -4,6 +4,13 @@ title: changelog
 > *Tracking the changes across this site, powered by an [[Obsidian Jekyll workflow]]*
 
 - - - -
+### 2021-05-19 — Opportunities
+- Added
+	- [[Bitcoin energy usage]]
+- Updated
+	-  [[public notes build authority and trust]]
+	-  [[Every time you tend to an idea you create an opportunity to share original work with others]]
+
 ### 2021-04-29 — All about digital workspaces
 - Added
 	- [[I want somewhere to be My Workspace™]]

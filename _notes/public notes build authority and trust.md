@@ -5,6 +5,14 @@ Providing an entry point into your mind lets people explore what you’re thinki
 
 By putting yourself out there you create opportunities to meet new people, improve ideas and projects, and learn things you never knew existed.
 
+This works well when you [[Share ideas before they’re ready]], as it creates quick feedback loops and engages people on platforms like Twitter.
+
+<blockquote class="quoteback" darkmode="" data-title="Jack%20Butcher%20on%20Twitter" data-author="" cite="https://twitter.com/jackbutcher/status/1395066204486832129">
+Showcase your thinking and opportunity will find you.<footer> <cite><a href="https://twitter.com/jackbutcher/status/1395066204486832129">https://twitter.com/jackbutcher/status/1395066204486832129</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+[[Every time you tend to an idea you create an opportunity to share original work with others]]
+
 ## 🚧 ⚠️ Rough Terrain Ahead ⚠️ 🚧
 > *🛑  **What's this?** ✍️  This whole note is a work in progress, but the below part is really rough. So why's it here? [[Share ideas before they’re ready]].*
 
