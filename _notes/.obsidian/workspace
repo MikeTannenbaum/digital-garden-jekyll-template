@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bitcoin energy usage.md",
+            "file": "changelog.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bitcoin energy usage.md",
+                "file": "changelog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "1f03bfcd8680a15a",
   "lastOpenFiles": [
-    "Bitcoin energy usage.md",
     "changelog.md",
+    "Craft is my workspace.md",
+    "Bitcoin energy usage.md",
     "What has my attention now.md",
     "Every time you tend to an idea you create an opportunity to share original work with others.md",
     "public notes build authority and trust.md",
     "scheduling—but not forcing—creativity.md",
     "New Rules for the Workplace.md",
     "Roam is for collecting the internet.md",
-    "A starting point for thinking.md",
-    "digital ecosystem.md"
+    "A starting point for thinking.md"
   ]
 }

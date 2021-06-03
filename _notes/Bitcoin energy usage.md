@@ -45,7 +45,7 @@ title: Bitcoin energy usage
 - *Globally, about* [*8 percent*](https://data.worldbank.org/indicator/EG.ELC.LOSS.ZS)* of electricity is lost in transit. Even high-voltage transmission lines suffer “line losses,” making it impractical to transport electricity over very long distances.
 - This is why we talk about an energy grid — you have to produce it virtually everywhere, especially near to population centers.*”
 
-      How much energy *should* a monetary system consume? Especially one that's global and decentralized.
+> How much energy *should* a monetary system consume? Especially one that's global and decentralized.
 
 ----
 
