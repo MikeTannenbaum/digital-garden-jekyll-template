@@ -9,7 +9,7 @@ title: changelog
 	- [[Craft is my workspace]]
 	- [[journey maps are tools not outcomes]]
 
-### 2021-05-19 — Opportunities
+### 2021-05-19 — Bitcoin energy usage
 - Added
 	- [[Bitcoin energy usage]]
 - Updated
