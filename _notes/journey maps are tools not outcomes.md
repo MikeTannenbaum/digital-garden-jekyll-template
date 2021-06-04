@@ -8,7 +8,7 @@ Sometimes it is, just like an architect would deliver a blueprint, but your ulti
 
 Same with journey maps.
 
-Journey maps help people visualize and understand the complexities of a system or service, which then helps identify areas in need of improvement. By zooming in and zooming out—something I've started calling [[zoom-in-zoom-out thinking]]—journey maps help uncover those critical opportunities for improvement which can then be focused and iterated on in ways that leave things better than they are displayed on the original journey map.
+Journey maps help people visualize and understand the complexities of a system or service, which then helps identify areas in need of improvement. By zooming in and zooming out—something I've started calling [[zoom-in-zoom-out thinking]]—journey maps help uncover critical opportunities, which can then be focused and iterated on in ways that leave things better than they are displayed on the original journey map.
 
 When you present your journey map to stakeholders it's important to have research-informed recommendations regarding what you believe is worth further exploring. "Here's what we learned and here's what's next."
 
@@ -23,6 +23,8 @@ That said...
 If you're not taking action on what you learn from a journey map there's a good chance stakeholders were not taught *why* the journey map is being made.
 
 Further upstream in the process of stakeholder alignment it should be made clear that the journey map is a launching pad for further investment and continuous improvement, not an endpoint.
+
+> The time Apple spent clarifying the role they play in their customers’ story is one of the primary factors responsible for their growth — Donald Miller, Building a Story Brand
 
 ## 🚧 ⚠️ Rough Terrain Ahead ⚠️ 🚧
 > *🛑  **What's this?** ✍️  This whole note is a work in progress, but the below part is really rough. So why's it here? [[Share ideas before they’re ready]].*

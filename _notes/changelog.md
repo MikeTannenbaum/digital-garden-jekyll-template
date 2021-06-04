@@ -4,9 +4,10 @@ title: changelog
 > *Tracking the changes across this site, powered by an [[Obsidian Jekyll workflow]]*
 
 - - - -
-### 2021-06-02 — Craft gets Daily Notes and calendar features
+### 2021-06-04 — Craft gets Daily Notes and calendar features
 - Updated
 	- [[Craft is my workspace]]
+	- [[journey maps are tools not outcomes]]
 
 ### 2021-05-19 — Opportunities
 - Added
