@@ -2,7 +2,11 @@
 title: Bitcoin energy usage
 ---
 
-**Bitcoin mining is driving innovation in the renewable energy sector** by incentivizing entrepreneurs and pioneers to develop the cheapest, most cost effective mining systems available. An example is [Upstream Data](https://www.upstreamdata.ca/), a Canadian bitcoin mining company that's developed products to capture methane emissions and use them for bitcoin mining. But this energy can also be used for other purposes, and is a positive impact on otherwise negative emissions.
+**Bitcoin mining is driving innovation in the renewable energy sector** by incentivizing entrepreneurs and pioneers to develop the cheapest, most cost effective mining systems available. 
+
+An example is [Upstream Data](https://www.upstreamdata.ca/), a Canadian bitcoin mining company that's developed products to capture methane emissions and use them for bitcoin mining. This captured energy is typically wasted—either directly released or combusted and released into the air—but now is being used to power decentralized computing networks such as Bitcoin. It's taking the poison Big Oil has been destroying our planet with for decades—methane, which is far worse greenhouse gas than carbon dioxide—and turning it into an energy innovation that positively impacts our planet. That's amazing.
+
+This further incentivises entrepreneurs and inventors to explore new opportunity which further fuels innovation and so on and so forth.
 
 ----
 > While many people cite that 76% of Bitcoin miners use renewable energy, that’s not entirely correct. Yes 76% of miners use renewables as part of their energy mix, but only 39% of mining comes from renewable sources.

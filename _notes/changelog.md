@@ -4,6 +4,10 @@ title: changelog
 > *Tracking the changes across this site, powered by an [[Obsidian Jekyll workflow]]*
 
 - - - -
+### 2021-06-06 — Bitcoin energy update
+- Updated
+	- [[Bitcoin energy usage]]
+
 ### 2021-06-04 — Craft gets Daily Notes and calendar features
 - Updated
 	- [[Craft is my workspace]]
