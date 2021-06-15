@@ -9,6 +9,7 @@ title: changelog
 	- [[digital garden]]
 	- [[I am looking for new and meaningful projects]]
 	- [[What has my attention now]]
+	- Swapped out Commento for Hyvor talk trial period. 50% the cost and not too many comments so not sure it's a worthwhile expense right now.
 
 ### 2021-06-06 — Bitcoin energy update
 - Updated
