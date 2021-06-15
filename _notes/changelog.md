@@ -4,6 +4,12 @@ title: changelog
 > *Tracking the changes across this site, powered by an [[Obsidian Jekyll workflow]]*
 
 - - - -
+### 2021-06-14 — Digital garden adjustments
+- Updated
+	- [[digital garden]]
+	- [[I am looking for new and meaningful projects]]
+	- [[What has my attention now]]
+
 ### 2021-06-06 — Bitcoin energy update
 - Updated
 	- [[Bitcoin energy usage]]
@@ -201,7 +207,7 @@ title: changelog
 
 ### 2020-11-20 — A few note updates
 - Added:
-	- [[I am looking for new and meaningful projects in 2021]]
+	- [[I am looking for new and meaningful projects]]
 	- [[Drafts is for immediate note capture]]
 	- [[Non-linear writing’s ability to jump from sentence to sentence, idea to idea, changes the way the mind thinks through ideas]]
 	- [[Am I the 'mediocre white man' they so often speak about?]]
