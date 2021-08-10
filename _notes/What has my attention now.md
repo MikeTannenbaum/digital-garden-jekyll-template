@@ -1,9 +1,9 @@
 ---
 title: What has my attention now
 ---
-*This page focuses on what I’m building, thinking, and writing. The ideas here are actively being tended over time. Please share your thoughts, challenges, and constructive criticisms anytime! Comment below or on Twitter [@theroyaltbomb](https://twitter.com/theroyaltbomb)*
+*This page focuses on what I’m building, thinking, and writing. The ideas here are actively being tended over time. Please share your thoughts, challenges, and constructive criticisms anytime! Comment below or on Twitter [@miketnnnbm](https://twitter.com/miketnnnbm)*
 
-> **My Priority**: [[I am looking for new and meaningful projects]]
+> **My Priority**: Onboarding myself to my new role as [Director of Organizational Effectiveness](https://linkedin.com/in/tannenbaum) at [The Recycling Partnership](https://recyclingpartnership.org/)
 
 ## Building
 * An idea generating, knowledge building, note taking, learning system, part of which is this [[digital garden]]

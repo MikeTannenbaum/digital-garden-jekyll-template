@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4a9241a603308d2e",
+        "id": "fb4fe26341baa726",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "What has my attention now.md",
+            "file": "reduce single-use plastic.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What has my attention now.md",
+                "file": "reduce single-use plastic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +94,17 @@
     "width": 352,
     "collapsed": true
   },
-  "active": "4a9241a603308d2e",
+  "active": "fb4fe26341baa726",
   "lastOpenFiles": [
-    "What has my attention now.md",
+    "reduce single-use plastic.md",
     "changelog.md",
+    "Untitled.md",
+    "digital ecosystem.md",
+    "What has my attention now.md",
     "I am looking for new and meaningful projects.md",
     "Bitcoin energy usage.md",
     "I am looking for new and meaningful projects in 2021.md",
     "my digital ecosystem.md",
-    "digital garden.md",
-    "Obsidian Jekyll workflow.md",
-    "Notes should be densely linked.md",
-    "journey maps are tools not outcomes.md"
+    "digital garden.md"
   ]
 }

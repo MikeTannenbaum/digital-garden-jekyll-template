@@ -4,6 +4,10 @@ title: changelog
 > *Tracking the changes across this site, powered by an [[Obsidian Jekyll workflow]]*
 
 - - - -
+### 2021-08-09 — Reduce single waste plastic
+- Added
+	- [[reduce single-use plastic]]
+
 ### 2021-06-14 — Digital garden adjustments
 - Updated
 	- [[digital garden]]
