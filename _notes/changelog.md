@@ -4,6 +4,15 @@ title: changelog
 > *Tracking the changes across this site, powered by an [[Obsidian Jekyll workflow]]*
 
 - - - -
+### 2021-08-14 — Obsidian coming back into play + @miketannnbm update
+- Updated
+	- After months of a Craft-only lifestyle I'm realizing there might be a strong role for Obsidian as my daily driver
+		- [[Obsidian is for building my body of work]]
+		- [[my digital ecosystem]]
+	- [[What has my attention now]]
+	- Replaced all @TheRoyalTbomb Twitter references with my new @miketnnnbm handle
+		- Choosing not to list out all the updates in the changelog because the notes themselves did not change content, other than the technical detail of the file being updated on this date
+
 ### 2021-08-09 — Reduce single waste plastic
 - Added
 	- [[reduce single-use plastic]]

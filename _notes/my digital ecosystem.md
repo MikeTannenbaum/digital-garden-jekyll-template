@@ -42,3 +42,27 @@ That said...how amazing would it be to see all the multidirectional links across
 It's been a long [[evolution of the ecosystem]], and hopefully I'm at a comfortable place where I can focus more on the work than on the system.
 
 > If you would like to setup your own digital garden, I wrote a note on how mine is made through my [[Obsidian Jekyll workflow]].
+
+## 🚧 ⚠️ Rough Terrain Ahead ⚠️ 🚧
+> *🛑  **What's this?** ✍️  This whole note is a work in progress, but the below part is really rough. So why's it here? [[Share ideas before they’re ready]].*
+
+## On Saturday, August 14, 2021 I'm thinking about how Craft—which I've immersed myself in for months now—might not be the right tool as my daily driver
+It's a little bit too...sleek.
+
+The plain text of Obsidian is becoming a compelling argument for spending more time in here. It's not as distracting as all Craft's capabilities like formatting and organization. While those sound minor, there's near-endless beauty in the simplicity of Obsidian's text editor and the power of its back-end system.
+
+Perhaps I can break it this way:
+- Ideas emerge while writing in Obsidian
+- Work gets done within Craft
+
+Those are two different types of work which lead to two different outcomes. Progression of ideas against progression of projects.
+
+[[A knowledge worker’s toolkit needs to be well-rounded]], so I'm OK with it for the time being.
+
+The joy of *only* having to deal with text and nothing more means I can focus 100% on the documentation of my thoughts, without regard for organization
+
+### Here's what kickstarted the above thought exploration:
+
+- Draft is for capturing fleeting thoughts, ideas, and notes
+- Craft is for collecting materials from around the internet, organizing and structuring information and knowledge, and sharing parts of the process in a casual way
+- Obsidian is for building ideas over time and taking daily notes

@@ -13,4 +13,4 @@ This site is a diverse ecosystem of interlinked notes all evolving at different 
 
 The best way to get started exploring is to look at the [[changelog]] of recent updates and additions. You could also check out [[What has my attention now]]. Feel free to click any link that catches your curiosity, as each provides a choose-your-own-adventure-style pathway into my [[web of thinking]].
 
-Have something to say? I check [email](mailto:letstalk@miketannenbaum.com) and [twitter](https://twitter.com/theroyaltbomb) occasionally. Still curious? [My main site](https://miketannenbaum.com) has [essays](https://miketannenbaum.com/writings), [projects](https://miketannenbaum.com/projects), a [newsletter](https://miketannenbaum.com/signup) and more.
+Have something to say? I check [email](mailto:letstalk@miketannenbaum.com) and [twitter](https://twitter.com/miketnnnbm) occasionally. Still curious? [My main site](https://miketannenbaum.com) has [essays](https://miketannenbaum.com/writings), [projects](https://miketannenbaum.com/projects), a [newsletter](https://miketannenbaum.com/signup) and more.

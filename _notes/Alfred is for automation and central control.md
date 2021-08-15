@@ -20,7 +20,7 @@ After years of using Alfred for all these, 2021 led to me moving all these expan
 `.w ` = write: <br>
 `.tp ` = #to-process <br>
 `.li ` = https://www.linkedin.com/in/tannenbaum/  <br>
-`.tw ` = https://www.twitter.com/theroyaltbomb/  <br>
+`.tw ` = https://www.twitter.com/miketnnnbm/  <br>
 `.mt ` = https://www.miketannenbaum.com/  <br>
 `.trm ` = https://www.refinedmind.co/  <br>
 `$wb` = Whereby URL<br>

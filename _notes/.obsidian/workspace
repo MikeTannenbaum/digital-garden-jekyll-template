@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fb4fe26341baa726",
+        "id": "1823259477cf1544",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "reduce single-use plastic.md",
+            "file": "my digital ecosystem.md",
             "mode": "source"
           }
         }
@@ -39,10 +39,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "public",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reduce single-use plastic.md",
+                "file": "my digital ecosystem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +94,17 @@
     "width": 352,
     "collapsed": true
   },
-  "active": "fb4fe26341baa726",
+  "active": "1823259477cf1544",
   "lastOpenFiles": [
-    "reduce single-use plastic.md",
-    "changelog.md",
-    "Untitled.md",
-    "digital ecosystem.md",
-    "What has my attention now.md",
-    "I am looking for new and meaningful projects.md",
-    "Bitcoin energy usage.md",
-    "I am looking for new and meaningful projects in 2021.md",
     "my digital ecosystem.md",
-    "digital garden.md"
+    "changelog.md",
+    "reduce single-use plastic.md",
+    "What has my attention now.md",
+    "Whimsical is for visual thinking.md",
+    "the world of work was not designed for working parents.md",
+    "Obsidian Jekyll workflow.md",
+    "Alfred is for automation and central control.md",
+    "I want somewhere to be My Workspace™.md",
+    "Data ≠ Insight.md"
   ]
 }

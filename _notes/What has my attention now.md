@@ -12,6 +12,9 @@ title: What has my attention now
 	* Signup page: [https://refinedmind.co/subscribe](https://refinedmind.co/subscribe)
 
 ## Thinking
+- How to facilitate connectivity across a 60-person fully-distributed multi-generational mission-driven workforce
+	- What does connectivity mean? Cohesion? Collaboration? Visibility? Transparency?
+	- Is documentation and a unified collaborative workspace a good starting point?
 - Some thoughts as I iterate on [[my digital ecosystem]]
 	* This system helps me [[learn in public]] and [[build a body of work]] while exploring my [[web of thinking]]
 	* [[A knowledge worker’s toolkit needs to be well-rounded]]

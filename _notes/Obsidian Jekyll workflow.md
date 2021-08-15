@@ -6,7 +6,7 @@ title: Obsidian Jekyll workflow
 
 [[Obsidian is for building my body of work]] and tending to this digital garden. While my workflow is simple to me, it does require some setup. That's what we'll cover in this note.
 
-🌱 This note is intended to help out my fellow digital gardeners who want to setup their own garden and simple workflow on MacOS. This is admittedly the first "technical walkthrough" I've ever written so **please please please** comment below or [message me on Twitter](https://twitter.com/theroyaltbomb){:target="_blank"} with any troubles, challenges, or confusions you ran across. Enjoy!
+🌱 This note is intended to help out my fellow digital gardeners who want to setup their own garden and simple workflow on MacOS. This is admittedly the first "technical walkthrough" I've ever written so **please please please** comment below or [message me on Twitter](https://twitter.com/miketnnnbm){:target="_blank"} with any troubles, challenges, or confusions you ran across. Enjoy!
 
 <hr>
 In essence, my workflow is

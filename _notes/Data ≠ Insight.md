@@ -3,7 +3,7 @@ title: Data ≠ Insight
 ---
 
 > The more strategy decks I look at the more I'm convinced people don't know what an insight actually is. Data ≠ Insight
-> ~ [Me, on Twitter](https://twitter.com/TheRoyalTbomb/status/1357788588197502982){:target="_blank"}
+> ~ [Me, on Twitter](https://twitter.com/miketnnnbm/status/1357788588197502982){:target="_blank"}
 
 #### Insights are about connecting ideas and reading between the lines in ways that generate novel thoughts and ideas about the situation at hand.
 

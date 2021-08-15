@@ -107,4 +107,4 @@ And finally...
 
 Fuck the patriarchy.
 
-[1]:	https://twitter.com/TheRoyalTbomb/status/1376958731578179586
+[1]:	https://twitter.com/miketnnnbm/status/1376958731578179586
