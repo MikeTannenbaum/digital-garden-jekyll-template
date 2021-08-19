@@ -4,6 +4,11 @@ title: changelog
 > *Tracking the changes across this site, powered by an [[Obsidian Jekyll workflow]]*
 
 - - - -
+### 2021-08-18 — Noting my new career challenge
+- Updated
+	- [[what I need in a digital workspace]]
+		- [I've joined the team](https://www.linkedin.com/pulse/my-new-career-adventure-addressing-systems-change-our-mike-tannenbaum/) at [The Recycling Partnership](https://recyclingpartnership.org) as their [Director of Organizational Effectiveness](https://linkedin.com/in/tannenbaum), and this changes my needs. This note is now outdated. Stay tuned!
+
 ### 2021-08-14 — Obsidian coming back into play + @miketannnbm update
 - Updated
 	- After months of a Craft-only lifestyle I'm realizing there might be a strong role for Obsidian as my daily driver
