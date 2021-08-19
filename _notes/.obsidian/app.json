@@ -86,5 +86,8 @@
   "foldHeading": true,
   "foldIndent": true,
   "showLineNumber": false,
-  "trashOption": "local"
+  "trashOption": "local",
+  "spellcheckDictionary": [
+    "Integrations"
+  ]
 }

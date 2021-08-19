@@ -20,8 +20,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "changelog.md",
-            "mode": "preview"
+            "file": "reduce single-use plastic.md",
+            "mode": "source"
           }
         }
       }
@@ -108,10 +108,10 @@
   "active": "1823259477cf1544",
   "lastOpenFiles": [
     "what I need in a digital workspace.md",
+    "reduce single-use plastic.md",
     "changelog.md",
     "digital ecosystem.md",
     "my digital ecosystem.md",
-    "reduce single-use plastic.md",
     "What has my attention now.md",
     "Whimsical is for visual thinking.md",
     "the world of work was not designed for working parents.md",

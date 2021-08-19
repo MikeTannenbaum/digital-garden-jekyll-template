@@ -8,8 +8,31 @@ title: what I need in a digital workspace
 > Specifically, I need to design a system for both myself and my team, individually as well as in intertwined. As I onboard myself to my new role, and build situational awareness, I'll consistently iterate and refine both systems until I find what works best. [**Subscribe for updates**](https://refinedmind.co/subscribe) if you want to stay up to date! ;)
 
 ---
+That said, I'm still thinking about this, and this is The Refined Mind, a never-ending work-in-progress [[digital garden]], so let's go!
 
-[[I want somewhere to be My Workspace™]], and I want that somewhere to have what I consider critical capabilities for me:
+I need a space where I can think endlessly and capture what's worthwhile. Everything very quickly needs to be segmented into "relevant to my job" and "not relevant to my job and thus relevant to the rest of my life," though there are many similarities that already make so much knowledge ambiguous between the false dichotomy.
+
+## I now have two roles to consider
+1. Personal Work + The Refined Mind
+2. The Partnership's Director of Org Effectiveness
+
+**These roles are incredibly intertwined and hold both similar and unique needs simultaneously.**
+
+## The key similarities
+
+1. Both roles are dedicated to designing, implementing, and refining productivity systems
+2. I'm fully invested in creating the best possible outcomes in both of my roles because I fully give a shit about my life, my planet, and my communities, and these two roles are now two sides of the same coin
+
+### Looking at technology, they both need to offer
+- Clarity
+- Speed
+- Flexibility
+- Organization
+- Streamlined experience
+
+## The differences
+### Personal productivity unique needs
+[[I want somewhere to be My Workspace™]], and I want that somewhere to have what I consider critical capabilities:
 - Bidirectional links
 - Block references
 - Fast search
@@ -23,6 +46,20 @@ title: what I need in a digital workspace
 - Deeplinks
 - Easy “processing notes” workflow
 - Easy selection and rearrangement of blocks
+
+### Organizational productivity unique needs
+- Transparency
+- Alignment
+- Permissions
+- Integrations
+
+> Somehow, I need *one* digital space
+
+---
+
+ ## 🚧 ⚠️ Rough Terrain Ahead ⚠️ 🚧
+> *🛑  **What's this?** ✍️  This whole note is a work in progress, but the below part is really rough. So why's it here? [[Share ideas before they’re ready]].*
+
 
 *`*` Asterisk represents the capabilities Craft does not have. See below for more detail.*
 
