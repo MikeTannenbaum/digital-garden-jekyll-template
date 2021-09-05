@@ -12,7 +12,7 @@ title: What has my attention now
 	* Signup page: [https://refinedmind.co/subscribe](https://refinedmind.co/subscribe)
 
 ## Thinking
-- How to facilitate connectivity across a 60-person fully-distributed multi-generational mission-driven workforce
+- How to facilitate connectivity across a 70-person fully-distributed multi-generational mission-driven workforce
 	- What does connectivity mean? Cohesion? Collaboration? Visibility? Transparency?
 	- Is documentation and a unified collaborative workspace a good starting point?
 - Some thoughts as I iterate on [[my digital ecosystem]]
