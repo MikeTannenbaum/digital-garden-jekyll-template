@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "308aa034d24f2164",
+    "id": "8c3ca99d837fba36",
     "type": "split",
     "children": [
       {
-        "id": "1823259477cf1544",
+        "id": "dd335fbe982addac",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Writing is thinking.md",
+            "file": "_pages/about.md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "aa392b02d30380a9",
+    "id": "37fafae0727b66ca",
     "type": "split",
     "children": [
       {
-        "id": "2762f71c128146c8",
+        "id": "bb0cf97f8cafb785",
         "type": "tabs",
         "children": [
           {
-            "id": "5fcf6a674c988b1e",
+            "id": "ef4625ff75e16055",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "edc90d2ada219f6c",
+            "id": "e4025a7980cc8553",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -47,43 +47,35 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "0a63e02673ee7fd1",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 402
+    "width": 300
   },
   "right": {
-    "id": "57fbaada095c81cb",
+    "id": "775246afcbd114a1",
     "type": "split",
     "children": [
       {
-        "id": "efdb256217503e4a",
+        "id": "5a01337885c7deaa",
         "type": "tabs",
         "children": [
           {
-            "id": "04734f6f7d28c517",
+            "id": "61639f36894abe0d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing is thinking.md",
+                "file": "_pages/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -91,20 +83,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352,
+    "width": 300,
     "collapsed": true
   },
-  "active": "1823259477cf1544",
+  "active": "dd335fbe982addac",
   "lastOpenFiles": [
-    "Writing is thinking.md",
-    "Knowledge teams need a shared digital space.md",
-    "What has my attention now.md",
-    "changelog.md",
-    "Untitled.md",
-    "what I need in a digital workspace.md",
-    "reduce single-use plastic.md",
-    "digital ecosystem.md",
-    "my digital ecosystem.md",
-    "Whimsical is for visual thinking.md"
+    "_pages/about.md",
+    "README.md",
+    "_pages/index.md",
+    "_pages/privacy.md",
+    "_pages/subscribe.md"
   ]
 }

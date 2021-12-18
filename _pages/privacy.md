@@ -20,7 +20,7 @@ When I look at the dashboard I am presented with the following information:
 
 Privacy is important to me but I also want to learn what notes and pages people are viewing, and where people are coming from. There are no Google-made [UTM parameters](https://en.wikipedia.org/wiki/UTM_parameters){:target="_blank"} tracking your entire behavior during your visit. It's just you and me and aggregated, anonymized data for me to glean insights here and there.
 
-If you have questions about the site's performance, or my balance of privacy and data needs, please reach out anytime to [mike@refinedmind.co](mailto:mike@refinedmind.co).
+If you have questions about the site's performance, or my balance of privacy and data needs, please reach out anytime to [me@miketannenbaum.com](mailto:me@miketannenbaum.com).
 
 Thanks for being here!
 
