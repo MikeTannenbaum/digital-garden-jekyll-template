@@ -4,6 +4,11 @@ title: changelog
 > *Tracking the changes across this site, powered by an [[Obsidian Jekyll workflow]]*
 
 - - - -
+### 2021-10-29 — My crypto journey
+- Added
+	- [[my crypto journey]]
+		- I believe in bitcoin and crypto, and am immersing myself in NFTs and DAOs while exploring the future of web3. I traded 2013, studied 2017, and prepared for 2021.
+
 ### 2021-09-04 — Knowledge teams shared digital workspace
 - Added
 	- [[Knowledge teams need a shared digital space]]

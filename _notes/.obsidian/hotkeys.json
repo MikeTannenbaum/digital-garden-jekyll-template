@@ -55,8 +55,7 @@
   "app:go-forward": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
       "key": "]"
     }
@@ -64,8 +63,7 @@
   "app:go-back": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
       "key": "["
     }
