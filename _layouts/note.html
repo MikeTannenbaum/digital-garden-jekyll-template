@@ -56,7 +56,7 @@ layout: default
       			{% endcomment %}
 
             {% assign result_notes = site.notes | where: 'title',itemparts[0] %}
-            {% assign result_notes = site.posts | where: 'title',itemparts[0] %}
+            {% assign result_posts = site.posts | where: 'title',itemparts[0] %}
             {% assign internal_links = internal_links | append: link_joiner_delimiter | append: internal_link %}
             {%- assign internal_urls = internal_urls | append: link_joiner_delimiter | append: result_notes[0].url | append: result_notes[0].url  -%}
       		{% else %}
