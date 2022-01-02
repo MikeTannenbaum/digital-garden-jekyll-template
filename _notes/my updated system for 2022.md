@@ -5,12 +5,14 @@ title: my updated system for 2022
 
 ## Craft — Workspace
 > [[Craft is my workspace]]
+
 - Daily Notes and Interstitial Journal
 - Messy Workspace
 - Collections of Resources
 
 ## Obsidian — Notebooks
 > [[Obsidian is for building my body of work]]
+
 - Sparkfile
 - Digital Gardening
 - Thought Explorations
@@ -18,6 +20,7 @@ title: my updated system for 2022
 
 ## Drafts — Sticky Notes
 > [[Drafts is for immediate note capture]]
+
 - Quick Capture
 - Processing (sending to Things, Craft, Day One, etc)
 

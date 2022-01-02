@@ -1,20 +1,16 @@
 {
   "main": {
-    "id": "308aa034d24f2164",
+    "id": "33a2d6ddfa3c451d",
     "type": "split",
     "children": [
       {
-        "id": "10193d89ad773e74",
+        "id": "d3357f70c1e50b9d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "my updated system for 2022.md",
-<<<<<<< HEAD
             "mode": "source",
-=======
-            "mode": "preview",
->>>>>>> 82f366e05221844b58c8796b9543a85226753d1a
             "source": false
           }
         }
@@ -23,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "aa392b02d30380a9",
+    "id": "339f6ae57058e9be",
     "type": "split",
     "children": [
       {
-        "id": "2762f71c128146c8",
+        "id": "88d8a2ea3d6c5ac3",
         "type": "tabs",
         "children": [
           {
-            "id": "5fcf6a674c988b1e",
+            "id": "6191f48915f8983e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +35,7 @@
             }
           },
           {
-            "id": "edc90d2ada219f6c",
+            "id": "607227e7e4963257",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +50,7 @@
             }
           },
           {
-            "id": "0a63e02673ee7fd1",
+            "id": "fe9680b2acc9e323",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -65,18 +61,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402
+    "width": 300
   },
   "right": {
-    "id": "57fbaada095c81cb",
+    "id": "282ef6ff8e0f5392",
     "type": "split",
     "children": [
       {
-        "id": "efdb256217503e4a",
+        "id": "f4ae6fc70f5902bd",
         "type": "tabs",
         "children": [
           {
-            "id": "04734f6f7d28c517",
+            "id": "fd367b60dd00817f",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -88,7 +84,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -96,20 +92,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352,
+    "width": 300,
     "collapsed": true
   },
-  "active": "10193d89ad773e74",
+  "active": "d3357f70c1e50b9d",
   "lastOpenFiles": [
     "my updated system for 2022.md",
-    "changelog.md",
-    "Evernote is for long-term storage.md",
-    "Obsidian is for building my body of work.md",
     "my digital ecosystem.md",
-    "refine ideas over time.md",
-    "I am looking for new and meaningful projects.md",
-    "reduce single-use plastic.md",
     "my most utilitarian apps.md",
-    "my crypto journey.md"
+    "my crypto journey.md",
+    "stack the bricks.md",
+    "Bitcoin energy usage.md"
   ]
 }
