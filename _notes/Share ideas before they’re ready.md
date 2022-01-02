@@ -11,6 +11,6 @@ Since these are thoughts in progress it’s important to note that these are not
 
 When sharing thoughts in progress there needs to be an unspoken-yet-mutually-accepted agreement between the reader and writer. Respectful discourse is encouraged but aggression without prior discussion is unwarranted. All words and ideas are subject to change at any time.
 
-One benefit of sharing ideas publicly is the opportunity to collaborate on ideas with people from around the world, which only leads to even more new perspectives to help refine and improve ideas. Over time you’ll [[refine your ideas over time]] and discover you’ve built a [[build a body of work]] that is unique to you.
+One benefit of sharing ideas publicly is the opportunity to collaborate on ideas with people from around the world, which only leads to even more new perspectives to help refine and improve ideas. Over time you’ll [[refine ideas over time]] and discover you’ve built a [[build a body of work]] that is unique to you.
 
 All of this is foundational to help you [[learn in public]].

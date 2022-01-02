@@ -3,7 +3,7 @@ title: learn in public
 ---
 Learning, writing, and working in public create new opportunities while facilitating quick feedback loops and building community. See for reference: every prolific content creator on the internet.
 
-By publishing your incremental learnings and idea evolutions, you invite people to explore your [[web of thinking]]. With feedback and input from others, you gain the ability to [[refine your ideas over time]] at a faster pace than if you were to sit on them by themselves. Additionally, [[public notes build authority and trust]], which can both be leveraged throughout the entirety of your career.
+By publishing your incremental learnings and idea evolutions, you invite people to explore your [[web of thinking]]. With feedback and input from others, you gain the ability to [[refine ideas over time]] at a faster pace than if you were to sit on them by themselves. Additionally, [[public notes build authority and trust]], which can both be leveraged throughout the entirety of your career.
 
 It’s impossible to foresee what will come from ideas as they collide with one another, but the more writing and sharing you do, the more opportunities you create for yourself and others.
 

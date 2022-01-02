@@ -5,7 +5,7 @@ Sitting down with a “what should I wrote about now?” approach often leads no
 
 Instead, read new materials and make note of your thoughts. Write about the concepts you’re interested in and put those in your note-taking system as [[Evergreen notes]].
 
-When you sit down to write you could, for clusters of notes and build upon your past thoughts in ways that help you [[refine your ideas over time]].
+When you sit down to write you could, for clusters of notes and build upon your past thoughts in ways that help you [[refine ideas over time]].
 
 > Getting something that is already written into another written piece is incomparably easier than assembling everything in your mind and then trying to retrieve it from there." —Sönke Ahrens
 

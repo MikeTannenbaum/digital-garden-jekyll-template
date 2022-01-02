@@ -6,7 +6,7 @@ The apps, systems, and software we work with on a regular basis make up our digi
 
 Whatever tools we choose become part of our digital toolkit. [[A knowledge worker’s toolkit needs to be well-rounded]], so these kits add up pretty quickly.
 
-Examples of digital tools include apps for project management, communications, data visualization, design, collaboration, writing, coding, task management and so much more. Notion, Trello, Figma, Things, Obsidian, Atom, Whimsical, Drafts, Bear, Spotify, Miro, Roam Research, Day One, Lightroom, Slack, Google Workplace, Readwise, Mailbrew, and so many others.
+Examples of digital tools include apps for project management, communications, data visualization, design, collaboration, writing, coding, task management and so much more. Notion, Trello, Figma, Things, Obsidian, Atom, Whimsical, Drafts, Bear, Spotify, Miro, Roam Research, Day One, Lightroom, Slack, Google Workplace, Readwise, Mailbrew, and so many others. Here's a list of [[my most utilitarian apps]].
 
 Ideally, one's personal digital ecosystem is designed with intention. In a digital world, it's easy to fall into clutter and disarray, so it's important to regularly check in with your system to make sure things are working as desired. [[Using digital tools intentionally can help improve the volume and quality of creative output]].
 

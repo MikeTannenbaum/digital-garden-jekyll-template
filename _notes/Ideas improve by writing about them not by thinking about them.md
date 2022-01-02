@@ -13,7 +13,7 @@ When you sit to write, thoughts in your mind lead to words on the page, and word
 
 This site—this page, in fact—is a product of the regenerative process of writing and thinking. While [[these notes are written for myself]], I host them publicly as my [[digital garden]] in effort to [[build a body of work]], explore my [[web of thinking]], and hopefully connect with others with whom my ideas resonate.
 
-Publicly sharing your writing—your thinking, really—is a good way to [[refine your ideas over time]]. Also, [[public notes build authority and trust]], which are foundational elements of strong relationships.
+Publicly sharing your writing—your thinking, really—is a good way to [[refine ideas over time]]. Also, [[public notes build authority and trust]], which are foundational elements of strong relationships.
 
 It's for these reasons I put intention into [[my digital ecosystem]] and work to build behaviors, processes, and systems to help me explore, understand, and improve my ideas. **The system helps me think clearly, which is what I need most in order to navigate my way forward.**
 

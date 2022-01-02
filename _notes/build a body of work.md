@@ -9,7 +9,7 @@ This concept is most prevalent when referring to compound interest of investment
 
 ### Building a body of work is a lot like earning compound interest.
 
-When you consistently produce work you believe in—creative work that's fueled by intrinsic motivation as opposed to external forces—the volume of work grows and becomes more and more valuable over time. [[Ideas improve by writing about them not by thinking about them]], so more writing means more thinking, and better writing means better thinking. When you [[refine your ideas over time]], you continually amass a body of work that is actually connected in ways you have not yet seen.
+When you consistently produce work you believe in—creative work that's fueled by intrinsic motivation as opposed to external forces—the volume of work grows and becomes more and more valuable over time. [[Ideas improve by writing about them not by thinking about them]], so more writing means more thinking, and better writing means better thinking. When you [[refine ideas over time]], you continually amass a body of work that is actually connected in ways you have not yet seen.
 
 While projects you complete might seem disparate or disjointed, when you zoom out you might find each "node" to be part of your larger "network" of work. This is a part of [[zoom-in-zoom-out thinking]]: everything you create can be connected by your [[web of thinking]], which you could share through a [[digital garden]] such as this one. 
 <hr/>
@@ -27,7 +27,7 @@ While projects you complete might seem disparate or disjointed, when you zoom ou
 - [[learn in public]]
 - [[stack the bricks]]
 - [[Share ideas before they’re ready]]
-- [[refine your ideas over time]]
+- [[refine ideas over time]]
 - Follow your curiosity
 - Follow your efforts
 - Learn quickly

@@ -13,7 +13,7 @@ The tool is designed for [[networked thinking]] and automatically connects notes
 
 > *This note is part of a small series highlighting [[my digital ecosystem]]. If you want to setup your own, here is a walkthrough on how to setup this system: [[Obsidian Jekyll workflow]]*
 
-[[Ideas improve by writing about them not by thinking about them]], and Obsidian is here to help you [[refine your ideas over time]], [[stack the bricks]], and[[build a body of work]]. Who knows what comes from caring for the ideas in this [[digital garden]].
+[[Ideas improve by writing about them not by thinking about them]], and Obsidian is here to help you [[refine ideas over time]], [[stack the bricks]], and[[build a body of work]]. Who knows what comes from caring for the ideas in this [[digital garden]].
 
 That said, [[It’s not a writing system, it’s a thinking system whose byproduct is writing]], and Obsidian makes it easy to iterate on ideas and publish them to this site through a git workflow and Jekyll website, which also runs on markdown files.
 

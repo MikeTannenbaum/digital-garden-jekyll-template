@@ -9,8 +9,13 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "my crypto journey.md",
-            "mode": "source"
+            "file": "my updated system for 2022.md",
+<<<<<<< HEAD
+            "mode": "source",
+=======
+            "mode": "preview",
+>>>>>>> 82f366e05221844b58c8796b9543a85226753d1a
+            "source": false
           }
         }
       }
@@ -76,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "my crypto journey.md",
+                "file": "my updated system for 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +101,15 @@
   },
   "active": "10193d89ad773e74",
   "lastOpenFiles": [
-    "my crypto journey.md",
-    "digital garden.md",
-    "A starting point for thinking.md",
-    "build a body of work.md",
-    "Bitcoin energy usage.md",
+    "my updated system for 2022.md",
     "changelog.md",
+    "Evernote is for long-term storage.md",
     "Obsidian is for building my body of work.md",
-    "what I need in a digital workspace.md",
-    "What has my attention now.md",
-    "Writing is thinking.md"
+    "my digital ecosystem.md",
+    "refine ideas over time.md",
+    "I am looking for new and meaningful projects.md",
+    "reduce single-use plastic.md",
+    "my most utilitarian apps.md",
+    "my crypto journey.md"
   ]
 }

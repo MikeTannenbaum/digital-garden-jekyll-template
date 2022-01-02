@@ -1,6 +1,8 @@
 ---
 title: my digital ecosystem
 ---
+> [[my updated system for 2022]]
+
 I have a fascination with systems, networks, and automation. I’m a systems nerd perpetually iterating on my personal systems for writing, working, learning, and managing digital data, files, and knowledge.
 
 I also have a passion for everything nature and outdoors. Permaculture, farming, ecosystems, environmentalism—I believe in the connection between humans and the earth, and always find myself thinking about the relationship between entities, wondering about the role each entity might play in connection to a larger system.
@@ -11,7 +13,7 @@ The result of many conversations within this community led me to make note how [
 
 [[A knowledge worker’s toolkit needs to be well-rounded]], so after much experimentation and exploration of new practices and tools, I’ve made significant improvements to my learning and knowledge management system. It's considered a work in progress, however, as it's always being iterated on and improved as my needs evolve and change.
 
-> As of May 2021, I've committed myself to two main tools: Things and Craft. The goal is to handle 90% of my workload within those two tools. Time will tell...
+> As of January 2022, I've committed myself to three main tools: Things, Craft, and Obsidian.
 
 ![](/assets/choose-an-objective.png)
 
@@ -19,7 +21,11 @@ While this ecosystem is intended to facilitate writing, I've come to learn that 
 
 ## Here’s what I’m working with right now
 * [[Craft is my workspace]] for (mostly) private, messy, diverse types of work
-* [[Obsidian is for building my body of work]] and tending my [[digital garden]]
+	* Interstitial journaling
+	* Collecting materials from around the internet
+	* Organizing and structuring information and knowledge
+	* Sharing parts of my process in a casual way
+* [[Obsidian is for building my body of work]] and tending my [[digital garden]] to [[refine ideas over time]]
 * [[Drafts is for immediate note capture]]
 * [[Things is for getting shit done]]
 * [[Evernote is for long-term storage]]
@@ -30,6 +36,7 @@ While this ecosystem is intended to facilitate writing, I've come to learn that 
 * *Experimental:* [[Roam is for collecting the internet]]
 * *Experimental:* ~~Obsidian~~ Craft as my main note-taking, writing, and thinking environment
 	* I'm replacing Roam, even though it's a very powerful tool. Why? Terrible privacy policy, very sluggish, no good mobile experience, and relies on cloud providers instead of being device-native and offline-first. Craft is local, native, markdown, beautiful, and hopefully exactly what I need. Roam might still have a place for the research part of it—a place to collect and connect knowledge and data—but the goal is for Craft to become where the *wisdom and insight* are. Where ideas are forged and imagination is sparked. The place to call my home, knowing my data, files, and words are mine. Yes, there's fewer flashy features, but plain text might end up being perfect. Simplicity is crucial and thus far things have been anything but simple.
+* Here's a running list of [[my most utilitarian apps]]
 
 Each app serves a discrete and distinguished purpose within my digital  ecosystem. (👇🏻 visual needs updating as of April 29, 2021 since Roam and Notion are gone)
 

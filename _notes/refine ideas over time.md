@@ -1,9 +1,9 @@
 ---
-title: refine your ideas over time
+title: refine ideas over time
 ---
-Your first ideas are rarely your best ideas.
+First ideas are rarely your best ideas.
 
-In fact, there’s typically a long stream of garbage-y ideas spewing out first, before the gold begins to emerge.
+In fact, there’s typically a long stream of garbage-y ideas spewing out first before the gold begins to emerge.
 
 That’s why it’s important to [[just start writing]] and let all the sludge clear itself out. You’ve got to work through it! Both in the moment when you’re sitting and writing, and over time as you work to refine your ideas.
 

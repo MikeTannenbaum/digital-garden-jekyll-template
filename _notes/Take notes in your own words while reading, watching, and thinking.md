@@ -8,6 +8,6 @@ Whenever you’re actively engaging with content—whether books, films, article
 
 Underlining doesn't retain whatever thought was going through your head when you read a passage, nor does it retain the context with which your brain processed it in. The only way to retain those are to make notes in the moment and in your own words. Those notes will lead you towards generating [[novel ideas]].
 
-By capturing notes in the moment and in your own words, you preserve both your thinking and the context of your thoughts, which will enable you to effectively [[refine your ideas over time]].
+By capturing notes in the moment and in your own words, you preserve both your thinking and the context of your thoughts, which will enable you to effectively [[refine ideas over time]].
 
 Start improving your note-taking by exploring [[How I take smart notes]]. Over time, this will help you [[stack the bricks]] and [[build a body of work]].

@@ -15,7 +15,7 @@ They’re simple pieces of software on the surface, with great depths of design 
 
 They’re designed to aid **your thinking** as opposed to aiding your processes: managing tasks, schedules, communications, etc.
 
-When you capture, process, rework, and [[refine your ideas over time]], you boost your creativity and generate novel ideas more frequently, which leads to more—and better—creation. [[Ideas improve by writing about them not by thinking about them]], as [[Writing is thinking]], just more tangible.
+When you capture, process, rework, and [[refine ideas over time]], you boost your creativity and generate novel ideas more frequently, which leads to more—and better—creation. [[Ideas improve by writing about them not by thinking about them]], as [[Writing is thinking]], just more tangible.
 
 Humans are the only species that creates. Of all the species in the world, we’re the only one to make art, cook food, and build technology. Creation is what makes us human.
 

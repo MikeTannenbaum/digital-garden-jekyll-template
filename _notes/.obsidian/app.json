@@ -89,5 +89,7 @@
   "trashOption": "local",
   "spellcheckDictionary": [
     "Integrations"
-  ]
+  ],
+  "legacyEditor": false,
+  "livePreview": true
 }

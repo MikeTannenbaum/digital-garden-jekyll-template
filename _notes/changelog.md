@@ -4,6 +4,15 @@ title: changelog
 > *Tracking the changes across this site, powered by an [[Obsidian Jekyll workflow]]*
 
 - - - -
+### 2022-01-01 — Final system + most utilitarian apps
+- Added
+	- [[my updated system for 2022]]
+	- [[my most utilitarian apps]]
+- Updated
+	- [[my digital ecosystem]]
+	- [[digital ecosystem]]
+	- [[refine ideas over time]]
+
 ### 2021-10-29 — My crypto journey
 - Added
 	- [[my crypto journey]]
@@ -193,12 +202,12 @@ title: changelog
 	- [[How I take smart notes]]
 	- [[Ideas improve by writing about them not by thinking about them]]
 	- [[Finding topics to write about is easier when a body of notes already exists upon which ideas can grow]]
-	- [[refine your ideas over time]]
+	- [[refine ideas over time]]
 
 ### 2020-12-23 — Refine ideas, stack bricks, note updates
 - Added
 	- [[Take notes in your own words while reading, watching, and thinking]]
-	- [[refine your ideas over time]]
+	- [[refine ideas over time]]
 	- [[stack the bricks]]
 	- [[build a body of work]]
 - Updated
