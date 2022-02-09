@@ -63,3 +63,7 @@ Aside from all the custom commands below, I also rely on Alfred for searching my
 `spotify` = Control Spotify [[source](https://github.com/vdesabou/alfred-spotify-mini-player)]
 
 `giphy` = Search giphy [[source](https://github.com/kejadlen/giphy.alfredworkflow)]
+
+`cs` = Search Craft [[source](https://github.com/kudrykv/alfred-craftdocs)]
+
+`cdo` = Craft Daily Note [[source](https://github.com/kudrykv/alfred-craftdocs)]
