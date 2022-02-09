@@ -1,7 +1,7 @@
 ---
 title: A starting point for thinking
 ---
-Hi, I’m Mike! 👋
+Hi, I’m Mike! 👋 
 
 Welcome to The Refined Mind, which is the fancy name I gave to this boring website.
 
