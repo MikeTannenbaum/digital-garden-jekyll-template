@@ -12,7 +12,7 @@ Ideally, one's personal digital ecosystem is designed with intention. In a digit
 
 Here's my ever-improving attempt at documenting [[my digital ecosystem]].
 
-When considering the extent of a digital ecosystem it's worth making note of all the web apps we use on a regular basis—Facebook, Twitter, DuckDuckGo, Amazon, Google, NYTimes, .and so on—along with all the [[digital exhaust]] created via our browsing behaviors. (This makes me wonder how much impact all these tracking services have on energy usage and environmental destruction #to-process)
+When considering the extent of a digital ecosystem it's worth making note of all the web apps we use on a regular basis—Facebook, Twitter, DuckDuckGo, Amazon, Google, NYTimes, .and so on—along with all the [[digital exhaust]] created via our browsing behaviors. (This makes me wonder how much impact all these tracking services have on energy usage and environmental destruction)
 
 The maps of our personal digital ecosystems are vast—unimaginable to their full potential, really. We touch so many websites and services tracking our behaviors and most people know nothing about their existence. And many of the ones who do don't seem to care.
 

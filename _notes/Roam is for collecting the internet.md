@@ -7,13 +7,13 @@ Highlights. Concepts. Knowledge. Wisdom. Text.
 
 Roam is the catch all for words and ideas from around the web. It's a web app so it is sandboxed to the internet, but it is not for processing personal thoughts or wisdom.
 
-Roam is the inbox where I can send anything to and then process later. By using Command Browser on iOS, and integrating with Readwise which integrates with Roam Research, I'm able to grab anything from anywhere on the web—including what I highlight in Instapaper—and have it appear in Roam. By tagging the highlights with `#to-process`, they're delivered straight to Roam for processing according.
+Roam is the inbox where I can send anything to and then process later. By using Command Browser on iOS, and integrating with Readwise which integrates with Roam Research, I'm able to grab anything from anywhere on the web—including what I highlight in Instapaper—and have it appear in Roam. By tagging the highlights with `# to-process`, they're delivered straight to Roam for processing according.
 
 [[Obsidian is for building my body of work]]
 
 [[Craft is my workspace]]
 
-Roam syncs with Readwise which makes it easy to capture highlights from readings, and tag things as #to-process from around the web. It catches whatever I discover on any device and gives me an easy way to dump it all into one place.
+Roam syncs with Readwise which makes it easy to capture highlights from readings, and tag things as # to-process from around the web. It catches whatever I discover on any device and gives me an easy way to dump it all into one place.
 
 From there, everything gets routed to the appropriate tool, most of which go to either Craft or Things:
 - [[Craft is my workspace]]

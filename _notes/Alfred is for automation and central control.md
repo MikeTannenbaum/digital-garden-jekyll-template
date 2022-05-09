@@ -18,7 +18,7 @@ After years of using Alfred for all these, 2021 led to me moving all these expan
 `.r ` = review:<br>
 `.e ` = email:<br>
 `.w ` = write: <br>
-`.tp ` = #to-process <br>
+`.tp ` = # to-process <br>
 `.li ` = https://www.linkedin.com/in/tannenbaum/  <br>
 `.tw ` = https://www.twitter.com/miketnnnbm/  <br>
 `.mt ` = https://www.miketannenbaum.com/  <br>
