@@ -4,6 +4,17 @@ title: changelog
 > *Tracking the changes across this site, powered by an [[Obsidian Jekyll workflow]]*
 
 - - - -
+### 2022-10-15 — Doesn’t matter who we are
+- Added
+	- [[In the end, it doesn’t really matter who we are]]
+
+### 2022-08-20 — Notion ate my tools
+- Updated
+  - [[digital ecosystem]]
+### 2022-05-09 — Minor updates to Shared Digital Space
+- updated
+	- [[Knowledge teams need a shared digital space]]
+
 ### 2022-01-01 — Final system + most utilitarian apps
 - Added
 	- [[my updated system for 2022]]

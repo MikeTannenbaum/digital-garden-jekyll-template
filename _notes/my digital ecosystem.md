@@ -20,11 +20,8 @@ The result of many conversations within this community led me to make note how [
 While this ecosystem is intended to facilitate writing, I've come to learn that [[It’s not a writing system, it’s a thinking system whose byproduct is writing]].
 
 ## Here’s what I’m working with right now
-* [[Craft is my workspace]] for (mostly) private, messy, diverse types of work
-	* Interstitial journaling
-	* Collecting materials from around the internet
-	* Organizing and structuring information and knowledge
-	* Sharing parts of my process in a casual way
+* Notion ate my tools
+* [[Craft is my workspace]] for mostly private, messy, diverse types of work
 * [[Obsidian is for building my body of work]] and tending my [[digital garden]] to [[refine ideas over time]]
 * [[Drafts is for immediate note capture]]
 * [[Things is for getting shit done]]
