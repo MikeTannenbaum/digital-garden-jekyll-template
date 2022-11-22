@@ -4,6 +4,16 @@ title: changelog
 > *Tracking the changes across this site, powered by an [[Obsidian Jekyll workflow]]*
 
 - - - -
+### 2022-11-22 — SYSTEM REVAMP! Again. This time for 2023.
+- Added
+	- [[how I use digital tools]]
+	- [[objectives of my pkm]]
+- Updated
+	- [[my digital ecosystem]] to be Drafts, Obsidian, Notion, Things
+	- [[my updated system for 2023]] (used to be for 2022)
+	- [[what I need in a digital workspace]]
+	- [[evolution of the ecosystem]]
+
 ### 2022-10-15 — Doesn’t matter who we are
 - Added
 	- [[In the end, it doesn’t really matter who we are]]
@@ -11,13 +21,14 @@ title: changelog
 ### 2022-08-20 — Notion ate my tools
 - Updated
   - [[digital ecosystem]]
+
 ### 2022-05-09 — Minor updates to Shared Digital Space
 - updated
 	- [[Knowledge teams need a shared digital space]]
 
 ### 2022-01-01 — Final system + most utilitarian apps
 - Added
-	- [[my updated system for 2022]]
+	- [[my updated system for 2023]]
 	- [[my most utilitarian apps]]
 - Updated
 	- [[my digital ecosystem]]
@@ -67,7 +78,7 @@ title: changelog
 
 ### 2021-06-04 — Craft gets Daily Notes and calendar features
 - Updated
-	- [[Craft is my workspace]]
+	- [[Notion is my workspace]]
 	- [[journey maps are tools not outcomes]]
 
 ### 2021-05-19 — Bitcoin energy usage
@@ -82,7 +93,7 @@ title: changelog
 	- [[I want somewhere to be My Workspace™]]
 	- [[what I need in a digital workspace]]
 	- [[evolution of the ecosystem]]
-	- [[Craft is my workspace]]
+	- [[Notion is my workspace]]
 	- [[Things is for getting shit done]]
 	- [[Roam is for collecting the internet]]
 - Updated
@@ -143,7 +154,7 @@ title: changelog
 - Updated
 	- [[my digital ecosystem]]
 	- [[Why I like Roam over Bear for improving my thinking]]
-	- [[Alfred is for automation and central control]]
+	- [[Raycast is for automation and central control]]
 
 ### 2021-03-05 — Asynchronous work
 - Added
@@ -196,7 +207,7 @@ title: changelog
 - Added products I love to [[Tools for managing information overload and improving how we think are on the rise]]
 - Renamed "How to take smart notes" to "[[How I take smart notes]]" because I can only share what works for me, not what others should do
 - [[Drafts is for immediate note capture]]
-- [[Evernote is for long-term storage]]
+- [[Evernote is no longer for long-term storage]]
 
 ### 2021-01-10 — Rethinking education models
 - Added: [[When you have the world of information available at your fingertips, traditional models of education are rendered obsolete]]
@@ -290,7 +301,7 @@ title: changelog
 - [[It’s tough to live life amid all these circumstances]]
 - Cleaned up and reorganized [[What has my attention now]]
 - [[It feels like there’s a new internet being built with the principle of the early days—sharing and connecting knowledge—but with the wisdom of today, accumulated over decades of improving technology’s capabilities]]
-- Added links to workflows on [[Alfred is for automation and central control]]
+- Added links to workflows on [[Raycast is for automation and central control]]
 
 ### 2020-06-18 — Fixed URLs + newsletter subscription
 - Made permalinks more accessible with hypens instead of spaces
@@ -327,7 +338,7 @@ title: changelog
 * Added more notes
 	* [[Bidirectional links between apps would greatly improve interoperability of concepts and ideas]]
 	* [[my digital ecosystem]]
-	* [[Alfred is for automation and central control]]
+	* [[Raycast is for automation and central control]]
 	* [[Bear is for networked thinking]]
 	* [[How I take smart notes]]
 * Updated footer with changelog link

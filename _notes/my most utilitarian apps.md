@@ -6,7 +6,7 @@ One evening while unable to fall asleep I started making this list. It's probabl
 
 Simplisafe
 Apple Home
-Drafts
+Drafts (game changer)
 Day One
 Things
 Reminders
@@ -14,18 +14,19 @@ Spotify
 Command browser
 Safari
 Brave
-Google Maps
-Evernote
+Firefox
+Apple + Google Maps
+Notion (game changer)
 Obsidian
 Craft
 Cleanshot X
 Hand Mirror
-Alfred
+Raycast (game changer)
 Bartender
-Command E
 Whatsapp
 Telegram
 Signal
 Spark
-Outlook
 Calendar
+Proton VPN
+Fastmail

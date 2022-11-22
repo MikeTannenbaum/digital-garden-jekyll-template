@@ -11,12 +11,12 @@ Roam is the inbox where I can send anything to and then process later. By using 
 
 [[Obsidian is for building my body of work]]
 
-[[Craft is my workspace]]
+[[Notion is my workspace]]
 
 Roam syncs with Readwise which makes it easy to capture highlights from readings, and tag things as # to-process from around the web. It catches whatever I discover on any device and gives me an easy way to dump it all into one place.
 
 From there, everything gets routed to the appropriate tool, most of which go to either Craft or Things:
-- [[Craft is my workspace]]
+- [[Notion is my workspace]]
 - [[Things is for getting shit done]]
 
 

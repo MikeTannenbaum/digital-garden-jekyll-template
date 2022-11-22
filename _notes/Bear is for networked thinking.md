@@ -1,7 +1,7 @@
 ---
 title: Bear is for networked thinking
 ---
-> *This note is part of a small series highlighting [[my digital ecosystem]].*
+> I haven't used Bear in over 2 years
 
 Do not think of Bear as a note taking app. It is so much more.
 

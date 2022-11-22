@@ -1,38 +1,56 @@
 ---
 title: what I need in a digital workspace
 ---
-> As of July 2021 [I've joined the team](https://www.linkedin.com/pulse/my-new-career-adventure-addressing-systems-change-our-mike-tannenbaum/) at [The Recycling Partnership](https://recyclingpartnership.org) as their [Director of Organizational Effectiveness](https://linkedin.com/in/tannenbaum). **Everything you read below is out of date** and applies to my life before joining The Partnership. 
-> 
-> What I'm realizing right now, on Wednesday, August 18, 2021, is that my entire personal [[digital ecosystem]] needs to evolve to meet my new needs. I've been self-employed for ~6 years, working with dozens of teams in dozens of tools, but mostly with my own software stack. Now my personal work is so intertwined with my job's work that I need new ways of working *for myself*. 
-> 
-> Specifically, I need to design a system for both myself and my team, individually as well as in intertwined. As I onboard myself to my new role, and build situational awareness, I'll consistently iterate and refine both systems until I find what works best. [**Subscribe for updates**](https://refinedmind.co/subscribe) if you want to stay up to date! ;)
 
----
-That said, I'm still thinking about this! This is The Refined Mind, after all—a never-ending work-in-progress [[digital garden]]—so let's go!
+### I need a space where I can:
+- Capture and recall what's valuable (ideas, links, etc)
+- Think, process, and progress ideas
+- Manage work, projects, and life operations
 
-I need a space where I can think endlessly and capture what's worthwhile. I also need to be able to send clippings from anything I read: highlights from articles and books, worthwhile tweets, words on the internet I want to capture and queue for review.
+### Another way of defining this is in three areas:
+1. Life Ops
+2. Work Ops
+3. Creative Output
 
-## I have two roles to consider
-1. Personal work + The Refined Mind
-2. The Partnership's Director of Org Effectiveness
+## Key Requirements
+The perfect tool isn't out there for me despite having spent significant time refining [[my digital ecosystem]], so I'm settling on a few key tools with distinct purposes:
+- Effectively manage the macro perspective of my life and projects to ensure priorities, responsibilities, and deadlines are met
+- Consistently produce creative output through a messy-yet-organized working environment and creative process
 
-**These roles are incredibly intertwined and simultaneously hold both similar and unique needs.**
+### I've identified the key needs for what I want in a digital workspace
+I want to immediately see Today's Priority and Tasks, This Week's Priority and Upcoming Tasks, and anything else to keep me on track.
 
-## Key similarities
-1. Both roles are dedicated to designing, implementing, and refining productivity systems
-2. I'm fully invested in creating the best possible outcomes in both of my roles because I fully give a shit about my life, my planet, and my communities, and these two roles are now two sides of the same coin
-3. I lean on technology as much as possible for capture, recall, and automation
+I want [[peripheral cues]] of my digital work to help spark creativity and problem solving, such as artifacts hanging around that trigger my thoughts: sticky notes, scribbled ideas, marked-up books, and all the goodness that a typical analog workspace has.
 
-### From a tech perspective, they both need to offer
+I need to be able to seamlessly send and recall clippings from anything I read: highlights from articles and books, worthwhile tweets, words on the internet I want to capture and queue for review.
+
+> In short, I want to know where to go to find the information I need when I needed it.
+
+A place to store my research as I discover and learn new things.
+
+A place to put all my thoughts, ideas, wisdom, knowledge, practices, resources, notes, conversations, projects, and more.
+
+A place that lets me discover connections between ideas.
+
+A place that helps me generate novel ideas.
+
+A place that holds all of the digital notes I take:
+- Work notes
+- Life notes
+- Fleeting notes
+- Research findings
+- Project documents
+- Daily notes / Interstitial Journal
+
+## Desired Functionality
 - Clarity of use
 - Speed of interaction
 - Extensibility and customization
 - Flexible organization and structure
 - Connectivity of notes and words
-- Excellent mobile experience
+- Seamless mobile experience
 
-## The differences
-### Personal productivity unique needs
+### Personal productivity needs
 [[I want somewhere to be My Workspace™]], and I want that somewhere to have what I consider critical capabilities:
 - Bidirectional links
 - Fast search
@@ -48,24 +66,15 @@ I need a space where I can think endlessly and capture what's worthwhile. I also
 - Easy selection and rearrangement of blocks
 - Collaborative features: comments, easy sharing, multiplayer
 
-*`*` Asterisk represents the capabilities Craft does not have. See below for more detail.*
-
-### Organizational productivity unique needs
-- Transparency
-- Alignment
-- Sharing and Permission Controls
-- Integrations
-- Collaboration and Editing
-
-> Somehow, I need to create *one* digital space for *two* roles
-
 ---
 To meet the needs above I rely on [[my digital ecosystem]], with most of my work being handled by a few specialized tools:
-- [[Craft is my workspace]]
-- [[Things is for getting shit done]]
 - [[Drafts is for immediate note capture]]
 - [[Obsidian is for building my body of work]] and tending this [[digital garden]]
+- [[Notion is my workspace]]
+- [[Things is for getting shit done]]
 
 It's been a fascinating [[evolution of the ecosystem]] and I've learned so much about new tools, including how [[Tools for managing information overload and improving how we think are on the rise]]. 
 
 I do believe [[A knowledge worker’s toolkit needs to be well-rounded]], but tools can also be distracting so it's a fine line to tow. Hopefully I can settle in to my new system and really [[build a body of work]].
+
+It's taken a while to get here so I made some notes on the [[evolution of the ecosystem]].

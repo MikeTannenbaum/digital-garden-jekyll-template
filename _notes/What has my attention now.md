@@ -21,7 +21,7 @@ title: What has my attention now
 	* [[Tools for managing information overload and improving how we think are on the rise]]
 	* [[Take notes in your own words while reading, watching, and thinking]]
 	* [[Obsidian is for building my body of work]]
-	* [[Craft is my workspace]]
+	* [[Notion is my workspace]]
 - [[asynchronous communication is a critical component of the future of work]]
 - [[think in terms of inputs and outputs to design better processes]]
 - [[Sensemaking and wayfinding are critical skills for thriving in 2020 and beyond]]

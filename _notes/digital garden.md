@@ -26,7 +26,7 @@ Seeds need to be germinated properly and many don't root despite best intentions
 
 This process is composed of three specific, purpose-built digital products of choice:
 - [[Drafts is for immediate note capture]]
-- [[Craft is my workspace]]
+- [[Notion is my workspace]]
 - [[Obsidian is for building my body of work]] and tending to my digital garden
 
 Many digital gardens adhere to some basic tenets which help cultivate the digital soil (🤮...😆) in a healthy and effective way:

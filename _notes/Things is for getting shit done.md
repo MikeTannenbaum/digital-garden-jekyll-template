@@ -1,7 +1,7 @@
 ---
 title: Things is for getting shit done
 ---
-While [[Craft is my workspace]], Things is my time management tool. Both are core to [[my digital ecosystem]] and together fulfill [[what I need in a digital workspace]].
+While [[Notion is my workspace]], Things is my time management tool. Both are core to [[my digital ecosystem]] and together fulfill [[what I need in a digital workspace]].
 
 When I'm looking for something to do, Things is what I open.
 

@@ -13,7 +13,7 @@ Similar to craftspeople and their expertise in approaching challenges, experienc
 
 As knowledge workers, we too have collections of tools for various jobs. Our toolkits are made of digital tools, many of which fit specific use cases, though in the 2020's we're increasingly seeing attempts at "one tool fits all" product development. [[Tools for managing information overload and improving how we think are on the rise]], and digital tools and apps have become core to our lives both as knowledge workers and citizens of the digital age.
 
-I recently wrote up [[what I need in a digital workspace]] along with why [[I want somewhere to be My Workspace™]], which are core to informing [[my digital ecosystem]].
+I recently wrote up [[what I need in a digital workspace]], which are core to informing [[my digital ecosystem]].
 
 Sometimes one specific tool is better for a job than another. It all depends on the needs of the use case at hand. Example needs might include:
 - Capturing thoughts
