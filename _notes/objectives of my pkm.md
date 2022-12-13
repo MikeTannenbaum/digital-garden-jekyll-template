@@ -3,7 +3,7 @@ title: objectives of my pkm
 ---
 # Tools, Notes, and Sanity
 
-> #PKM is what I use to build a body of knowledge
+> #on/PKM is what I use to build a body of knowledge
 
 With so many tools available, I've realized that the writing experience of an app is not as much of a priority as I initially thought, when it comes to how I'm now approaching personal knowledge management. There are plenty of apps that make writing beautiful, intuitive, and feature-rich. Instead, I'm after the ability to organize, recall, discover, and work with information in the best ways possible.
 
@@ -28,7 +28,7 @@ It's this realization that guides my current choices for digital tooling.
 	- Internet Discoveries and Bookmarks
 	- Receipts and Product Information
 	- Recipes and Meal Plans
-	- [[mac logs]]
+	- [[changelog-mac]]
 
 - I want a single source of the truth for note taking
 	- Career notes

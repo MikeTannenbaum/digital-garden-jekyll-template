@@ -2,7 +2,7 @@
 title: Notion is my workspace
 ---
 
-Notion is my private, messy workspace full of diverse content and context. It's kind of like my office environment + desk space + digital brain ( #pkm ), as opposed to a polished presentation or creation. It's for everything from idea capture to works in progress to collaborative planning docs and more.
+Notion is my private, messy workspace full of diverse content and context. It's kind of like my office environment + desk space + digital brain ( #on/pkm ), as opposed to a polished presentation or creation. It's for everything from idea capture to works in progress to collaborative planning docs and more.
 
 As my Global Inbox for processing links, thoughts, and ideas, Notion has carved out space as the information management component of my second brain. Almost everything goes through Notion at some point, as it's where I capture websites and resources to explore, make notes on, and file away for future use.
 

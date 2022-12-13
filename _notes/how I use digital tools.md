@@ -3,7 +3,7 @@ title: how I use digital tools
 ---
 > Collecting my use cases so that I know for what I'm designing
 
-## Second Brain / Personal Knowledge Management / #PKM / Tools for Thought
+## Second Brain / Personal Knowledge Management / #on/PKM / Tools for Thought
 ### Whatever it's called, here's how I use it:
 
 - Capture thoughts and write ideas
@@ -17,3 +17,18 @@ title: how I use digital tools
 - Create documents (climate career search, web3)
 - Keep logs of my activity (daily notes, server logs, mac logs)
 - Digital gardening // iterating on existing notes and ideas
+
+## What kind of notes I capture 
+
+| Purpose               | Place             |
+| --------------------- | ----------------- |
+| Tasks + Deadlines     | Things            |
+| Ideas                 | Obsidian          |
+| Insights              | Obsidian          |
+| Fleeting thoughts     | Obsidian          |
+| Things to remember    | Obsidian          |
+| Highlights to process | Obsidian          |
+| Highlights to save    | Obsidian + Notion |
+| Links to remember     | Notion            |
+| Links to explore      | Notion            |
+| Structured resources     | Notion            |                      |                   |

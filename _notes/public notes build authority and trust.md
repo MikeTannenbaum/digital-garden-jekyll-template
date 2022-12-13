@@ -21,7 +21,7 @@ Showcase your thinking and opportunity will find you.<footer> <cite><a href="htt
 <footer>@stackingbricks<cite> <a href="https://stackingthebricks.com/confidence/">https://stackingthebricks.com/confidence/</a></cite></footer>
 </blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
-##  #sparks
+##  sparks
 [[create a market for yourself]]<br>
 [[Show what occupies your mind]]<br>
 [[Show how you connect ideas]]<br>

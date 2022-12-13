@@ -4,6 +4,15 @@ title: changelog
 > *Tracking the changes across this site, powered by an [[Obsidian Jekyll workflow]]*
 
 - - - -
+### 2022-12-13 — The definition of working efficiently
+- Added
+	- [[working efficiently means producing the desired results with minimal wasted effort or resources]]
+- Updated
+	- [[asynchronous communication is a critical component of the future of work]]
+	- [[What has my attention now]]
+	- [[think in terms of inputs and outputs to design better processes]]
+	- [[What has my attention now]]
+	 
 ### 2022-11-22 — SYSTEM REVAMP! Again. This time for 2023.
 - Added
 	- [[how I use digital tools]]

@@ -8,13 +8,15 @@ While Notion has been my daily driver for the last year+ at work and increasingl
 
 Which brings me to what this note is about:
 
-## Organizing how essential information flows between my mind and my digital tooling
+> Organizing how essential information flows between my mind and my digital tooling
 
 ## Here's where I'm at, as of [[Sunday, November 20th, 2022]]
-Notion is practical
-Obsidian is magical
-Drafts is foundational
+- Notion is practical
+- Obsidian is magical
+- Drafts is foundational
 
+# My System for Storing and Accessing Knowledge
+---
 ### Notion — Workspace Organization and Structured Notes
 For organizing information and work over time, such as structured knowledge, internet research, and shareable, collaborative docs
 - Global Inbox to capture any type of input from links to plans to ideas and queue them for processing/tending
@@ -60,14 +62,47 @@ Reminders is for ad hoc things I don't need to see in order to complete — lite
 
 
 
-# The Process for Keeping Things Organized
-## Inboxes are reviewed daily and zeroed out weekly.
 
-**Daily reviews** are to cherrypick the urgent and important items to be prioritized.
 
-**Weekly reviews** are to fully process all inboxes to zero and close all loops
-- Notion
-- Drafts
-- Things
-- Reminders
-- Obsidian
+
+# My Process for Keeping Things Organized
+---
+## Inboxes are reviewed daily and zeroed out weekly
+- **Daily reviews** are to cherrypick the urgent and important items to be prioritized
+- **Weekly reviews** are to fully process all inboxes to zero and close all loops
+	- Drafts
+	- Obsidian
+	- Notion
+	- Things
+	- Reminders
+
+## What I do with these notes — A.R.E.A.
+- ACT
+	- **Purpose:** Task / to do
+	- **Tool:** Things
+- RESEARCH
+	- **Purpose:** Research / to learn
+	- **Tool:** Notion
+- EXPAND
+	- **Purpose:** Thinking / to write
+		- Anything that comes from my brain: notes, ideas, essays, paragraphs, fleeting thoughts, insights, wisdom, knowledge
+	- **Tool:** Obsidian
+- ARCHIVE
+	- **Purpose:** Archive / to save
+	- **Tool:** Notion
+
+## Everything starts in Drafts, then gets routed
+- For ideas to emerge through writing →
+	- Obsidian Inbox
+		- `zz-inbox`
+			- new `.md` files are always created here
+			- needs rigorous maintenance
+		- #to-process
+			- added via read-it-later and highlighting apps
+			- needs relatively frequent and timely processing
+- For things to get done in time →
+	- Things Inbox
+		- tasks, deadlines
+- For knowledge to get organized and archived →
+	- Notion Inbox
+		- links, webpages, resources, files, organizations, anything to research

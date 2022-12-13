@@ -1,7 +1,7 @@
 ---
 title: asynchronous communication is a critical component of the future of work
 ---
-The more I observe organizations struggling to work effectively while distributed the more I realize the future isn’t about “remote work” so much as “asynchronous work.”
+The more I observe organizations struggling to work effectively while distributed the more I realize the future isn’t about “[[remote work]]” so much as “asynchronous work.”
 
 That includes converging and diverging, as obviously there are times when our best work is done together in real-time.
 
@@ -15,7 +15,7 @@ That includes converging and diverging, as obviously there are times when our be
 - Proper tooling and processes
 - Clear and continuously renegotiated boundaries
 
-These skills are increasingly essential for high-performing teams of knowledge workers.
+These skills are increasingly essential for high-performing teams of knowledge workers, where efficiency and effectiveness are (read: should be) top of mind for everyone working as a part of the team. Since [[working efficiently means producing the desired results with minimal wasted effort or resources]], it's imperative to practice and learn how to effectively work efficiently—and asynchronous work enables this.
 
 ## Async work helps you and your teams:
 - Reduce dependency on meetings

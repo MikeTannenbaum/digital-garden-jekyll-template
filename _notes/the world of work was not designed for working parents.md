@@ -1,7 +1,7 @@
 ---
 title: the world of work was not designed for working parents
 ---
-> This was originally written as a [Twitter thread][1]{:target="\_blank"}
+#on/parenting 
 
 The world of work was not designed for working parents.
 

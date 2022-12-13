@@ -3,7 +3,7 @@ title: my digital ecosystem
 ---
 > My most recent thinking is documented as [[my updated system for 2023]]
 
-I have a fascination with systems, networks, and automation. I’m a systems nerd perpetually iterating on my personal systems for writing, working, learning, and managing digital data, files, and knowledge.
+I have a fascination with systems, networks, and automation. I’m a systems nerd perpetually iterating on my personal operations for writing, working, learning, and managing digital data, files, and knowledge.
 
 I also have a passion for everything nature and outdoors. Permaculture, farming, ecosystems, environmentalism—I believe in the connection between humans and the earth, and always find myself thinking about the relationship between entities, wondering about the role each entity might play in connection to a larger system.
 
@@ -30,16 +30,4 @@ Each app serves a discrete and distinguished purpose within my digital ecosystem
 
 > If you would like to setup your own digital garden, I wrote a note on how mine is made through my [[Obsidian Jekyll workflow]].
 
-## 🚧 ⚠️ Rough Terrain Ahead ⚠️ 🚧
-> *🛑  **What's this?** ✍️  This whole note is a work in progress, but the below part is really rough. So why's it here? [[Share ideas before they’re ready]].*
-
-Perhaps I can break it this way:
-- Ideas emerge while writing in Obsidian
-- Work gets done within Notion
-- Ideas are updated (tending the [[digital garden]])
-
-Those are different types of work which lead to different outcomes. Progression of ideas against progression of projects.
-
 [[A knowledge worker’s toolkit needs to be well-rounded]], so I'm OK with it for the time being.
-
-The joy of *only* having to deal with text and nothing more means I can focus 100% on the documentation of my thoughts, without regard for organization.
