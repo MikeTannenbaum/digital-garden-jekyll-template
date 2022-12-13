@@ -74,6 +74,7 @@
 	- [[When you have the world of information available at your fingertips, traditional models of education are rendered obsolete]]
 	- [[Whimsical is for visual thinking]]
 	- [[Why I like Roam over Bear for improving my thinking]]
+	- [[working efficiently means producing the desired results with minimal wasted effort or resources]]
 	- [[Writing is thinking]]
 	- [[Writing themes]]
 	- [[zoom-in-zoom-out thinking]]
