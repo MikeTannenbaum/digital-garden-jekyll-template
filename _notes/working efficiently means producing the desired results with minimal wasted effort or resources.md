@@ -9,7 +9,7 @@ In other words, it means knowing…
 -   How to **make decisions necessary** to move work forward
 -   How to effectively **communicate and collaborate** with team members
 
-It also means we ********************************************************************************trust the systems, processes, and people******************************************************************************** with whom we collaborate daily, as the whole team has agreed to work in the same way with the same behaviors.
+It also means we **trust the systems, processes, and people*** with whom we collaborate daily, as the whole team has agreed to work in the same way with the same behaviors.
 
 It looks like you having more time to do the most meaningful work instead of having to chase down information, sit in endless meetings, and feel paralyzed by activity
 
